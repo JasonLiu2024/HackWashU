@@ -1,0 +1,117 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 386570781,
+        "longitudeE7": -903030592,
+        "placeId": "ChIJS7XKPFQ134cRM0KepShsSnk",
+        "address": "708 Interdrive, University City, MO 63130, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 90.67272,
+        "calibratedProbability": 82.64618
+      },
+      "duration": {
+        "startTimestamp": "2022-09-20T06:54:32.870Z",
+        "endTimestamp": "2022-09-21T05:38:22.936Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 386570379,
+      "centerLngE7": -903030792,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 386570317,
+        "longitudeE7": -902981810,
+        "placeId": "ChIJa6VvP6pK34cR9KeAkxSZCek",
+        "address": "700 Rosedale Ave, St. Louis, MO 63112, USA",
+        "name": "Quadrangle Housing Company",
+        "locationConfidence": 5.137843,
+        "calibratedProbability": 4.6830306
+      }, {
+        "latitudeE7": 386571123,
+        "longitudeE7": -903029220,
+        "placeId": "ChIJEcXcPFQ134cRoSlfsEt5cxo",
+        "address": "714 Interdrive, University City, MO 63130, USA",
+        "locationConfidence": 0.8151104,
+        "calibratedProbability": 0.7429551
+      }, {
+        "latitudeE7": 386571348,
+        "longitudeE7": -903029198,
+        "placeId": "ChIJhcraPFQ134cRDfW6pUfsZ14",
+        "address": "716 Interdrive, University City, MO 63130, USA",
+        "locationConfidence": 0.6693054,
+        "calibratedProbability": 0.61005706
+      }, {
+        "latitudeE7": 386570930,
+        "longitudeE7": -903047256,
+        "placeId": "ChIJaSao-lM134cRcGfAyqWEiC0",
+        "address": "701 Westgate Ave, St. Louis, MO 63130, USA",
+        "name": "Parkview Place Apartments",
+        "locationConfidence": 0.33116916,
+        "calibratedProbability": 0.30185336
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 386570781,
+        "longitudeE7": -903030592,
+        "placeId": "ChIJS7XKPFQ134cRM0KepShsSnk",
+        "address": "708 Interdrive, University City, MO 63130, USA",
+        "sourceInfo": {
+          "deviceTag": 1131852574
+        },
+        "locationConfidence": 88.36246,
+        "calibratedProbability": 80.23172
+      },
+      "duration": {
+        "startTimestamp": "2022-09-22T05:51:25.667Z",
+        "endTimestamp": "2022-09-25T17:45:34.812Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 386570391,
+      "centerLngE7": -903030682,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 386570317,
+        "longitudeE7": -902981810,
+        "placeId": "ChIJa6VvP6pK34cR9KeAkxSZCek",
+        "address": "700 Rosedale Ave, St. Louis, MO 63112, USA",
+        "name": "Quadrangle Housing Company",
+        "locationConfidence": 6.037747,
+        "calibratedProbability": 5.482179
+      }, {
+        "latitudeE7": 386571123,
+        "longitudeE7": -903029220,
+        "placeId": "ChIJEcXcPFQ134cRoSlfsEt5cxo",
+        "address": "714 Interdrive, University City, MO 63130, USA",
+        "locationConfidence": 1.125708,
+        "calibratedProbability": 1.0221251
+      }, {
+        "latitudeE7": 386571348,
+        "longitudeE7": -903029198,
+        "placeId": "ChIJhcraPFQ134cRDfW6pUfsZ14",
+        "address": "716 Interdrive, University City, MO 63130, USA",
+        "locationConfidence": 1.0694176,
+        "calibratedProbability": 0.9710144
+      }, {
+        "latitudeE7": 386570930,
+        "longitudeE7": -903047256,
+        "placeId": "ChIJaSao-lM134cRcGfAyqWEiC0",
+        "address": "701 Westgate Ave, St. Louis, MO 63130, USA",
+        "name": "Parkview Place Apartments",
+        "locationConfidence": 0.23916969,
+        "calibratedProbability": 0.21716231
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

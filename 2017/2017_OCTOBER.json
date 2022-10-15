@@ -1,0 +1,1078 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373227392,
+        "longitudeE7": -1220412750
+      },
+      "endLocation": {
+        "latitudeE7": 372975265,
+        "longitudeE7": -1220096006
+      },
+      "duration": {
+        "startTimestamp": "2017-10-05T00:46:32Z",
+        "endTimestamp": "2017-10-05T01:09:07Z"
+      },
+      "distance": 4863,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 84.81200832519514
+      }, {
+        "activityType": "CYCLING",
+        "probability": 6.220001673795051
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.222701731038945
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373228034,
+          "lngE7": -1220412750
+        }, {
+          "latE7": 373228569,
+          "lngE7": -1220237503
+        }, {
+          "latE7": 372975196,
+          "lngE7": -1220094451
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 373227665,
+          "lngE7": -1220237504,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-05T00:53:07.991Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 372975922,
+        "longitudeE7": -1220096207,
+        "placeId": "ChIJzbjIHUS1j4ARdOFs3VN79oM",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 38.9848
+      },
+      "duration": {
+        "startTimestamp": "2017-10-05T01:09:07Z",
+        "endTimestamp": "2017-10-05T13:52:31.051Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 372975420,
+      "centerLngE7": -1220095800,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 372975651,
+        "longitudeE7": -1220097532,
+        "placeId": "ChIJq2VHHES1j4ARNJjvLYaMHR8",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "name": "Shah Peerally Law Group Loan Modification Attorneys",
+        "locationConfidence": 29.928947
+      }, {
+        "latitudeE7": 372975801,
+        "longitudeE7": -1220097322,
+        "placeId": "ChIJv93LHUS1j4ARn-ZPt-6Srfg",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "name": "Shah Peerally Bankruptcy Lawyer Credit Counseling \u0026 Repair Debt Help \u0026 Reduction",
+        "locationConfidence": 26.015556
+      }, {
+        "latitudeE7": 373010068,
+        "longitudeE7": -1220080810,
+        "placeId": "ChIJPeZUsUO1j4ARBSSrYS-quQk",
+        "address": "Rainbow Drive \u0026, Donington Dr, San Jose, CA 95129, USA",
+        "name": "Rainbow Park",
+        "locationConfidence": 2.3581762
+      }, {
+        "latitudeE7": 372997035,
+        "longitudeE7": -1220034690,
+        "placeId": "ChIJ49n1O0O1j4AREDw8iHZil3w",
+        "address": "1280 Johnson Ave, San Jose, CA 95129, USA",
+        "name": "Lynbrook High School",
+        "locationConfidence": 2.1527958
+      }, {
+        "latitudeE7": 372982840,
+        "longitudeE7": -1220074330,
+        "placeId": "ChIJ29VsZES1j4ARc0r0iuyYDX8",
+        "address": "5855 Royal Ann Dr, San Jose, CA 95129, USA",
+        "name": "WholeKids Montessori Home School",
+        "locationConfidence": 0.14671157
+      }, {
+        "latitudeE7": 372969415,
+        "longitudeE7": -1220066867,
+        "placeId": "ChIJJfcBAkW1j4ARSlOyn-M7K6Y",
+        "name": "The Back Door",
+        "locationConfidence": 0.09980159
+      }, {
+        "latitudeE7": 372984959,
+        "longitudeE7": -1220076087,
+        "placeId": "ChIJr0pwcES1j4ARBuatUh2WcTY",
+        "name": "CW",
+        "locationConfidence": 0.095061556
+      }, {
+        "latitudeE7": 372970650,
+        "longitudeE7": -1220076160,
+        "placeId": "ChIJlaKwUUS1j4AR9Im-WtkBIR4",
+        "address": "1447 Johnson Ave, San Jose, CA 95129, USA",
+        "name": "Turquoise Travel",
+        "locationConfidence": 0.092629336
+      }, {
+        "latitudeE7": 372964320,
+        "longitudeE7": -1220080750,
+        "placeId": "ChIJhYxgs0W1j4ARQzALeGN3feg",
+        "address": "1472 Pine Grove Way, San Jose, CA 95129, USA",
+        "name": "Bonanno Gary",
+        "locationConfidence": 0.08115515
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 30,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 372975795,
+        "longitudeE7": -1220094891
+      },
+      "endLocation": {
+        "latitudeE7": 373195396,
+        "longitudeE7": -1220450548
+      },
+      "duration": {
+        "startTimestamp": "2017-10-05T13:52:31.051Z",
+        "endTimestamp": "2017-10-05T14:07:46.934Z"
+      },
+      "distance": 4823,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 92.46547387412906
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.024540297711519
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.6365375098064512
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 372975769,
+          "lngE7": -1220094451
+        }, {
+          "latE7": 373007507,
+          "lngE7": -1220271682
+        }, {
+          "latE7": 373087921,
+          "lngE7": -1220412216
+        }, {
+          "latE7": 373195343,
+          "lngE7": -1220450515
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 373008023,
+          "lngE7": -1220271326,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-05T13:56:22Z"
+        }, {
+          "latE7": 373087793,
+          "lngE7": -1220412374,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-05T14:01:34.999Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373195396,
+          "longitudeE7": -1220450548
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-10-05T14:07:46.934Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373195396,
+        "longitudeE7": -1220450548,
+        "placeId": "ChIJf3DZH060j4AREhWfvYVcD1Y",
+        "address": "21250 Stevens Creek Boulevard, Cupertino, California 95014, United States",
+        "name": "De Anza College",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 99.92026,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-10-05T14:07:46.934Z",
+        "endTimestamp": "2017-10-06T04:11:23.406Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 373224606,
+          "longitudeE7": -1220444707,
+          "placeId": "ChIJ9zqADk60j4ARNfTVoYzHi-I",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "De Anza College Transit Center",
+          "sourceInfo": {
+            "deviceTag": -558285284
+          },
+          "locationConfidence": 67.67883
+        },
+        "duration": {
+          "startTimestamp": "2017-10-05T18:53:53.262Z",
+          "endTimestamp": "2017-10-05T19:04:03Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 373214440,
+        "centerLngE7": -1220448500,
+        "visitConfidence": 84,
+        "otherCandidateLocations": [{
+          "latitudeE7": 373209478,
+          "longitudeE7": -1220434083,
+          "placeId": "ChIJHbDcglG0j4AR2YZ-Hk79cYQ",
+          "address": "Parking Lot B, 21250 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "De Anza College Flea Market",
+          "locationConfidence": 7.1616597,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 373216230,
+          "longitudeE7": -1220447979,
+          "placeId": "ChIJ87AbHU60j4ARNSR4jshCAIE",
+          "address": "21250 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "Registration \u0026 Student Services Building",
+          "locationConfidence": 6.6414046,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 373222574,
+          "longitudeE7": -1220416951,
+          "placeId": "ChIJD8R8eVK0j4AR3VnsdhkHD04",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stelling \u0026 Stevens Creek (FS)",
+          "locationConfidence": 5.3027596
+        }, {
+          "latitudeE7": 373216420,
+          "longitudeE7": -1220448980,
+          "placeId": "ChIJTehRHE60j4AROvt8R3MSgkA",
+          "address": "21250 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "De Anza Extended Year",
+          "locationConfidence": 1.7719231,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 373208160,
+          "longitudeE7": -1220455674,
+          "placeId": "ChIJIcin3VG0j4ARPj2g7Hv8vFQ",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Hinson Campus Center",
+          "locationConfidence": 1.1775663
+        }, {
+          "latitudeE7": 373238417,
+          "longitudeE7": -1220447373,
+          "placeId": "ChIJM4B-bk60j4ARH6rQJUdCiXY",
+          "address": "21121 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "Cupertino Memorial Park",
+          "locationConfidence": 0.87323236
+        }, {
+          "latitudeE7": 373208224,
+          "longitudeE7": -1220453642,
+          "placeId": "ChIJHbDcglG0j4ARUj1CGcM7C_c",
+          "name": "Una Mas Mexican Grill",
+          "locationConfidence": 0.7646878
+        }, {
+          "latitudeE7": 373227438,
+          "longitudeE7": -1220454658,
+          "placeId": "ChIJI3nsQU60j4ARiBtamSck61M",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stevens Creek \u0026 Mary",
+          "locationConfidence": 0.45628357,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 373210595,
+          "longitudeE7": -1220447511,
+          "placeId": "ChIJf3DZH060j4AREhWfvYVcD1Y",
+          "address": "21250 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "De Anza College Advanced Technology Center",
+          "locationConfidence": 0.3792661
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 51,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 373209478,
+          "longitudeE7": -1220434083,
+          "placeId": "ChIJHbDcglG0j4AR2YZ-Hk79cYQ",
+          "address": "21250 Stevens Creek Blvd, Cupertino, California 95014, United States",
+          "name": "De Anza College Flea Market",
+          "sourceInfo": {
+            "deviceTag": -558285284
+          },
+          "locationConfidence": 43.840244,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-10-06T04:05:42.456Z",
+          "endTimestamp": "2017-10-06T04:11:23.406Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 373210833,
+        "centerLngE7": -1220434367,
+        "visitConfidence": 94,
+        "otherCandidateLocations": [{
+          "latitudeE7": 373222574,
+          "longitudeE7": -1220416951,
+          "placeId": "ChIJD8R8eVK0j4AR3VnsdhkHD04",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stelling \u0026 Stevens Creek (FS)",
+          "locationConfidence": 32.285793
+        }, {
+          "latitudeE7": 373224606,
+          "longitudeE7": -1220444707,
+          "placeId": "ChIJ9zqADk60j4ARNfTVoYzHi-I",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "De Anza College Transit Center",
+          "locationConfidence": 6.5873146
+        }, {
+          "latitudeE7": 373191633,
+          "longitudeE7": -1220415611,
+          "placeId": "ChIJ-Qb1o1O0j4ARVSKD2T03Dk0",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stelling \u0026 Pepper Tree",
+          "locationConfidence": 2.4398541,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 373217584,
+          "longitudeE7": -1220436709,
+          "placeId": "ChIJcwzHAFK0j4ARH7QqPbweXj8",
+          "address": "21250 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "De Anza Visual and Performing Arts Center",
+          "locationConfidence": 1.0112964
+        }, {
+          "latitudeE7": 373225263,
+          "longitudeE7": -1220412773,
+          "placeId": "ChIJeUpegFK0j4AR09BDIcKQYa0",
+          "address": "21000 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "Panda Express",
+          "locationConfidence": 0.4929333
+        }, {
+          "latitudeE7": 373238417,
+          "longitudeE7": -1220447373,
+          "placeId": "ChIJM4B-bk60j4ARH6rQJUdCiXY",
+          "address": "21121 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "Cupertino Memorial Park",
+          "locationConfidence": 0.42447937
+        }, {
+          "latitudeE7": 373232180,
+          "longitudeE7": -1220410061,
+          "placeId": "ChIJ4-mKd020j4ARURxOQn-XVaY",
+          "address": "20999 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+          "name": "Shell",
+          "locationConfidence": 0.4128618
+        }, {
+          "latitudeE7": 373227108,
+          "longitudeE7": -1220410037,
+          "placeId": "ChIJ-781fk20j4AR3kRicwsi_HA",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stevens Creek \u0026 Stelling",
+          "locationConfidence": 0.32669494
+        }, {
+          "latitudeE7": 373230883,
+          "longitudeE7": -1220422355,
+          "placeId": "ChIJDxzJk020j4ARtGivLLUEDUw",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stevens Creek \u0026 Stelling",
+          "locationConfidence": 0.31170964
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 34,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 373203759,
+      "centerLngE7": -1220463709,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373191633,
+        "longitudeE7": -1220415611,
+        "placeId": "ChIJ-Qb1o1O0j4ARVSKD2T03Dk0",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Stelling \u0026 Pepper Tree",
+        "locationConfidence": 0.027989285,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 373177508,
+        "longitudeE7": -1220491008,
+        "placeId": "ChIJd-6DeFC0j4ARKpngObFc6rQ",
+        "address": "10340 Bubb Rd, Cupertino, CA 95014, USA",
+        "name": "The Home of Christ Church in Cupertino",
+        "locationConfidence": 0.0108389035
+      }, {
+        "latitudeE7": 373187090,
+        "longitudeE7": -1220504910,
+        "placeId": "ChIJL1wbvVq0j4AR1GlFUaoHkZI",
+        "address": "10261 Bubb Rd, Cupertino, CA 95014, USA",
+        "locationConfidence": 0.010640447
+      }, {
+        "latitudeE7": 373238560,
+        "longitudeE7": -1220492870,
+        "placeId": "ChIJHcDmDk-0j4ARIYZrBk0DK7g",
+        "address": "21121 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "West Coast Farmers Market",
+        "locationConfidence": 0.008919775
+      }, {
+        "latitudeE7": 373187856,
+        "longitudeE7": -1220497795,
+        "placeId": "ChIJkwqGclq0j4ARIdl_G5wFFJ0",
+        "address": "DURECT, 10260 Bubb Rd, Cupertino, CA 95014, USA",
+        "name": "DURECT Corporation",
+        "locationConfidence": 0.007243089
+      }, {
+        "latitudeE7": 373177508,
+        "longitudeE7": -1220491008,
+        "placeId": "ChIJPYmch1C0j4ARDNdS-igPfDs",
+        "address": "10340 Bubb Rd, Cupertino, CA 95014, USA",
+        "name": "Home Of Christ Chinese School",
+        "locationConfidence": 0.0038615467
+      }, {
+        "latitudeE7": 373187838,
+        "longitudeE7": -1220495633,
+        "placeId": "ChIJ__8_dVC0j4ARs3gNm7DgDOk",
+        "address": "DURECT, 10260 Bubb Rd, Cupertino, CA 95014, USA",
+        "name": "ALZET",
+        "locationConfidence": 0.00323301
+      }, {
+        "latitudeE7": 373203852,
+        "longitudeE7": -1220503947,
+        "placeId": "ChIJbfHkUUW0j4ART5EWQAChmVU",
+        "address": "10130 Bubb Rd, Cupertino, CA 95014, USA",
+        "name": "Caltrans Maintenance Station",
+        "locationConfidence": 0.0026072501
+      }, {
+        "latitudeE7": 373168106,
+        "longitudeE7": -1220483970,
+        "placeId": "ChIJWdlxSFe0j4ARecNm0Ssbouw",
+        "address": "7934 McClellan Rd, Cupertino, CA 95014, USA",
+        "locationConfidence": 0.0016909795
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373210813,
+        "longitudeE7": -1220433811
+      },
+      "endLocation": {
+        "latitudeE7": 373096032,
+        "longitudeE7": -1220119212
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T04:11:23.406Z",
+        "endTimestamp": "2017-10-06T04:18:21.089Z"
+      },
+      "distance": 3331,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 90.66493494799698
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 6.845973683115986
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.113687084523271
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373210868,
+          "lngE7": -1220433807
+        }, {
+          "latE7": 373096542,
+          "lngE7": -1220121307
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373096032,
+          "longitudeE7": -1220119212
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-10-06T04:18:21.089Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373096501,
+        "longitudeE7": -1220117864,
+        "placeId": "ChIJWZJcTGy1j4ARO9-kTkadFRA",
+        "address": "6150 Bollinger Road, San Jose, California 95129-3068, United States",
+        "name": "Safeway",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 92.434006,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T04:18:21.089Z",
+        "endTimestamp": "2017-10-06T04:31:58.222Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 373098440,
+      "centerLngE7": -1220120260,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373103726,
+        "longitudeE7": -1220117439,
+        "placeId": "ChIJDyO3sG21j4AR-YUoe3j7O1A",
+        "address": "Cupertino, CA 95129, USA",
+        "name": "Bollinger \u0026 Miller",
+        "locationConfidence": 3.2315648
+      }, {
+        "latitudeE7": 373104340,
+        "longitudeE7": -1220143580,
+        "placeId": "ChIJ0W9UQG21j4ARTVOh-I8xhSs",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Bollinger \u0026 Miller",
+        "locationConfidence": 3.0359666
+      }, {
+        "latitudeE7": 373091455,
+        "longitudeE7": -1220120808,
+        "placeId": "ChIJM2ZD0W21j4AROTebEICll5A",
+        "address": "6138 Bollinger Rd, San Jose, CA 95129, USA",
+        "name": "Cicero\u0027s Pizza",
+        "locationConfidence": 0.28165653
+      }, {
+        "latitudeE7": 373087114,
+        "longitudeE7": -1220126041,
+        "placeId": "ChIJl-quum21j4ARHNh3FZvPWiI",
+        "address": "6158 Bollinger Rd, San Jose, CA 95129, USA",
+        "name": "TeaTop",
+        "locationConfidence": 0.19246764
+      }, {
+        "latitudeE7": 373099826,
+        "longitudeE7": -1220118860,
+        "placeId": "ChIJP15Dsm21j4ARTMfnJf_MpQ0",
+        "address": "at Safeway, 6150 Bollinger Rd, San Jose, CA 95129, USA",
+        "name": "Amazon Locker - Tragus",
+        "locationConfidence": 0.15717462,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 373095096,
+        "longitudeE7": -1220133769,
+        "placeId": "ChIJZ3hIA221j4ARAmBudlmi_xU",
+        "address": "1012 Miller Ave, San Jose, CA 95129, USA",
+        "name": "IHOP",
+        "locationConfidence": 0.09354138,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 373100370,
+        "longitudeE7": -1220131490,
+        "placeId": "ChIJw-f0BW21j4ARJ2IgjbcxkEw",
+        "address": "1000 Miller Ave, San Jose, CA 95129, USA",
+        "name": "Chase Bank",
+        "locationConfidence": 0.0930976
+      }, {
+        "latitudeE7": 373097087,
+        "longitudeE7": -1220135471,
+        "placeId": "ChIJ5dx3G221j4ARiILMVbm36zs",
+        "address": "San Jose, CA 95129, USA",
+        "name": "Miller \u0026 Bollinger",
+        "locationConfidence": 0.06548599
+      }, {
+        "latitudeE7": 373092733,
+        "longitudeE7": -1220120667,
+        "placeId": "ChIJV280UGy1j4ARKsAfmaC2zQs",
+        "address": "6132 Bollinger Rd, San Jose, CA 95129, USA",
+        "name": "Jenny\u0027s Dollar Store",
+        "locationConfidence": 0.04763161,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 78,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373096501,
+        "longitudeE7": -1220117864
+      },
+      "endLocation": {
+        "latitudeE7": 372975922,
+        "longitudeE7": -1220096207
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T04:31:58.222Z",
+        "endTimestamp": "2017-10-06T04:37:01.929Z"
+      },
+      "distance": 1615,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 98.54204253170482
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.5964637748303031
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.3517918315652172
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373097267,
+          "lngE7": -1220121002
+        }, {
+          "latE7": 372975807,
+          "lngE7": -1220094375
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 372975922,
+          "longitudeE7": -1220096207
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-10-06T04:37:01.929Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 372975922,
+        "longitudeE7": -1220096207,
+        "placeId": "ChIJzbjIHUS1j4ARdOFs3VN79oM",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 58.779495
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T04:37:01.929Z",
+        "endTimestamp": "2017-10-06T14:05:05.651Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 372975333,
+      "centerLngE7": -1220094400,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 372975651,
+        "longitudeE7": -1220097532,
+        "placeId": "ChIJq2VHHES1j4ARNJjvLYaMHR8",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "name": "Shah Peerally Law Group Loan Modification Attorneys",
+        "locationConfidence": 16.244602
+      }, {
+        "latitudeE7": 372975801,
+        "longitudeE7": -1220097322,
+        "placeId": "ChIJv93LHUS1j4ARn-ZPt-6Srfg",
+        "address": "1439 Tartarian Way, San Jose, CA 95129, USA",
+        "name": "Shah Peerally Bankruptcy Lawyer Credit Counseling \u0026 Repair Debt Help \u0026 Reduction",
+        "locationConfidence": 16.003939
+      }, {
+        "latitudeE7": 373010068,
+        "longitudeE7": -1220080810,
+        "placeId": "ChIJPeZUsUO1j4ARBSSrYS-quQk",
+        "address": "Rainbow Drive \u0026, Donington Dr, San Jose, CA 95129, USA",
+        "name": "Rainbow Park",
+        "locationConfidence": 4.207362
+      }, {
+        "latitudeE7": 372997035,
+        "longitudeE7": -1220034690,
+        "placeId": "ChIJ49n1O0O1j4AREDw8iHZil3w",
+        "address": "1280 Johnson Ave, San Jose, CA 95129, USA",
+        "name": "Lynbrook High School",
+        "locationConfidence": 4.065984
+      }, {
+        "latitudeE7": 372982840,
+        "longitudeE7": -1220074330,
+        "placeId": "ChIJ29VsZES1j4ARc0r0iuyYDX8",
+        "address": "5855 Royal Ann Dr, San Jose, CA 95129, USA",
+        "name": "WholeKids Montessori Home School",
+        "locationConfidence": 0.1797524
+      }, {
+        "latitudeE7": 372969415,
+        "longitudeE7": -1220066867,
+        "placeId": "ChIJJfcBAkW1j4ARSlOyn-M7K6Y",
+        "name": "The Back Door",
+        "locationConfidence": 0.13652913
+      }, {
+        "latitudeE7": 372984959,
+        "longitudeE7": -1220076087,
+        "placeId": "ChIJr0pwcES1j4ARBuatUh2WcTY",
+        "name": "CW",
+        "locationConfidence": 0.12629025
+      }, {
+        "latitudeE7": 372970650,
+        "longitudeE7": -1220076160,
+        "placeId": "ChIJlaKwUUS1j4AR9Im-WtkBIR4",
+        "address": "1447 Johnson Ave, San Jose, CA 95129, USA",
+        "name": "Turquoise Travel",
+        "locationConfidence": 0.10718058
+      }, {
+        "latitudeE7": 372964320,
+        "longitudeE7": -1220080750,
+        "placeId": "ChIJhYxgs0W1j4ARQzALeGN3feg",
+        "address": "1472 Pine Grove Way, San Jose, CA 95129, USA",
+        "name": "Bonanno Gary",
+        "locationConfidence": 0.09798252
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 372976081,
+        "longitudeE7": -1220095261
+      },
+      "endLocation": {
+        "latitudeE7": 373209437,
+        "longitudeE7": -1220478071
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T14:05:05.651Z",
+        "endTimestamp": "2017-10-06T14:20:39.978Z"
+      },
+      "distance": 4925,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 91.36903577230962
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.087962305692753
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.8256876483342728
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 372976036,
+          "lngE7": -1220094375
+        }, {
+          "latE7": 373102989,
+          "lngE7": -1220146331
+        }, {
+          "latE7": 373210411,
+          "lngE7": -1220478363
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 373102947,
+          "lngE7": -1220146294,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T14:08:42.809Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373209437,
+          "longitudeE7": -1220478071
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-10-06T14:20:39.978Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373195396,
+        "longitudeE7": -1220450548,
+        "placeId": "ChIJf3DZH060j4AREhWfvYVcD1Y",
+        "address": "21250 Stevens Creek Boulevard, Cupertino, California 95014, United States",
+        "name": "De Anza College",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 93.76582,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T14:20:39.978Z",
+        "endTimestamp": "2017-10-06T20:22:32.660Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 373200376,
+      "centerLngE7": -1220471106,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373205757,
+        "longitudeE7": -1220461960,
+        "placeId": "ChIJZReC0lG0j4ARSjAxZO8sb3s",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "De Anza College Library",
+        "locationConfidence": 4.911999
+      }, {
+        "latitudeE7": 373191633,
+        "longitudeE7": -1220415611,
+        "placeId": "ChIJ-Qb1o1O0j4ARVSKD2T03Dk0",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Stelling \u0026 Pepper Tree",
+        "locationConfidence": 0.59610254,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 373238417,
+        "longitudeE7": -1220447373,
+        "placeId": "ChIJM4B-bk60j4ARH6rQJUdCiXY",
+        "address": "21121 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "Cupertino Memorial Park",
+        "locationConfidence": 0.20628177
+      }, {
+        "latitudeE7": 373233367,
+        "longitudeE7": -1220476036,
+        "placeId": "ChIJ9-5MCU-0j4ARUVVHeqrXNrM",
+        "address": "21267 Stevens Creek Blvd #310, Cupertino, CA 95014, USA",
+        "name": "Hobee\u0027s",
+        "locationConfidence": 0.06406471
+      }, {
+        "latitudeE7": 373238432,
+        "longitudeE7": -1220486278,
+        "placeId": "ChIJi-PFZ0-0j4ARS0rra5II6V4",
+        "address": "21275 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "Bluelight Cinemas",
+        "locationConfidence": 0.048557367
+      }, {
+        "latitudeE7": 373232534,
+        "longitudeE7": -1220472417,
+        "placeId": "ChIJD8fWBk-0j4ARYrle-7ZY9zo",
+        "address": "21265 Stevens Creek Blvd #201, Cupertino, CA 95014, USA",
+        "name": "Jamba Juice",
+        "locationConfidence": 0.033072937
+      }, {
+        "latitudeE7": 373238560,
+        "longitudeE7": -1220492870,
+        "placeId": "ChIJHcDmDk-0j4ARIYZrBk0DK7g",
+        "address": "21121 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "West Coast Farmers Market",
+        "locationConfidence": 0.030768443
+      }, {
+        "latitudeE7": 373238620,
+        "longitudeE7": -1220477760,
+        "placeId": "ChIJwXeXaU-0j4ARjFWD4oH_m1o",
+        "address": "21269 Stevens Creek Blvd #620, Cupertino, CA 95014, USA",
+        "name": "ELS Language Centers - Silicon Valley",
+        "locationConfidence": 0.026838407
+      }, {
+        "latitudeE7": 373233870,
+        "longitudeE7": -1220473131,
+        "placeId": "ChIJD8fWBk-0j4ARxcxOKIPPHy0",
+        "address": "21265 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "Art Creation Ludlow LLC",
+        "locationConfidence": 0.026538426
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373195396,
+        "longitudeE7": -1220450548,
+        "placeId": "ChIJf3DZH060j4AREhWfvYVcD1Y",
+        "address": "21250 Stevens Creek Boulevard, Cupertino, California 95014, United States",
+        "name": "De Anza College",
+        "sourceInfo": {
+          "deviceTag": -558285284
+        },
+        "locationConfidence": 93.76582,
+        "isCurrentLocation": true
+      },
+      "endLocation": {
+        "latitudeE7": 373228089,
+        "longitudeE7": -1220137165
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T20:22:32.660Z",
+        "endTimestamp": "2017-10-06T20:41:13.350Z"
+      },
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 50.40454907338508
+      }, {
+        "activityType": "CYCLING",
+        "probability": 20.23459515846534
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.524548028146729
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 373221703,
+          "longitudeE7": -1220416199,
+          "placeId": "ChIJD8R8eVK0j4AR3VnsdhkHD04",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stelling \u0026 Stevens Creek (FS)"
+        }, {
+          "latitudeE7": 373228089,
+          "longitudeE7": -1220137165,
+          "placeId": "ChIJt__uu5-1j4ARwWTQCiKxVF0",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Stevens Creek \u0026 Miller"
+        }],
+        "name": "323",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJxQdJo_HKj4ARM4hOgRrccVU",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 373203601,
+          "lngE7": -1220466354,
+          "accuracyMeters": 65,
+          "timestamp": "2017-10-06T20:21:43.718Z"
+        }, {
+          "latE7": 373193931,
+          "lngE7": -1220466303,
+          "accuracyMeters": 59,
+          "timestamp": "2017-10-06T20:22:32.660Z"
+        }, {
+          "latE7": 373207126,
+          "lngE7": -1220448760,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:24:30.003Z"
+        }, {
+          "latE7": 373228360,
+          "lngE7": -1220421266,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:29:14.698Z"
+        }, {
+          "latE7": 373193473,
+          "lngE7": -1220414823,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:35:17.940Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4036.745337197633
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373220296,
+        "longitudeE7": -1220143222
+      },
+      "endLocation": {
+        "latitudeE7": 372932899,
+        "longitudeE7": -1220106231
+      },
+      "duration": {
+        "startTimestamp": "2017-10-06T20:41:13.350Z",
+        "endTimestamp": "2017-10-06T21:10:27.800Z"
+      },
+      "distance": 3609,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 50.40454907338508
+      }, {
+        "activityType": "CYCLING",
+        "probability": 20.23459515846534
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.524548028146729
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 373220296,
+          "longitudeE7": -1220143222,
+          "placeId": "ChIJB0DM65-1j4ARzvL2eAZFnvs",
+          "address": "Cupertino, CA 95014, USA",
+          "name": "Miller \u0026 Richwood"
+        }, {
+          "latitudeE7": 372932899,
+          "longitudeE7": -1220106231,
+          "placeId": "ChIJl3Hvp0i1j4ARiSwndK0JBzs",
+          "address": "West San Jose, CA 95070, USA",
+          "name": "Prospect \u0026 Provincetown"
+        }],
+        "name": "26",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJhdk93HPLj4ARac21Yn7ZmBo",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 373167515,
+          "lngE7": -1220415038,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:42:13.941Z"
+        }, {
+          "latE7": 373151915,
+          "lngE7": -1220323288,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:44:38.935Z"
+        }, {
+          "latE7": 373101256,
+          "lngE7": -1220238838,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:47:50.999Z"
+        }, {
+          "latE7": 373091633,
+          "lngE7": -1220123164,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T20:52:08.915Z"
+        }, {
+          "latE7": 373081540,
+          "lngE7": -1220138642,
+          "accuracyMeters": 5,
+          "timestamp": "2017-10-06T20:55:02.934Z"
+        }, {
+          "latE7": 373012141,
+          "lngE7": -1220130969,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T21:03:06.079Z"
+        }, {
+          "latE7": 372988794,
+          "lngE7": -1220104228,
+          "accuracyMeters": 10,
+          "timestamp": "2017-10-06T21:08:00.967Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 7192.744480820383
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}

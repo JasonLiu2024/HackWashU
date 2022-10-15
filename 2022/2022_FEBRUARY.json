@@ -1,0 +1,1509 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894943,
+        "longitudeE7": 1163304138,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 40.56246,
+        "calibratedProbability": 75.10562
+      },
+      "duration": {
+        "startTimestamp": "2022-02-05T03:07:08.449Z",
+        "endTimestamp": "2022-02-06T05:23:13.033Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399886489,
+      "centerLngE7": 1163302278,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399890990,
+        "longitudeE7": 1163305260,
+        "placeId": "ChIJ3Sk49wNU8DURSuAoNkpmwC0",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "低温研究中心",
+        "locationConfidence": 1.0344974,
+        "calibratedProbability": 1.9154795
+      }, {
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 0.95024204,
+        "calibratedProbability": 1.759472
+      }, {
+        "latitudeE7": 399882960,
+        "longitudeE7": 1163300300,
+        "placeId": "ChIJx5zRWAFU8DURce3UXVE8sGs",
+        "address": "中国北京市海淀区中关村北一条1 邮政编码: 100190",
+        "name": "中国地震局工程力学所北京强震观测中心",
+        "locationConfidence": 0.64021194,
+        "calibratedProbability": 1.1854191
+      }, {
+        "latitudeE7": 399858600,
+        "longitudeE7": 1163293440,
+        "placeId": "ChIJdRSC5wBU8DURbJ5ceKonCiw",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "Zhongguancun station",
+        "locationConfidence": 0.5704064,
+        "calibratedProbability": 1.0561668
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.46292752,
+        "calibratedProbability": 0.8571585
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894753,
+        "longitudeE7": 1163303909,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 42.411877,
+        "calibratedProbability": 75.18079
+      },
+      "duration": {
+        "startTimestamp": "2022-02-07T08:54:53.290Z",
+        "endTimestamp": "2022-02-08T01:00:44.038Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399889208,
+      "centerLngE7": 1163302025,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 1.0133002,
+        "calibratedProbability": 1.7962118
+      }, {
+        "latitudeE7": 399882960,
+        "longitudeE7": 1163300300,
+        "placeId": "ChIJx5zRWAFU8DURce3UXVE8sGs",
+        "address": "中国北京市海淀区中关村北一条1 邮政编码: 100190",
+        "name": "中国地震局工程力学所北京强震观测中心",
+        "locationConfidence": 0.88459253,
+        "calibratedProbability": 1.5680602
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.55250514,
+        "calibratedProbability": 0.9793902
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 0.4532423,
+        "calibratedProbability": 0.8034334
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399892762,
+        "longitudeE7": 1163302786,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399963791,
+        "longitudeE7": 1163338894,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-08T01:00:44.038Z",
+        "endTimestamp": "2022-02-08T01:12:45.453Z"
+      },
+      "distance": 1313,
+      "activityType": "CYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 57.34677314758301
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.566126465797424
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.142596065998077
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 8.245797455310822
+      }, {
+        "activityType": "STILL",
+        "probability": 5.076460167765617
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.3125266432762146
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4982380196452141
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.28441601898521185
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.21159681491553783
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.12936872662976384
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.10868549579754472
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.05577216506935656
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011274826829321682
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0101661411463283
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0107752334297402E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399900236,
+          "lngE7": 1163307452,
+          "accuracyMeters": 20,
+          "timestamp": "2022-02-08T01:01:44.100Z"
+        }, {
+          "latE7": 399904189,
+          "lngE7": 1163308899,
+          "accuracyMeters": 13,
+          "timestamp": "2022-02-08T01:02:24.191Z"
+        }, {
+          "latE7": 399903097,
+          "lngE7": 1163318442,
+          "accuracyMeters": 41,
+          "timestamp": "2022-02-08T01:05:45.209Z"
+        }, {
+          "latE7": 399904654,
+          "lngE7": 1163326028,
+          "accuracyMeters": 66,
+          "timestamp": "2022-02-08T01:07:45.255Z"
+        }, {
+          "latE7": 399913656,
+          "lngE7": 1163324494,
+          "accuracyMeters": 32,
+          "timestamp": "2022-02-08T01:08:45.274Z"
+        }, {
+          "latE7": 399903404,
+          "lngE7": 1163333166,
+          "accuracyMeters": 42,
+          "timestamp": "2022-02-08T01:09:45.286Z"
+        }, {
+          "latE7": 399915226,
+          "lngE7": 1163345378,
+          "accuracyMeters": 25,
+          "timestamp": "2022-02-08T01:10:32.934Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1279.9352163835724
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399968643,
+        "longitudeE7": 1163330307,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号",
+        "name": "华源世纪商务楼",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 59.428734,
+        "calibratedProbability": 66.68188
+      },
+      "duration": {
+        "startTimestamp": "2022-02-08T01:12:45.453Z",
+        "endTimestamp": "2022-02-08T10:27:47.720Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399968987,
+      "centerLngE7": 1163333938,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399996674,
+        "longitudeE7": 1163264439,
+        "placeId": "ChIJjzweph9U8DURyeLg4P5QWtk",
+        "address": "中国北京市海淀区蓝旗营双清路30号 邮政编码: 100190",
+        "name": "Tsinghua University",
+        "locationConfidence": 2.2146232,
+        "calibratedProbability": 2.4849129
+      }, {
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 1.2450883,
+        "calibratedProbability": 1.3970485
+      }, {
+        "latitudeE7": 399971540,
+        "longitudeE7": 1163351210,
+        "placeId": "ChIJv218ixlU8DURYqf9c0DXD9A",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Qinghuadongluxikou station",
+        "locationConfidence": 0.45763525,
+        "calibratedProbability": 0.5134886
+      }, {
+        "latitudeE7": 399968870,
+        "longitudeE7": 1163334740,
+        "placeId": "ChIJiwz10BtU8DURnnyP5FJ2IQM",
+        "address": "中国北京市海淀区蓝旗营双清路X8WM+Q95 邮政编码: 100190",
+        "name": "华业大厦",
+        "locationConfidence": 0.42115226,
+        "calibratedProbability": 0.47255293
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 400057644,
+        "longitudeE7": 1163299252,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399891350,
+        "longitudeE7": 1163303963,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-08T10:27:47.720Z",
+        "endTimestamp": "2022-02-08T11:32:09.905Z"
+      },
+      "distance": 2049,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 45.52321434020996
+      }, {
+        "activityType": "STILL",
+        "probability": 40.84455072879791
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.295983403921127
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1253679171204567
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.9036477655172348
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.686704134568572
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.22818148136138916
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.20726921502500772
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.10243470314890146
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04002373025286943
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.019003347551915795
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010939859203062952
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006983804632909596
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.005693739512935281
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.2875033251222874E-8
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399966848,
+          "lngE7": 1163333855,
+          "accuracyMeters": 15,
+          "timestamp": "2022-02-08T10:32:37.291Z"
+        }, {
+          "latE7": 399952766,
+          "lngE7": 1163339860,
+          "accuracyMeters": 27,
+          "timestamp": "2022-02-08T10:34:37.321Z"
+        }, {
+          "latE7": 399930271,
+          "lngE7": 1163340406,
+          "accuracyMeters": 22,
+          "timestamp": "2022-02-08T10:37:37.419Z"
+        }, {
+          "latE7": 399915816,
+          "lngE7": 1163329045,
+          "accuracyMeters": 52,
+          "timestamp": "2022-02-08T10:40:37.532Z"
+        }, {
+          "latE7": 399917500,
+          "lngE7": 1163324425,
+          "accuracyMeters": 12,
+          "timestamp": "2022-02-08T10:41:37.606Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2039.123816135704
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894753,
+        "longitudeE7": 1163303909,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 42.309998,
+        "calibratedProbability": 78.57671
+      },
+      "duration": {
+        "startTimestamp": "2022-02-08T11:32:09.905Z",
+        "endTimestamp": "2022-02-09T15:37:37.793Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399885404,
+      "centerLngE7": 1163302172,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 1.4537288,
+        "calibratedProbability": 2.6998165
+      }, {
+        "latitudeE7": 399882960,
+        "longitudeE7": 1163300300,
+        "placeId": "ChIJx5zRWAFU8DURce3UXVE8sGs",
+        "address": "中国北京市海淀区中关村北一条1 邮政编码: 100190",
+        "name": "中国地震局工程力学所北京强震观测中心",
+        "locationConfidence": 1.3066245,
+        "calibratedProbability": 2.4266193
+      }, {
+        "latitudeE7": 399858600,
+        "longitudeE7": 1163293440,
+        "placeId": "ChIJdRSC5wBU8DURbJ5ceKonCiw",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "Zhongguancun station",
+        "locationConfidence": 0.630866,
+        "calibratedProbability": 1.1716232
+      }, {
+        "latitudeE7": 399886370,
+        "longitudeE7": 1163297300,
+        "placeId": "ChIJA-P44QNU8DUR5hp_2h7-XWw",
+        "address": "中国北京市海淀区五道口东升园公寓11号楼1门101室 邮政编码: 100190",
+        "name": "富莱雅健身中心",
+        "locationConfidence": 0.39098832,
+        "calibratedProbability": 0.7261304
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894409,
+        "longitudeE7": 1163303528,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 60.137093,
+        "calibratedProbability": 63.302406
+      },
+      "duration": {
+        "startTimestamp": "2022-02-13T03:46:56.612Z",
+        "endTimestamp": "2022-02-14T10:28:35.362Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399891600,
+      "centerLngE7": 1163301071,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 2.106064,
+        "calibratedProbability": 2.2169166
+      }, {
+        "latitudeE7": 399892600,
+        "longitudeE7": 1163295500,
+        "placeId": "ChIJxbh_6ANU8DUR8dKOyFgvQHM",
+        "address": "中国北京市海淀区五道口X8QH+PR3 邮政编码: 100190",
+        "name": "伊甸之门",
+        "locationConfidence": 1.1635853,
+        "calibratedProbability": 1.2248305
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 1.1196703,
+        "calibratedProbability": 1.178604
+      }, {
+        "latitudeE7": 399886370,
+        "longitudeE7": 1163297300,
+        "placeId": "ChIJA-P44QNU8DUR5hp_2h7-XWw",
+        "address": "中国北京市海淀区五道口东升园公寓11号楼1门101室 邮政编码: 100190",
+        "name": "富莱雅健身中心",
+        "locationConfidence": 0.81054616,
+        "calibratedProbability": 0.8532092
+      }, {
+        "latitudeE7": 399890990,
+        "longitudeE7": 1163305260,
+        "placeId": "ChIJ3Sk49wNU8DURSuAoNkpmwC0",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "低温研究中心",
+        "locationConfidence": 0.6283321,
+        "calibratedProbability": 0.6614043
+      }, {
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 0.60725284,
+        "calibratedProbability": 0.6392155
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399968605,
+        "longitudeE7": 1163330383,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号",
+        "name": "华源世纪商务楼",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 17.41567,
+        "calibratedProbability": 36.061214
+      },
+      "duration": {
+        "startTimestamp": "2022-02-14T10:28:35.362Z",
+        "endTimestamp": "2022-02-14T10:57:57.463Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399948633,
+      "centerLngE7": 1163338800,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 4.509499,
+        "calibratedProbability": 9.337454
+      }, {
+        "latitudeE7": 399928210,
+        "longitudeE7": 1163336330,
+        "placeId": "ChIJkV-fKRtU8DURSqLjQ1DayNU",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "Wudaokou",
+        "locationConfidence": 1.595204,
+        "calibratedProbability": 3.3030593
+      }, {
+        "latitudeE7": 399951520,
+        "longitudeE7": 1163339430,
+        "placeId": "ChIJS5QNUxpU8DURHzo1-5l_KdE",
+        "address": "中国北京市海淀区五道口双清路福瑞金城停车场 邮政编码: 100190",
+        "name": "重庆好吃街",
+        "locationConfidence": 0.9715997,
+        "calibratedProbability": 2.0118127
+      }, {
+        "latitudeE7": 399951400,
+        "longitudeE7": 1163336690,
+        "placeId": "ChIJkR2drBtU8DURXZ32IR11pGE",
+        "address": "中国北京市海淀区五道口双清路福瑞金城停车场 邮政编码: 100190",
+        "name": "川湘食府",
+        "locationConfidence": 0.95507604,
+        "calibratedProbability": 1.9775984
+      }, {
+        "latitudeE7": 399950350,
+        "longitudeE7": 1163339510,
+        "placeId": "ChIJ4fQYVxpU8DURuD7incE44ss",
+        "address": "中国北京市海淀区五道口东升 邮政编码: 100190",
+        "name": "小滋煨汤",
+        "locationConfidence": 0.8722799,
+        "calibratedProbability": 1.8061591
+      }, {
+        "latitudeE7": 399931570,
+        "longitudeE7": 1163334130,
+        "placeId": "ChIJ_V5bMBtU8DURAZinTsGNw6g",
+        "address": "中国北京市海淀区五道口中关村东路8号 邮政编码: 100190",
+        "name": "西少爷肉夹馍",
+        "locationConfidence": 0.6869603,
+        "calibratedProbability": 1.4224329
+      }, {
+        "latitudeE7": 399927830,
+        "longitudeE7": 1163348240,
+        "placeId": "ChIJ56HixhpU8DURCureZ22NdX8",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "Wudaokou",
+        "locationConfidence": 0.5499852,
+        "calibratedProbability": 1.1388096
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 8,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399966794,
+        "longitudeE7": 1163333788,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399884796,
+        "longitudeE7": 1163313265,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-14T10:57:57.463Z",
+        "endTimestamp": "2022-02-14T11:24:57.216Z"
+      },
+      "distance": 1645,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.61004424095154
+      }, {
+        "activityType": "STILL",
+        "probability": 6.221123039722443
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8454671129584312
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5644052289426327
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2160579664632678
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1991964178159833
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.13382411561906338
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0910143309738487
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07614461937919259
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.015216661267913878
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012016609980491921
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006553549610543996
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.004559010994853452
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004377138975542039
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.883466893559671E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399947386,
+          "lngE7": 1163339409,
+          "accuracyMeters": 17,
+          "timestamp": "2022-02-14T11:01:01.294Z"
+        }, {
+          "latE7": 399918760,
+          "lngE7": 1163338258,
+          "accuracyMeters": 44,
+          "timestamp": "2022-02-14T11:04:01.277Z"
+        }, {
+          "latE7": 399912227,
+          "lngE7": 1163309175,
+          "accuracyMeters": 22,
+          "timestamp": "2022-02-14T11:07:01.340Z"
+        }, {
+          "latE7": 399915562,
+          "lngE7": 1163307087,
+          "accuracyMeters": 23,
+          "timestamp": "2022-02-14T11:08:32.571Z"
+        }, {
+          "latE7": 399907861,
+          "lngE7": 1163309777,
+          "accuracyMeters": 18,
+          "timestamp": "2022-02-14T11:10:01.438Z"
+        }, {
+          "latE7": 399884913,
+          "lngE7": 1163312763,
+          "accuracyMeters": 19,
+          "timestamp": "2022-02-14T11:12:57.243Z"
+        }, {
+          "latE7": 399866540,
+          "lngE7": 1163302750,
+          "accuracyMeters": 52,
+          "timestamp": "2022-02-14T11:20:41.206Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1628.8026835816358
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894409,
+        "longitudeE7": 1163303528,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 31.833223,
+        "calibratedProbability": 60.789623
+      },
+      "duration": {
+        "startTimestamp": "2022-02-14T11:24:57.216Z",
+        "endTimestamp": "2022-02-15T01:26:29.672Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399890156,
+      "centerLngE7": 1163305878,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 0.8550652,
+        "calibratedProbability": 1.6328568
+      }, {
+        "latitudeE7": 399891670,
+        "longitudeE7": 1163319020,
+        "placeId": "ChIJfd9vEwRU8DURqbptxJUewpA",
+        "address": "中国北京市海淀区中关村北二条 邮政编码: 100190",
+        "name": "Yanguiyuan",
+        "locationConfidence": 0.6590806,
+        "calibratedProbability": 1.258599
+      }, {
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 0.51367444,
+        "calibratedProbability": 0.9809273
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.49158734,
+        "calibratedProbability": 0.93874913
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 0.48281375,
+        "calibratedProbability": 0.9219948
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 25,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399886051,
+        "longitudeE7": 1163302631,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399915323,
+        "longitudeE7": 1163306797,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-15T01:26:29.672Z",
+        "endTimestamp": "2022-02-15T01:37:16.214Z"
+      },
+      "distance": 334,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 86.01109385490417
+      }, {
+        "activityType": "CYCLING",
+        "probability": 7.322651892900467
+      }, {
+        "activityType": "STILL",
+        "probability": 2.633661776781082
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.389027178287506
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.7448727730661631
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.40747555904090405
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.24393133353441954
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.10543970856815577
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0786215765401721
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02016973012359813
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.016834630514495075
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.015459704445675015
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.007062979420879856
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0037018417060608044
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.4846379942953263E-7
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399903888,
+          "lngE7": 1163309212,
+          "accuracyMeters": 15,
+          "timestamp": "2022-02-15T01:34:33.021Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 334.91601194509457
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399968605,
+        "longitudeE7": 1163330383,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号",
+        "name": "华源世纪商务楼",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 21.070246,
+        "calibratedProbability": 40.051365
+      },
+      "duration": {
+        "startTimestamp": "2022-02-15T01:37:16.214Z",
+        "endTimestamp": "2022-02-15T10:53:57.169Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399968600,
+      "centerLngE7": 1163328786,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399996674,
+        "longitudeE7": 1163264439,
+        "placeId": "ChIJjzweph9U8DURyeLg4P5QWtk",
+        "address": "中国北京市海淀区蓝旗营双清路30号 邮政编码: 100190",
+        "name": "Tsinghua University",
+        "locationConfidence": 11.039742,
+        "calibratedProbability": 20.984888
+      }, {
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 1.230614,
+        "calibratedProbability": 2.339212
+      }, {
+        "latitudeE7": 399969050,
+        "longitudeE7": 1163331630,
+        "placeId": "ChIJMRUf0RtU8DURfOodUeLJpQc",
+        "address": "中国北京市海淀区蓝旗营双清路华业大厦2504、2506 邮政编码: 100190",
+        "name": "Eia-Division of Tsinghua University",
+        "locationConfidence": 1.0463349,
+        "calibratedProbability": 1.988925
+      }, {
+        "latitudeE7": 399971540,
+        "longitudeE7": 1163351210,
+        "placeId": "ChIJv218ixlU8DURYqf9c0DXD9A",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Qinghuadongluxikou station",
+        "locationConfidence": 0.86743945,
+        "calibratedProbability": 1.6488718
+      }, {
+        "latitudeE7": 399969050,
+        "longitudeE7": 1163331630,
+        "placeId": "ChIJMRUf0RtU8DURza5kxPxRr28",
+        "address": "中国北京市海淀区蓝旗营双清路华业大厦1103、1216 邮政编码: 100190",
+        "name": "R \u0026 D Department of Tsinghua University",
+        "locationConfidence": 0.62082976,
+        "calibratedProbability": 1.1801039
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 13,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399963615,
+        "longitudeE7": 1163339419,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399897906,
+        "longitudeE7": 1163305604,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-15T10:53:57.169Z",
+        "endTimestamp": "2022-02-15T11:06:19.126Z"
+      },
+      "distance": 785,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 95.23594975471497
+      }, {
+        "activityType": "STILL",
+        "probability": 2.54675205796957
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.025718543678522
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6166788283735514
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.19641926046460867
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1676412532106042
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.1387674710713327
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03170003183186054
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.02616900601424277
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.003870263753924519
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0032844272936927155
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0031996813049772754
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.002589409450592939
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.001254524067917373
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.8868926421333754E-7
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894600,
+        "longitudeE7": 1163303604,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 38.977303,
+        "calibratedProbability": 77.89556
+      },
+      "duration": {
+        "startTimestamp": "2022-02-15T11:06:19.126Z",
+        "endTimestamp": "2022-02-15T22:37:42.228Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399894471,
+      "centerLngE7": 1163303525,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 1.1696937,
+        "calibratedProbability": 2.3376155
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 0.7935039,
+        "calibratedProbability": 1.5858057
+      }, {
+        "latitudeE7": 399891670,
+        "longitudeE7": 1163319020,
+        "placeId": "ChIJfd9vEwRU8DURqbptxJUewpA",
+        "address": "中国北京市海淀区中关村北二条 邮政编码: 100190",
+        "name": "Yanguiyuan",
+        "locationConfidence": 0.46169576,
+        "calibratedProbability": 0.92269206
+      }, {
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.43329164,
+        "calibratedProbability": 0.86592686
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894981,
+        "longitudeE7": 1163303528,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 50.26546,
+        "calibratedProbability": 66.392624
+      },
+      "duration": {
+        "startTimestamp": "2022-02-22T16:17:28.011Z",
+        "endTimestamp": "2022-02-24T02:01:50.067Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399894632,
+      "centerLngE7": 1163299782,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 3.2144406,
+        "calibratedProbability": 4.2457614
+      }, {
+        "latitudeE7": 399885460,
+        "longitudeE7": 1163288360,
+        "placeId": "ChIJQ0KBYwFU8DURG8ob9n1p0aU",
+        "address": "中国北京市海淀区五道口中关村北一条3号 邮政编码: 100190",
+        "name": "Zhongguancun North 1st Alley No.3 Courtyard",
+        "locationConfidence": 1.4249692,
+        "calibratedProbability": 1.8821561
+      }, {
+        "latitudeE7": 399886370,
+        "longitudeE7": 1163297300,
+        "placeId": "ChIJA-P44QNU8DUR5hp_2h7-XWw",
+        "address": "中国北京市海淀区五道口东升园公寓11号楼1门101室 邮政编码: 100190",
+        "name": "富莱雅健身中心",
+        "locationConfidence": 1.1297556,
+        "calibratedProbability": 1.4922262
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 0.9664117,
+        "calibratedProbability": 1.2764751
+      }, {
+        "latitudeE7": 399890990,
+        "longitudeE7": 1163305260,
+        "placeId": "ChIJ3Sk49wNU8DURSuAoNkpmwC0",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "低温研究中心",
+        "locationConfidence": 0.92775524,
+        "calibratedProbability": 1.2254161
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.54002017,
+        "calibratedProbability": 0.7132802
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399900519,
+        "longitudeE7": 1163309708,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399967329,
+        "longitudeE7": 1163335013,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T02:01:50.067Z",
+        "endTimestamp": "2022-02-24T02:09:50.193Z"
+      },
+      "distance": 773,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 79.46242094039917
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.306695342063904
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.779281347990036
+      }, {
+        "activityType": "STILL",
+        "probability": 0.7912256754934788
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6055000238120556
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5796824116259813
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.22078286856412888
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.15594868455082178
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.03162080538459122
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02823405375238508
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.017923694394994527
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.01718076237011701
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0025156958145089447
+      }, {
+        "activityType": "SAILING",
+        "probability": 9.81176253844751E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.27016660814661E-6
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399968529,
+        "longitudeE7": 1163330383,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号",
+        "name": "华源世纪商务楼",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 35.750206,
+        "calibratedProbability": 14.97848
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T02:09:50.193Z",
+        "endTimestamp": "2022-02-24T05:14:55.903Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399981065,
+      "centerLngE7": 1163338715,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399996674,
+        "longitudeE7": 1163264439,
+        "placeId": "ChIJjzweph9U8DURyeLg4P5QWtk",
+        "address": "中国北京市海淀区蓝旗营双清路30号 邮政编码: 100190",
+        "name": "Tsinghua University",
+        "locationConfidence": 26.199303,
+        "calibratedProbability": 10.97688
+      }, {
+        "latitudeE7": 399971540,
+        "longitudeE7": 1163351210,
+        "placeId": "ChIJv218ixlU8DURYqf9c0DXD9A",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Qinghuadongluxikou station",
+        "locationConfidence": 5.281125,
+        "calibratedProbability": 2.2126648
+      }, {
+        "latitudeE7": 399983500,
+        "longitudeE7": 1163341100,
+        "placeId": "ChIJ34PloRlU8DURcoN84kbRnio",
+        "address": "中国北京市海淀区蓝旗营X8XM+8JQ 邮政编码: 100190",
+        "name": "金家",
+        "locationConfidence": 1.4762979,
+        "calibratedProbability": 0.61853343
+      }, {
+        "latitudeE7": 399981770,
+        "longitudeE7": 1163322530,
+        "placeId": "ChIJL4e0QhlU8DURB71rS6oivT8",
+        "address": "中国北京市海淀区蓝旗营双清路清华园清华大学 邮政编码: 100190",
+        "name": "Tsinghua University School of Law",
+        "locationConfidence": 1.4074688,
+        "calibratedProbability": 0.5896957
+      }, {
+        "latitudeE7": 399982360,
+        "longitudeE7": 1163332790,
+        "placeId": "ChIJtyzRcxlU8DURwh_B804veQo",
+        "address": "中国北京市海淀区蓝旗营双清路X8XM+78R 邮政编码: 100190",
+        "name": "School of Aerospace, Tsinghua University",
+        "locationConfidence": 1.239443,
+        "calibratedProbability": 0.5192969
+      }, {
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 1.2303464,
+        "calibratedProbability": 0.5154857
+      }, {
+        "latitudeE7": 399995670,
+        "longitudeE7": 1163319910,
+        "placeId": "ChIJx5hxIRlU8DURbs7MIZHWVv8",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Tsinghua University School of Economics and Management",
+        "locationConfidence": 1.0385711,
+        "calibratedProbability": 0.4351364
+      }, {
+        "latitudeE7": 399967040,
+        "longitudeE7": 1163345870,
+        "placeId": "ChIJbdwmihlU8DURB5uV8wDSIUI",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Qinghua East Road West Crossing",
+        "locationConfidence": 0.8987926,
+        "calibratedProbability": 0.37657258
+      }, {
+        "latitudeE7": 399963960,
+        "longitudeE7": 1163346350,
+        "placeId": "ChIJxw1JJRpU8DUR3ms3FaotZrM",
+        "address": "中国北京市海淀区五道口双清路88 邮政编码: 100190",
+        "name": "711便利清华大学东门店",
+        "locationConfidence": 0.85274744,
+        "calibratedProbability": 0.35728076
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 28,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399967329,
+        "longitudeE7": 1163335013,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399981065,
+        "longitudeE7": 1163338715,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T05:14:55.903Z",
+        "endTimestamp": "2022-02-24T11:04:24.971Z"
+      },
+      "distance": 195,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 48.798948526382446
+      }, {
+        "activityType": "STILL",
+        "probability": 47.427597641944885
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.4899590760469437
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.6336678750813007
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.24267998524010181
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.13827935326844454
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.10049857664853334
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.0639698060695082
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.060439284425228834
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.018684324459172785
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.011013136099791154
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006188479164848104
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0051748036639764905
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0028905862563988194
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.77456171160884E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399968895,
+          "lngE7": 1163331746,
+          "accuracyMeters": 14,
+          "timestamp": "2022-02-24T05:15:35.909Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 177.54346761100697
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399968154,
+        "longitudeE7": 1163327638,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399915954,
+        "longitudeE7": 1163308196,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T11:04:24.971Z",
+        "endTimestamp": "2022-02-24T11:20:53.577Z"
+      },
+      "distance": 792,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 57.470303773880005
+      }, {
+        "activityType": "STILL",
+        "probability": 40.44813811779022
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.4650233089923859
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1484092092141509
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.12544638011604548
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.08950346382334828
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.083097442984581
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.07917388575151563
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.034968796535395086
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.023823707306291908
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.02122120640706271
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005444714406621642
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0036397195799509063
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0017984817532123998
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.234597797558308E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399967924,
+          "lngE7": 1163331183,
+          "accuracyMeters": 19,
+          "timestamp": "2022-02-24T11:07:35.474Z"
+        }, {
+          "latE7": 399966130,
+          "lngE7": 1163331339,
+          "accuracyMeters": 5,
+          "timestamp": "2022-02-24T11:07:51.474Z"
+        }, {
+          "latE7": 399968796,
+          "lngE7": 1163331228,
+          "accuracyMeters": 19,
+          "timestamp": "2022-02-24T11:08:04.639Z"
+        }, {
+          "latE7": 399967534,
+          "lngE7": 1163333951,
+          "accuracyMeters": 13,
+          "timestamp": "2022-02-24T11:08:50.827Z"
+        }, {
+          "latE7": 399961819,
+          "lngE7": 1163338639,
+          "accuracyMeters": 14,
+          "timestamp": "2022-02-24T11:10:06.842Z"
+        }, {
+          "latE7": 399953718,
+          "lngE7": 1163339242,
+          "accuracyMeters": 20,
+          "timestamp": "2022-02-24T11:11:06.907Z"
+        }, {
+          "latE7": 399916378,
+          "lngE7": 1163306936,
+          "accuracyMeters": 22,
+          "timestamp": "2022-02-24T11:20:06.996Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 774.3683055385062
+      }
+    }
+  }]
+}

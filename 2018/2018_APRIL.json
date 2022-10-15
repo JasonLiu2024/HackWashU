@@ -1,0 +1,34 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373127626,
+        "longitudeE7": -1220320554,
+        "placeId": "ChIJzXky0Aa1j4ARJUWMXKPlns8",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "De Anza \u0026 Bollinger",
+        "locationConfidence": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2018-04-30T18:09:50.432Z",
+        "endTimestamp": "2018-04-30T18:10:50.432Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2018-04-30T18:10:52.562Z",
+      "placeVisitImportance": "TRANSITIONAL",
+      "checkin": {
+        "atTime": "2018-04-30T18:10:50Z",
+        "device": {
+          "android": {
+            "fingerprint": "google/walleye/walleye:8.1.0/OPM2.171019.029/4657601:user/release-keys"
+          }
+        }
+      }
+    }
+  }]
+}

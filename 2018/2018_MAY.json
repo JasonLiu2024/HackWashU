@@ -1,0 +1,34 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373222396,
+        "longitudeE7": -1220416626,
+        "placeId": "ChIJD8R8eVK0j4AR3VnsdhkHD04",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Stelling \u0026 Stevens Creek (FS)",
+        "locationConfidence": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2018-05-04T23:12:11.258Z",
+        "endTimestamp": "2018-05-04T23:13:11.258Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2018-05-04T23:13:13.264Z",
+      "placeVisitImportance": "TRANSITIONAL",
+      "checkin": {
+        "atTime": "2018-05-04T23:13:11Z",
+        "device": {
+          "android": {
+            "fingerprint": "google/walleye/walleye:8.1.0/OPM2.171019.029/4657601:user/release-keys"
+          }
+        }
+      }
+    }
+  }]
+}

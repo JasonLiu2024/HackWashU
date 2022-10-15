@@ -1,0 +1,34 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373104383,
+        "longitudeE7": -1220143258,
+        "placeId": "ChIJ0W9UQG21j4ARTVOh-I8xhSs",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Bollinger \u0026 Miller",
+        "locationConfidence": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2018-06-25T18:43:40.078Z",
+        "endTimestamp": "2018-06-25T18:44:40.078Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2018-06-25T18:44:41.471Z",
+      "placeVisitImportance": "TRANSITIONAL",
+      "checkin": {
+        "atTime": "2018-06-25T18:44:40Z",
+        "device": {
+          "android": {
+            "fingerprint": "google/walleye/walleye:8.1.0/OPM2.171026.006.C1/4769658:user/release-keys"
+          }
+        }
+      }
+    }
+  }]
+}

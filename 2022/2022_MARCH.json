@@ -1,0 +1,2941 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894867,
+        "longitudeE7": 1163303223,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 41.382263,
+        "calibratedProbability": 76.79877
+      },
+      "duration": {
+        "startTimestamp": "2022-03-01T17:27:26.466Z",
+        "endTimestamp": "2022-03-02T01:33:58.446Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399894600,
+      "centerLngE7": 1163300114,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 1.5100926,
+        "calibratedProbability": 2.802487
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.38030964,
+        "calibratedProbability": 0.705793
+      }, {
+        "latitudeE7": 399905500,
+        "longitudeE7": 1163285740,
+        "placeId": "ChIJia6btwNU8DUR6CJHEoV-ku8",
+        "address": "中国北京市海淀区中关村北二街4号 邮政编码: 100190",
+        "name": "Shuiqing Muhuayuan",
+        "locationConfidence": 0.37138605,
+        "calibratedProbability": 0.6892323
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 0.25070038,
+        "calibratedProbability": 0.46525925
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399894929,
+        "longitudeE7": 1163299661,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399968156,
+        "longitudeE7": 1163327587,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-02T01:33:58.446Z",
+        "endTimestamp": "2022-03-02T02:16:35.564Z"
+      },
+      "distance": 848,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 67.45662093162537
+      }, {
+        "activityType": "STILL",
+        "probability": 23.649215698242188
+      }, {
+        "activityType": "CYCLING",
+        "probability": 5.31553328037262
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.5186210162937641
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.8557171560823917
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4020465537905693
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.26948449667543173
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2086643362417817
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.19309831550344825
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.06979993777349591
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.032450194703415036
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.013519881758838892
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01180904291686602
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0034226890420541167
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.25441945298644E-7
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399996674,
+        "longitudeE7": 1163264439,
+        "placeId": "ChIJjzweph9U8DURyeLg4P5QWtk",
+        "address": "中国北京市海淀区蓝旗营双清路30号 邮政编码: 100190",
+        "name": "Tsinghua University",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 22.844202,
+        "calibratedProbability": 24.250288
+      },
+      "duration": {
+        "startTimestamp": "2022-03-02T02:16:35.564Z",
+        "endTimestamp": "2022-03-02T12:38:19.804Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399980569,
+      "centerLngE7": 1163342369,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399968643,
+        "longitudeE7": 1163330231,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号 邮政编码: 100190",
+        "name": "华源世纪商务楼",
+        "locationConfidence": 12.98628,
+        "calibratedProbability": 13.7856
+      }, {
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 2.5493314,
+        "calibratedProbability": 2.7062454
+      }, {
+        "latitudeE7": 399971540,
+        "longitudeE7": 1163351210,
+        "placeId": "ChIJv218ixlU8DURYqf9c0DXD9A",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Qinghuadongluxikou station",
+        "locationConfidence": 2.0190015,
+        "calibratedProbability": 2.143273
+      }, {
+        "latitudeE7": 399995670,
+        "longitudeE7": 1163319910,
+        "placeId": "ChIJx5hxIRlU8DURbs7MIZHWVv8",
+        "address": "中国北京市海淀区蓝旗营 邮政编码: 100190",
+        "name": "Tsinghua University School of Economics and Management",
+        "locationConfidence": 0.6038667,
+        "calibratedProbability": 0.6410353
+      }, {
+        "latitudeE7": 399959570,
+        "longitudeE7": 1163341430,
+        "placeId": "ChIJt5rkNRpU8DUR75vRQZTwlbY",
+        "address": "中国北京市海淀区五道口双清路88号 邮政编码: 100190",
+        "name": "五道口-食道乐오도구. 도시락",
+        "locationConfidence": 0.5134635,
+        "calibratedProbability": 0.5450677
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 15,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399983250,
+        "longitudeE7": 1163341815,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399888348,
+        "longitudeE7": 1163313505,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-02T12:38:19.804Z",
+        "endTimestamp": "2022-03-02T13:32:24.700Z"
+      },
+      "distance": 3533,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.16953730583191
+      }, {
+        "activityType": "STILL",
+        "probability": 2.2103460505604744
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5253855604678392
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.44866763055324554
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.3925846889615059
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.05700155161321163
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.05468999152071774
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.054175296099856496
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.030881946440786123
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02432342298561707
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012830656487494707
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.00853128731250763
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.00603281514486298
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0050084101530956104
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.8631909287923918E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399918748,
+          "lngE7": 1163284490,
+          "accuracyMeters": 51,
+          "timestamp": "2022-03-02T12:57:20.377Z"
+        }, {
+          "latE7": 399850180,
+          "lngE7": 1163374687,
+          "accuracyMeters": 56,
+          "timestamp": "2022-03-02T13:03:20.567Z"
+        }, {
+          "latE7": 399876019,
+          "lngE7": 1163273703,
+          "accuracyMeters": 27,
+          "timestamp": "2022-03-02T13:06:05.350Z"
+        }, {
+          "latE7": 399862056,
+          "lngE7": 1163278684,
+          "accuracyMeters": 28,
+          "timestamp": "2022-03-02T13:11:31.643Z"
+        }, {
+          "latE7": 399872455,
+          "lngE7": 1163315559,
+          "accuracyMeters": 13,
+          "timestamp": "2022-03-02T13:21:37.760Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3530.5670523109025
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894257,
+        "longitudeE7": 1163302765,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 36.04628,
+        "calibratedProbability": 62.457844
+      },
+      "duration": {
+        "startTimestamp": "2022-03-02T13:32:24.700Z",
+        "endTimestamp": "2022-03-03T04:26:51.166Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399892243,
+      "centerLngE7": 1163305276,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 1.3900505,
+        "calibratedProbability": 2.408558
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.5101617,
+        "calibratedProbability": 0.8839635
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 0.383355,
+        "calibratedProbability": 0.664244
+      }, {
+        "latitudeE7": 399890990,
+        "longitudeE7": 1163305260,
+        "placeId": "ChIJ3Sk49wNU8DURSuAoNkpmwC0",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "低温研究中心",
+        "locationConfidence": 0.30870473,
+        "calibratedProbability": 0.53489655
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894257,
+        "longitudeE7": 1163302765,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 34.34971,
+        "calibratedProbability": 70.53728
+      },
+      "duration": {
+        "startTimestamp": "2022-03-05T18:29:42.324Z",
+        "endTimestamp": "2022-03-07T07:35:57.795Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 399894508,
+      "centerLngE7": 1163300269,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 1.8148007,
+        "calibratedProbability": 3.726701
+      }, {
+        "latitudeE7": 399890990,
+        "longitudeE7": 1163305260,
+        "placeId": "ChIJ3Sk49wNU8DURSuAoNkpmwC0",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "低温研究中心",
+        "locationConfidence": 0.72093964,
+        "calibratedProbability": 1.4804527
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 0.69767576,
+        "calibratedProbability": 1.4326801
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.6372466,
+        "calibratedProbability": 1.3085886
+      }, {
+        "latitudeE7": 399902920,
+        "longitudeE7": 1163330540,
+        "placeId": "ChIJMZGJ9wRU8DURZSX0fpXloqM",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.47928062,
+        "calibratedProbability": 0.9842048
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 27,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399968605,
+        "longitudeE7": 1163330154,
+        "placeId": "ChIJT4IDJRpU8DURLzO8QHFxy6k",
+        "address": "中国北京市海淀区五道口双清路88号",
+        "name": "华源世纪商务楼",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 24.986032,
+        "calibratedProbability": 43.21776
+      },
+      "duration": {
+        "startTimestamp": "2022-03-10T05:33:00.224Z",
+        "endTimestamp": "2022-03-10T10:55:09.171Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399948700,
+      "centerLngE7": 1163338900,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399940480,
+        "longitudeE7": 1163334280,
+        "placeId": "ChIJnz425RpU8DUR5alxLEeAdK0",
+        "address": "中国北京市海淀区五道口中关村东路8号 邮政编码: 100190",
+        "name": "东升大厦",
+        "locationConfidence": 3.0169663,
+        "calibratedProbability": 5.218376
+      }, {
+        "latitudeE7": 399966150,
+        "longitudeE7": 1163326380,
+        "placeId": "ChIJTWPlwxtU8DURJXCEQB7Y_68",
+        "address": "中国北京市海淀区蓝旗营双清路30号清华大学84-48信箱 邮政编码: 100190",
+        "name": "CNKI中国知网",
+        "locationConfidence": 2.28134,
+        "calibratedProbability": 3.9459805
+      }, {
+        "latitudeE7": 399950240,
+        "longitudeE7": 1163341860,
+        "placeId": "ChIJKaBWURpU8DURxQtPnZCXlQY",
+        "address": "中国北京市海淀区五道口双清路X8WM+2M3 邮政编码: 100190",
+        "name": "Dongshengzhen Letters and Calls Reception Center",
+        "locationConfidence": 1.6809138,
+        "calibratedProbability": 2.9074376
+      }, {
+        "latitudeE7": 399927830,
+        "longitudeE7": 1163348240,
+        "placeId": "ChIJ56HixhpU8DURCureZ22NdX8",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "Wudaokou",
+        "locationConfidence": 0.64504415,
+        "calibratedProbability": 1.1157179
+      }, {
+        "latitudeE7": 399950350,
+        "longitudeE7": 1163339510,
+        "placeId": "ChIJ4fQYVxpU8DURuD7incE44ss",
+        "address": "中国北京市海淀区五道口东升 邮政编码: 100190",
+        "name": "小滋煨汤",
+        "locationConfidence": 0.633125,
+        "calibratedProbability": 1.0951016
+      }, {
+        "latitudeE7": 399951520,
+        "longitudeE7": 1163339430,
+        "placeId": "ChIJS5QNUxpU8DURHzo1-5l_KdE",
+        "address": "中国北京市海淀区五道口双清路福瑞金城停车场 邮政编码: 100190",
+        "name": "重庆好吃街",
+        "locationConfidence": 0.5772542,
+        "calibratedProbability": 0.9984631
+      }, {
+        "latitudeE7": 399937540,
+        "longitudeE7": 1163322260,
+        "placeId": "ChIJCZfpRhtU8DURfQDgcm2Omxg",
+        "address": "中国北京市海淀区蓝旗营中关村东路1号院-9 邮政编码: 100190",
+        "name": "搜狐网络大厦",
+        "locationConfidence": 0.5051807,
+        "calibratedProbability": 0.8737993
+      }, {
+        "latitudeE7": 399959570,
+        "longitudeE7": 1163341430,
+        "placeId": "ChIJt5rkNRpU8DUR75vRQZTwlbY",
+        "address": "中国北京市海淀区五道口双清路88号 邮政编码: 100190",
+        "name": "五道口-食道乐오도구. 도시락",
+        "locationConfidence": 0.47460207,
+        "calibratedProbability": 0.8209081
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 17,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399948704,
+        "longitudeE7": 1163338903,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399769647,
+        "longitudeE7": 1163088269,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-10T10:55:09.171Z",
+        "endTimestamp": "2022-03-10T11:35:47.816Z"
+      },
+      "distance": 3519,
+      "activityType": "CYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 41.51899516582489
+      }, {
+        "activityType": "WALKING",
+        "probability": 26.20123028755188
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.77839308977127
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.470854997634888
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 4.305873438715935
+      }, {
+        "activityType": "STILL",
+        "probability": 2.546830475330353
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.9779440015554428
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 1.0681281797587872
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5586560815572739
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.4222631920129061
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.09092483087442815
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.039686166564933956
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.012035633699269965
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008168918429873884
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0619959311952698E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399983948,
+          "lngE7": 1163337413,
+          "accuracyMeters": 109,
+          "timestamp": "2022-03-10T11:06:00.865Z"
+        }, {
+          "latE7": 399907842,
+          "lngE7": 1163114247,
+          "accuracyMeters": 41,
+          "timestamp": "2022-03-10T11:16:00.473Z"
+        }, {
+          "latE7": 399795331,
+          "lngE7": 1163107492,
+          "accuracyMeters": 103,
+          "timestamp": "2022-03-10T11:26:36.812Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4054.6567432271413
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399768220,
+        "longitudeE7": 1163083870,
+        "placeId": "ChIJn4USNERR8DURPwQa4PH56vk",
+        "address": "中国北京市海淀区中关村彩和坊路 邮政编码: 100086",
+        "name": "顺时旺地成都小吃",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 4.0484695,
+        "calibratedProbability": 9.586952
+      },
+      "duration": {
+        "startTimestamp": "2022-03-10T11:35:47.816Z",
+        "endTimestamp": "2022-03-10T13:23:10.005Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399769583,
+      "centerLngE7": 1163086167,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399756810,
+        "longitudeE7": 1163080830,
+        "placeId": "ChIJA2Q5F0RR8DURASDGvQir4FU",
+        "address": "中国北京市海淀区中关村 邮政编码: 100086",
+        "name": "海淀南路",
+        "locationConfidence": 3.1150465,
+        "calibratedProbability": 7.376566
+      }, {
+        "latitudeE7": 399768150,
+        "longitudeE7": 1163082490,
+        "placeId": "ChIJcWNlMURR8DURNtN3U3VxQy8",
+        "address": "中国北京市海淀区中关村彩和坊路 邮政编码: 100086",
+        "name": "兰州拉面",
+        "locationConfidence": 2.5765705,
+        "calibratedProbability": 6.1014314
+      }, {
+        "latitudeE7": 399772065,
+        "longitudeE7": 1163092843,
+        "placeId": "ChIJ7WECCEVR8DURqiZCGhDS5tE",
+        "address": "中国北京市海淀区中关村海淀中街15号 邮政编码: 100086",
+        "name": "爱雅仕·口腔嘉蕾口腔诊所",
+        "locationConfidence": 2.3268201,
+        "calibratedProbability": 5.5100117
+      }, {
+        "latitudeE7": 399775210,
+        "longitudeE7": 1163100300,
+        "placeId": "ChIJ-xovp0VR8DURJ9c8hbnvNEQ",
+        "address": "中国北京市海淀区中关村X8H6+222 邮政编码: 100086",
+        "name": "远中悦来",
+        "locationConfidence": 2.2072175,
+        "calibratedProbability": 5.226787
+      }, {
+        "latitudeE7": 399762420,
+        "longitudeE7": 1163092972,
+        "placeId": "ChIJ1f6kT0RR8DURCT6cpixEQCk",
+        "address": "中国北京市海淀区中关村海淀南路19号 邮政编码: 100086",
+        "name": "时代网络大厦",
+        "locationConfidence": 2.110847,
+        "calibratedProbability": 4.9985776
+      }, {
+        "latitudeE7": 399769860,
+        "longitudeE7": 1163082020,
+        "placeId": "ChIJrTtIzEVR8DURyqpq_xfkS2g",
+        "address": "中国北京市海淀区中关村彩和坊路X8G5+Q7W 邮政编码: 100086",
+        "name": "Beijing Information Management School",
+        "locationConfidence": 0.8732873,
+        "calibratedProbability": 2.0679824
+      }, {
+        "latitudeE7": 399783660,
+        "longitudeE7": 1163090410,
+        "placeId": "ChIJI4ytekVR8DURZ9poTCqg9ZA",
+        "address": "中国北京市海淀区中关村丹棱街16号 邮政编码: 100086",
+        "name": "海兴大厦",
+        "locationConfidence": 0.8231741,
+        "calibratedProbability": 1.9493122
+      }, {
+        "latitudeE7": 399764090,
+        "longitudeE7": 1163088250,
+        "placeId": "ChIJl2dpSERR8DURxlShGohJ_gQ",
+        "address": "中国北京市海淀区中关村彩和坊路 邮政编码: 100086",
+        "name": "川渝美食",
+        "locationConfidence": 0.6625438,
+        "calibratedProbability": 1.5689325
+      }, {
+        "latitudeE7": 399766530,
+        "longitudeE7": 1163078660,
+        "placeId": "ChIJQ3aVL0RR8DURvlLQuS8-PnA",
+        "address": "中国北京市海淀区中关村倒座庙北路X8G5+M49 邮政编码: 100086",
+        "name": "Xianghe Meat Pie",
+        "locationConfidence": 0.5940334,
+        "calibratedProbability": 1.406697
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 1,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 399769527,
+        "longitudeE7": 1163088280,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 400559753,
+        "longitudeE7": 1163305156,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-10T13:23:10.005Z",
+        "endTimestamp": "2022-03-10T14:34:12.668Z"
+      },
+      "distance": 9347,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 43.537986278533936
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.833054840564728
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 21.9703271985054
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 3.0042042955756187
+      }, {
+        "activityType": "STILL",
+        "probability": 2.0375002175569534
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.7089646309614182
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 1.3441921211779118
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7655357476323843
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2346453256905079
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.22767416667193174
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.19323184387758374
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.12264865217730403
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.012135334691265598
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.00788602337706834
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.854009164200761E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 399795758,
+          "lngE7": 1163106618,
+          "accuracyMeters": 22,
+          "timestamp": "2022-03-10T13:33:19.355Z"
+        }, {
+          "latE7": 399834182,
+          "lngE7": 1163098163,
+          "accuracyMeters": 85,
+          "timestamp": "2022-03-10T13:43:19.646Z"
+        }, {
+          "latE7": 399928309,
+          "lngE7": 1163089032,
+          "accuracyMeters": 35,
+          "timestamp": "2022-03-10T14:02:22.255Z"
+        }, {
+          "latE7": 400281839,
+          "lngE7": 1163088077,
+          "accuracyMeters": 17,
+          "timestamp": "2022-03-10T14:12:58.656Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 9345.44890182873
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 400559753,
+        "longitudeE7": 1163305156,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 399885441,
+        "longitudeE7": 1163302461,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-10T14:34:12.668Z",
+        "endTimestamp": "2022-03-10T15:52:40.471Z"
+      },
+      "distance": 8186,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.190011382102966
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 31.062957644462585
+      }, {
+        "activityType": "STILL",
+        "probability": 13.50056380033493
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 6.272659450769424
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.780780524015427
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.43968670070171356
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.21824080031365156
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.20218570716679096
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.19450315739959478
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09220247156918049
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.032976915827021
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.008412326133111492
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0029241009542602114
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0018731287127593532
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.6316618573218875E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 400533428,
+          "lngE7": 1163226022,
+          "accuracyMeters": 98,
+          "timestamp": "2022-03-10T14:55:29.521Z"
+        }, {
+          "latE7": 400095672,
+          "lngE7": 1163370100,
+          "accuracyMeters": 45,
+          "timestamp": "2022-03-10T15:08:17.514Z"
+        }, {
+          "latE7": 399973207,
+          "lngE7": 1163311215,
+          "accuracyMeters": 87,
+          "timestamp": "2022-03-10T15:11:35.861Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 8184.151507994233
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 399885427,
+          "longitudeE7": 1163302458,
+          "accuracyMetres": 147
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2022-03-10T15:52:22.231Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399894104,
+        "longitudeE7": 1163302917,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 20.470556,
+        "calibratedProbability": 43.018776
+      },
+      "duration": {
+        "startTimestamp": "2022-03-12T06:33:27.913Z",
+        "endTimestamp": "2022-03-13T00:16:06.296Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399895400,
+      "centerLngE7": 1163299200,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 9.534483,
+        "calibratedProbability": 20.03667
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 5.741682,
+        "calibratedProbability": 12.066117
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.6203118,
+        "calibratedProbability": 1.3035823
+      }, {
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.600419,
+        "calibratedProbability": 1.2617776
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399893532,
+        "longitudeE7": 1163302765,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 17.45786,
+        "calibratedProbability": 45.302822
+      },
+      "duration": {
+        "startTimestamp": "2022-03-18T05:44:33.014Z",
+        "endTimestamp": "2022-03-18T13:30:40.994Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399895500,
+      "centerLngE7": 1163299300,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 6.512047,
+        "calibratedProbability": 16.89864
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 5.8540483,
+        "calibratedProbability": 15.191146
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.84644526,
+        "calibratedProbability": 2.1965096
+      }, {
+        "latitudeE7": 399899639,
+        "longitudeE7": 1163297790,
+        "placeId": "ChIJf6R5lANU8DURV-ZTlPuHvxs",
+        "address": "中国北京市海淀区五道口中关村北二条X8QH+XWJ 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Green Guocheng And Engineering Key Point Laboratory",
+        "locationConfidence": 0.7181427,
+        "calibratedProbability": 1.8635669
+      }, {
+        "latitudeE7": 399903900,
+        "longitudeE7": 1163292600,
+        "placeId": "ChIJs_cLvQNU8DURLrWGw9GPZoY",
+        "address": "中国北京市海淀区五道口X8RH+5P2 邮政编码: 100190",
+        "name": "New York House",
+        "locationConfidence": 0.5859413,
+        "calibratedProbability": 1.5205067
+      }, {
+        "latitudeE7": 399899639,
+        "longitudeE7": 1163297790,
+        "placeId": "ChIJr1t4lANU8DURLe_76Pe7d2U",
+        "address": "中国北京市海淀区五道口中关村北二条X8QH+XWJ 邮政编码: 100190",
+        "name": "Shifa Tiyuchang Road Cleaning Production Technology National Engineering Laboratory",
+        "locationConfidence": 0.47962713,
+        "calibratedProbability": 1.2446234
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 8,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399893456,
+        "longitudeE7": 1163302765,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 19.698343,
+        "calibratedProbability": 46.979305
+      },
+      "duration": {
+        "startTimestamp": "2022-03-26T12:27:49.847Z",
+        "endTimestamp": "2022-03-27T00:05:12.492Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399890400,
+      "centerLngE7": 1163304340,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 6.294694,
+        "calibratedProbability": 15.012447
+      }, {
+        "latitudeE7": 399858600,
+        "longitudeE7": 1163293440,
+        "placeId": "ChIJdRSC5wBU8DURbJ5ceKonCiw",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "Zhongguancun station",
+        "locationConfidence": 2.069626,
+        "calibratedProbability": 4.9359274
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJyWWe_gNU8DURGWbs5TBNoCU",
+        "address": "中国北京市海淀区中关村北一条2号 邮政编码: 100190",
+        "name": "Chinese Academy of Sciences Lihua Institute of Technology （North Gate）",
+        "locationConfidence": 2.0588558,
+        "calibratedProbability": 4.910241
+      }, {
+        "latitudeE7": 399882960,
+        "longitudeE7": 1163300300,
+        "placeId": "ChIJx5zRWAFU8DURce3UXVE8sGs",
+        "address": "中国北京市海淀区中关村北一条1 邮政编码: 100190",
+        "name": "中国地震局工程力学所北京强震观测中心",
+        "locationConfidence": 1.0162101,
+        "calibratedProbability": 2.4235969
+      }, {
+        "latitudeE7": 399904980,
+        "longitudeE7": 1163330460,
+        "placeId": "ChIJ1zCr8ARU8DUReugYEgl5xWk",
+        "address": "中国北京市海淀区五道口 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.5934641,
+        "calibratedProbability": 1.4153743
+      }, {
+        "latitudeE7": 399903070,
+        "longitudeE7": 1163329160,
+        "placeId": "ChIJA8S39wRU8DURzyEFlTnlfjc",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "东升园",
+        "locationConfidence": 0.5912192,
+        "calibratedProbability": 1.4100204
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.4822504,
+        "calibratedProbability": 1.1501367
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 11,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 399892578,
+        "longitudeE7": 1163302765,
+        "placeId": "ChIJYYW-kwNU8DURX-Uv0dK-M0I",
+        "address": "1 Zhongguancun North 2nd Alley, 海淀区北京市 China, 100098",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 15.052669,
+        "calibratedProbability": 41.83781
+      },
+      "duration": {
+        "startTimestamp": "2022-03-29T17:55:07.148Z",
+        "endTimestamp": "2022-03-30T08:06:10.188Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 399885089,
+      "centerLngE7": 1163302911,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 399858600,
+        "longitudeE7": 1163293440,
+        "placeId": "ChIJdRSC5wBU8DURbJ5ceKonCiw",
+        "address": "中国北京市海淀区 邮政编码: 100190",
+        "name": "Zhongguancun station",
+        "locationConfidence": 7.9981103,
+        "calibratedProbability": 22.230173
+      }, {
+        "latitudeE7": 399882960,
+        "longitudeE7": 1163300300,
+        "placeId": "ChIJx5zRWAFU8DURce3UXVE8sGs",
+        "address": "中国北京市海淀区中关村北一条1 邮政编码: 100190",
+        "name": "中国地震局工程力学所北京强震观测中心",
+        "locationConfidence": 3.0359652,
+        "calibratedProbability": 8.438248
+      }, {
+        "latitudeE7": 399895860,
+        "longitudeE7": 1163307480,
+        "placeId": "ChIJDbrJigNU8DUR7BojkEs7yno",
+        "address": "中国北京市海淀区五道口中关村东路29号 邮政编码: 100190",
+        "name": "联通营业厅",
+        "locationConfidence": 1.2630508,
+        "calibratedProbability": 3.510559
+      }, {
+        "latitudeE7": 399889190,
+        "longitudeE7": 1163305160,
+        "placeId": "ChIJz1uO-QNU8DURLR6jSsrbEDQ",
+        "address": "中国北京市海淀区中关村路17号西 邮政编码: 100190",
+        "name": "北京九百合时装销售有限责任公司",
+        "locationConfidence": 0.7324613,
+        "calibratedProbability": 2.0358236
+      }, {
+        "latitudeE7": 399884830,
+        "longitudeE7": 1163297680,
+        "placeId": "ChIJx5zRWAFU8DURxt1FVYWZNow",
+        "address": "中国北京市海淀区中关村北一条1号 邮政编码: 100190",
+        "name": "京久安招待所",
+        "locationConfidence": 0.7187751,
+        "calibratedProbability": 1.9977838
+      }, {
+        "latitudeE7": 399875900,
+        "longitudeE7": 1163305300,
+        "placeId": "ChIJVeoXTAFU8DURxJNCvdhMEv0",
+        "address": "中国北京市海淀区五道口X8QJ+26J 邮政编码: 100190",
+        "name": "安立意大利餐厅",
+        "locationConfidence": 0.67557985,
+        "calibratedProbability": 1.8777257
+      }, {
+        "latitudeE7": 399886370,
+        "longitudeE7": 1163297300,
+        "placeId": "ChIJA-P44QNU8DUR5hp_2h7-XWw",
+        "address": "中国北京市海淀区五道口东升园公寓11号楼1门101室 邮政编码: 100190",
+        "name": "富莱雅健身中心",
+        "locationConfidence": 0.56495553,
+        "calibratedProbability": 1.5702534
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 4,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 223080470,
+        "longitudeE7": 1139184808,
+        "placeId": "ChIJncZGzPPiAzQRnjaSGIKQ9fk",
+        "address": "香港赤鱲角翔天路1號",
+        "name": "Hong Kong International Airport",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 87.943886,
+        "calibratedProbability": 78.18106
+      },
+      "duration": {
+        "startTimestamp": "2022-03-30T08:06:10.188Z",
+        "endTimestamp": "2022-03-30T23:50:33.275Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 223183740,
+      "centerLngE7": 1139329560,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 223181900,
+        "longitudeE7": 1139344485,
+        "placeId": "ChIJJVuood7iAzQRePt3KMQdMYs",
+        "address": "香港赤鱲角暢達路11號",
+        "name": "Multi-storey Car Park 4",
+        "locationConfidence": 0.8061667,
+        "calibratedProbability": 0.71667254
+      }, {
+        "latitudeE7": 223149715,
+        "longitudeE7": 1139340063,
+        "placeId": "ChIJpbM79NziAzQRmh3HYK8WnQc",
+        "address": "香港大嶼山暢達路1號",
+        "locationConfidence": 0.15307343,
+        "calibratedProbability": 0.13608044
+      }, {
+        "latitudeE7": 223147846,
+        "longitudeE7": 1139326803,
+        "placeId": "ChIJ92j8KmvjAzQRclXE5WN2HuY",
+        "address": "香港赤鱲角",
+        "name": "Complimentary Shower Facilities",
+        "locationConfidence": 0.14310418,
+        "calibratedProbability": 0.1272179
+      }, {
+        "latitudeE7": 223800660,
+        "longitudeE7": 1138772075,
+        "placeId": "ChIJ4W_J0QvwAzQRAsixyb1kcHU",
+        "address": "South China Sea",
+        "name": "South China Sea",
+        "locationConfidence": 0.09936802,
+        "calibratedProbability": 0.08833698
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 376213129,
+        "longitudeE7": -1223789554,
+        "placeId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "address": "San Francisco, CA 94128, USA",
+        "name": "San Francisco International Airport",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 92.60929,
+        "calibratedProbability": 75.127716
+      },
+      "duration": {
+        "startTimestamp": "2022-03-30T23:50:33.275Z",
+        "endTimestamp": "2022-03-31T01:44:14.508Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 376166753,
+      "centerLngE7": -1223881427,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 376046974,
+        "longitudeE7": -1223868685,
+        "placeId": "ChIJgQByj7x3j4ARwhrbm19lu_o",
+        "address": "301 Santa Paula Ave, Millbrae, CA 94030, USA",
+        "name": "Bayside Manor Park",
+        "locationConfidence": 0.9809446,
+        "calibratedProbability": 0.7957746
+      }, {
+        "latitudeE7": 376160179,
+        "longitudeE7": -1223924995,
+        "placeId": "ChIJVVVVVYx3j4ARyN7qnq2JceQ",
+        "address": "San Francisco, CA 94128, USA",
+        "name": "San Francisco International Airport",
+        "locationConfidence": 0.6535684,
+        "calibratedProbability": 0.53019625
+      }, {
+        "latitudeE7": 376149116,
+        "longitudeE7": -1223888242,
+        "placeId": "ChIJBaxYZ4l3j4ARwUI406_BeBA",
+        "address": "174, San Francisco International Airport, I-4-032 Courtyard A, San Francisco, CA 94128, USA",
+        "name": "Asiana Airlines",
+        "locationConfidence": 0.08507463,
+        "calibratedProbability": 0.06901535
+      }, {
+        "latitudeE7": 376077676,
+        "longitudeE7": -1223867408,
+        "placeId": "ChIJM8LKU7x3j4ARhNHKcTWebq4",
+        "address": "110 S McDonnell Rd, San Francisco, CA 94128, USA",
+        "locationConfidence": 0.08394755,
+        "calibratedProbability": 0.06810102
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 78,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 376153449,
+        "longitudeE7": -1223934535,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 373367213,
+        "longitudeE7": -1220364089,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T01:44:14.508Z",
+        "endTimestamp": "2022-03-31T02:43:53.640Z"
+      },
+      "distance": 51049,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 93.98568868637085
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.4690931662917137
+      }, {
+        "activityType": "STILL",
+        "probability": 1.7464786767959595
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6596056744456291
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.4924387205392122
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.41254786774516106
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0790183199569583
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0694167974870652
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.05505784065462649
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.01583190751262009
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.010866574302781373
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.001752630305418279
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0016597930880379863
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.441945631901035E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4789391933334173E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 376166343,
+          "lngE7": -1223980407
+        }, {
+          "latE7": 373337669,
+          "lngE7": -1220646057
+        }, {
+          "latE7": 373367195,
+          "lngE7": -1220362396
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJc-CRyJx3j4ARibkug0ENSF4",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJKfPdyYF3j4ARf3nKc17JaDA",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJJdlWNIB3j4ARsnPvv9vNRis",
+          "duration": "68s"
+        }, {
+          "placeId": "ChIJoZgKMMR5j4AR_qMViITP_Fc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJKw3ROsR5j4ARdNmgh-MYEO0",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJxStrCMR5j4AR8-aJEdgQ5mM",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJxStrCMR5j4ARr4U9giICG7A",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJRU2X6cN5j4ARiD-Pd2mS6Xo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJk9muy8N5j4ARy_rbX-hXKlg",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJHX90bcJ5j4ARIvxOHRCQqW0",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJHX90bcJ5j4ARGDPbYO0Ox1o",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJYTAlx-l5j4AR8UhSdK06Ma0",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJYTAlx-l5j4ARY0SezQbh0ZE",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ2_dJNul5j4ARtfS9t-w7g4Q",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJqWV4uO55j4ARtt6-q3VK5oM",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJqWV4uO55j4AR5nA18kb6v2I",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ9RjP3O55j4AR5vG9k10gTsk",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJzbC6Fu95j4ARYd_mmLLhNI0",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJzbC6Fu95j4AR1j5B29VQrBY",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJG0gPCOZ5j4ARpeFQND9a0dM",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJb_wQCeZ5j4ARK-Yp5_c_zQo",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJwYRc6OZ5j4ARXjhLs2rmX44",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJNemB5-B5j4ARhNHGwDonQNA",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJNemB5-B5j4ARgafW4wy-BDo",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJScb7XeB5j4ARmha06LeMcZU",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ6z1rEOB5j4ARmu02qP48Mgg",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ6z1rEOB5j4AR8kO00QxI208",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ5SGo4F93j4ARKnxo1Tk7uwk",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJkz5dK153j4ARjQfVStazt5s",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJt2TGdV53j4ARsXfxySa1S6c",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJLxzpMUN3j4ARsp28JulbVDk",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJ7QWHnEF3j4ARchxl2Tugiec",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ_1YNukF3j4ARMlrEbf0dyKI",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJcaTEI0B3j4ARiZz24cIhgUg",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJwcayVhR3j4ARwkUGQCXZ8Ug",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ0Q4XURR3j4ARRYPaNT3KTG4",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJ4_PHGxR3j4AR83nGi9YLORs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJiZQ6jxB3j4AREki9c5A3B3s",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJQyPjtAR3j4ARe2EzxKoVTrA",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ1ZQSXQN3j4ARoRm_LFENBos",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJvQfeAAN3j4ARj11n9nZUTAw",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJZ7IJ6f52j4ARRoC9gNNRDCQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJZ7IJ6f52j4ARs-4-W7Ty5Ww",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJhcVq1vh2j4ARRGy94okZPVo",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJyVNlFPh2j4ARROPjlWCu55M",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ6VYfPmd2j4ARAANkWAR4RX8",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJwUHB5uZ1j4ARAvlGiS50GX4",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJbcTpUe91j4ARoQzikV2i0ss",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJBTg4Pe91j4ARuP5dt5zEhU4",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJO-NKBIZ1j4ARghpmu5OHiiQ",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ4QopjYZ1j4ARy4_Bs07umBE",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ4QopjYZ1j4AR7Ml0qOnXjZk",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJNVDZkoZ1j4ARbeHsSBn0mDk",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ8RktIIF1j4AR6yYV9VSAiuY",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJY8iEH4F1j4ARWuOeyRE9Hgs",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJj28UQYB1j4ARoSoN5bDzAzQ",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJj28UQYB1j4AR_ZEzl_wGlhg",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJke1t5X91j4ARuYocQW97GDs",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJOSn4ddafj4AR2bqZ-R-ANW4",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJOSn4ddafj4ARUtd7bzRI7Oo",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ1VLtvsKfj4ARq3HCrda8NAs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJO2Az7-ufj4ARxHeBXfz-MhE",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJyWGXSu2fj4ARov1xiHDRYEA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJLbd6MO2fj4ARXWLidwXBGgY",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJZUjeayqgj4AR7UNahjsM9Gc",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJkwNmOSugj4ARh3nMy4C4Ius",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJZ9S7TCugj4ARw7Jb3eaRKZU",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ6b8zdtOhj4AR4Mck8Azy6YE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJFwJMkdGhj4AReI9jPlTA9DA",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJzQo0x8-hj4ARSepxv3yJ6BY",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJ838SYM-hj4ARejwf4M0lHrY",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJlwUGB8ahj4AR8BN4aYWqOl4",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ7y93Gsahj4ARdvlZY2ovtr8",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ1ZxFMMahj4ARnrTGJ7yCbWo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ7a3CKLihj4ARef7aSGhl3yQ",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJ46GF2Lmhj4AR_VecFJb260I",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJy8HDiLqhj4ARkwIDVzV-1v8",
+          "duration": "36s"
+        }, {
+          "placeId": "ChIJgdshq6Whj4ARAzkRCC684uE",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJkbzIMqGhj4ARXtTgP1Q7DsE",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJIws-dgqhj4ARUVhB0U-Xqio",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJmXyuBg2hj4AR6yQpx_bPbj8",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJhQOzZg2hj4ARMmiASzxeZz0",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJG0iBbFehj4ARNZc34CYWFCc",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJxeBXsVehj4AR_tYfKHevwTs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJnW0MtVehj4ARm85CxTFTX8Q",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJyYRk4fujj4ARlJgADR6LY4s",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJBc3cKvijj4ARosBXkDoyvOw",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ_zpA9Aykj4ARQxN-rPXmJIw",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJIenR-gykj4ARjE3t8KR6X00",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJEcufUG2kj4ARXxR8Axv3gHE",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJZ6hPAm2kj4AR4qBoexNiXRE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ10NDXWykj4ARYreGFwONctE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJb5BJwVykj4ARUmaWLZf_xpg",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJ0TdKm1ykj4ARA9t1f79kK6Q",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJETFP3lmkj4ARZd9ijU82EXw",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJy6AXlfikj4ARYovza8GsWYY",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJtwjJpv6kj4AR0sEqtR49T4M",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJk_8DO_ykj4ARVUuPyg2gGec",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ18I8Ivykj4AR2CNBK_EW51k",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJySbQpf2kj4ARACmlzF0tQzU",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJYRv8BBilj4AR7_ssSREPuSA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJg_3QPj2lj4ARcsmzTNu53mI",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJg_3QPj2lj4ARm6eHPIzJ7sU",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJa1aWPj2lj4AR-QfTG08ZLsQ",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJdSG4Xzylj4AR6d7Lifvrbhc",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJdSG4Xzylj4ARhmGRdAP-fp8",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJA1dOdDylj4AR7v-R1hDOlhY",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJnXJm4Dulj4ARjIH-tCnUM3I",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJC11uYTmlj4ARhPuBxddadmA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ4V2FBTilj4ARLQQZMCinR9U",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJj4KV_Uelj4ARv03te4FGKiE",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJQdt48Uilj4AR30UmSiMk_7k",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJgxF83k2lj4ARCdN1AVSuxNw",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJr7k4blKlj4ARU4U7q37WD-g",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJz2wecqu6j4ARpUXvdVNeCNE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ-Qfpg6m6j4ARoTk2q5oXO98",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJpWxJeAiwj4ARQf6ayjmB9TI",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJpWxJeAiwj4ARC3TOlPGwhrE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ6f0w8giwj4AR8U4Wyi96P_w",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJSY7QPAmwj4ARU8UM1kD-jOk",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJk-q1Rwmwj4ARiuk57BZhxIQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJCzwKVAmwj4ARi9ps7NOmW80",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJv80hWwywj4ARmyi6ouScgK8",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJgcO6zGywj4ARvu75GffcK5I",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJQw37qWywj4AR5aXl_fgaO68",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJIWZ88Gqwj4ARgs65Joovkuk",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJIWZ88Gqwj4AR74MkRVg67qc",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJ1QZF70Owj4ARv-p0jx_8TuY",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJaXfX_USwj4ARSMPiRpmOumc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJdfpcFEWwj4ART_P93XTG07A",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJRafw-0-wj4ARDnsMOMwfMtE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJRafw-0-wj4ARVVa1hZ6MFz4",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJzQn4NVCwj4AROTTGOeHtXoM",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ1QpPClGwj4ARf_Iiv3A_cbo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJNTheaFGwj4AR_5WUH9lTAYk",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJY2q-V1Gwj4ARDNrVpTB3Um0",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ7YVYEVSwj4ARW4OOWXzIlxk",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJd5eMCVWwj4ARqeB5ZYzgL0M",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJRxNV5wGxj4ARiDR6NgYf6UY",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJwd9EIQKxj4ARsfLHyCHQ9lU",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJwd9EIQKxj4ARjy7PCb7ciDg",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJY3s8NAKxj4ARahP76ieBSos",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJTSaptgOxj4ARZG2s9JSnlTk",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJi8Xe3QSxj4ARwXIZ_G18bSI",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJi8Xe3QSxj4AR-wZmAoAa57g",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJibJHTAWxj4ARHn0Prwj6p_M",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ0xxKqhqxj4ARvK-b7p7B4lI",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ_yfeHxSxj4AROqgzPGMw9zs",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJCV0LuhWxj4ARPtGsVVSzRaw",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ99PxdhWxj4ARt_88ODXb44w",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJu-5vE0Cxj4AR-UxVyKwp2eQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJOVanT0Cxj4AR8EUr0Ym4mOM",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJXTJCXUSxj4ARM1TFSgxXqEU",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJl9aZMwS0j4ARZUPesgBecjc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJoZ1ktAW0j4ARuqwKTlYmEDQ",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ7X_7rgW0j4AR2Xv8ZvRKnpw",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ18NuCAW0j4ARqv3DUFYcHd8",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJC__dFQW0j4ARwDQJP1BSdUw",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJYTfnNQW0j4ARSmJGJ8fkeHk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJLTJ7lBq0j4ARNum7J3sS7Pc",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJLTJ7lBq0j4AR6Kb1ckQvrVg",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJIw2NbRq0j4ARaZFJs78UVDY",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJLWMZABq0j4ARasGVqgKqDLs",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJLWMZABq0j4ARKFkxKfCrETk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ24BraBe0j4ARiWf4N1CGqQw",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJif67bhe0j4AR3RMC7r34LKY",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJLS7eNBa0j4ARdDekuj510j0",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJdThZLxa0j4AR4uFiXUF8WKs",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJdThZLxa0j4ARQR0mKHQp394",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJf93r0z20j4ARiec2k4QFgpE",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJQ1Xd0z20j4ARHV4OpQ8ZuW4",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJQ1Xd0z20j4AR04Q9av-e7MU",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJobbnpj60j4ARd7RRdK1anJM",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJobbnpj60j4ARyamiscrbLzA",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ2clTqz60j4ARSSNptmxWz9g",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJOQI-kDm0j4ARtrxq4NGJM-s",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJOQI-kDm0j4ARSKiH_iL3TAo",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJtch-XDe0j4AReGLqzmmu-1g",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJbV4o4Da0j4ARXeeEQu8cWXE",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJbV4o4Da0j4ARWMQs7ocnR98",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ1bq1NzW0j4ARXmNbbuCjapY",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJvQoxtcq1j4ARawDi6YVP6Ok",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJYdc4fsq1j4ARAVFGg4C8Eqk",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJYe2Pi7W1j4AReusYCRT5g-s",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ-Que5bW1j4ARSEZPw4HBzZs",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJzVskC7a1j4ARy_GjC0NNeRY",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJVS5JC7a1j4ARCbAUrFh5MqA",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJfyJyC7a1j4ARYiYBC_befNU",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJfeaRBra1j4ARpMnLW6SZO-E",
+          "duration": "37s"
+        }, {
+          "placeId": "ChIJAW6n8Mm1j4ARRcB5KYuMFKM",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJCWJF88m1j4ARaYyccoCA_UI",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJjzNtjMm1j4ARdgYTwStx54w",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ97clj8m1j4ARjDchL2CIGXA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJY6bpg8m1j4ARXPeXU0ibfNU",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJecWvfsm1j4ARQsha5-zvlHo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJecWvfsm1j4ARFx-3xDG4PUo",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJE0b71su1j4ARO5CyhcPSC44",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJ8VPFxcu1j4ARWeaEASPD7TQ",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ2dpsx8u1j4ARNbAIBLwqriM",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ44Suvsu1j4ARYMWOjmUIgaw",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJpxbYosu1j4ARvDHcrT8NxNA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJhwlBosu1j4ARrka6HR2evvc",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJf8s6osu1j4ARzkm6sQXKoRM",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJvXiQpsu1j4ARegIX16W0WQA",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJT6EFCMu1j4ARQTp0Y-vsNdU",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJWfncqcu1j4ARSDM8p7Ft5L4",
+          "duration": "34s"
+        }, {
+          "placeId": "ChIJZSQ4Acu1j4ARlu1HTUvusBM",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJYYdVAcu1j4AR3fFrukZubos",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJYYdVAcu1j4ARqn8T6tZYQVQ",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJ27b4A8u1j4ARqnwRLiBv2p8",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJ12sNEMu1j4ARw2i3ZAffmyk",
+          "duration": "115s"
+        }],
+        "distanceMeters": 58420.79986503667,
+        "travelMode": "DRIVE",
+        "confidence": 0.9998958517334179
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373367213,
+          "longitudeE7": -1220364089,
+          "accuracyMetres": 64
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-03-31T02:43:53.654Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373367620,
+        "longitudeE7": -1220346200,
+        "placeId": "ChIJS1vLssu1j4AR0AhurQEDPrs",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Homestead Square Shopping Center",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 31.05181,
+        "calibratedProbability": 86.97988
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T02:43:53.640Z",
+        "endTimestamp": "2022-03-31T03:13:01.124Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 373367236,
+          "longitudeE7": -1220364984,
+          "placeId": "ChIJwyj6e5O1j4ARvhsunDMPfmA",
+          "address": "20674 Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "Pho Hoa Noodle Soup - Homestead",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 34.387302,
+          "calibratedProbability": 33.3376
+        },
+        "duration": {
+          "startTimestamp": "2022-03-31T02:52:12.599Z",
+          "endTimestamp": "2022-03-31T03:13:01.124Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 373367047,
+        "centerLngE7": -1220364531,
+        "visitConfidence": 94,
+        "otherCandidateLocations": [{
+          "latitudeE7": 373367860,
+          "longitudeE7": -1220364050,
+          "placeId": "ChIJTxPimDO0j4AR7hO5EjVjlGI",
+          "address": "20676 West Homestead Road, Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "Starbucks",
+          "locationConfidence": 24.997913,
+          "calibratedProbability": 24.234833
+        }, {
+          "latitudeE7": 373366075,
+          "longitudeE7": -1220364217,
+          "placeId": "ChIJESooEcu1j4ARUKm-wD4Zeyw",
+          "address": "20672 Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "Fish\u0027s Wild",
+          "locationConfidence": 22.124237,
+          "calibratedProbability": 21.448877
+        }, {
+          "latitudeE7": 373370910,
+          "longitudeE7": -1220364160,
+          "placeId": "ChIJ0Yswecm1j4ARNMQsiaowIRE",
+          "address": "20682 Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "Yayoi Cupertino",
+          "locationConfidence": 5.3584633,
+          "calibratedProbability": 5.194892
+        }, {
+          "latitudeE7": 373362819,
+          "longitudeE7": -1220362184,
+          "placeId": "ChIJB3BK1xa1j4ARMqxM8rvgQc4",
+          "address": "20660 Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "FedEx Drop Box",
+          "locationConfidence": 4.1015754,
+          "calibratedProbability": 3.9763715
+        }, {
+          "latitudeE7": 373373040,
+          "longitudeE7": -1220355201,
+          "placeId": "ChIJL4dgz8u1j4ARjRRK9RvObCs",
+          "address": "20576 Homestead Rd, Cupertino, CA 95014, USA",
+          "name": "Chase Bank",
+          "locationConfidence": 1.2070445,
+          "calibratedProbability": 1.1701984
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 58,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 373367137,
+      "centerLngE7": -1220364425,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373372139,
+        "longitudeE7": -1220370889,
+        "placeId": "ChIJ4-H4QMu1j4ARrpxP3Qap9HE",
+        "address": "10981 Franco Ct, Cupertino, CA 95014, USA",
+        "name": "Franco Park",
+        "locationConfidence": 0.43889695,
+        "calibratedProbability": 1.2294036
+      }, {
+        "latitudeE7": 373357483,
+        "longitudeE7": -1220381189,
+        "placeId": "ChIJI4plUsu1j4ARlTCQ3mxm77c",
+        "address": "20800 Homestead Rd, Cupertino, CA 95014, USA",
+        "name": "The Markham Apartments",
+        "locationConfidence": 0.19162586,
+        "calibratedProbability": 0.5367673
+      }, {
+        "latitudeE7": 373381385,
+        "longitudeE7": -1220365371,
+        "placeId": "ChIJ50YJn8u1j4ARL7WuiZQUPaE",
+        "address": "20691 Forge Way, Cupertino, CA 95014, USA",
+        "name": "Forge Homestead Apartments",
+        "locationConfidence": 0.14231978,
+        "calibratedProbability": 0.39865497
+      }, {
+        "latitudeE7": 373328840,
+        "longitudeE7": -1220379304,
+        "placeId": "ChIJXSk_V7W1j4AR8d8h8MlSofE",
+        "address": "20875 Valley Green Dr, Cupertino, CA 95014, USA",
+        "name": "Villages at Cupertino Apartment Homes",
+        "locationConfidence": 0.07784981,
+        "calibratedProbability": 0.21806677
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373366975,
+        "longitudeE7": -1220364756,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 373355131,
+        "longitudeE7": -1220358837,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T03:13:01.124Z",
+        "endTimestamp": "2022-03-31T03:22:24.540Z"
+      },
+      "distance": 141,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 76.62191390991211
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.966815948486328
+      }, {
+        "activityType": "STILL",
+        "probability": 1.462558377534151
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.31332995276898146
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2298901556059718
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.2075685653835535
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17021537059918046
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.008040980173973367
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006409666821127757
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.004005696246167645
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.00351823509845417
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0030799939850112423
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0017039314116118476
+      }, {
+        "activityType": "SAILING",
+        "probability": 9.452014637645334E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.844520617997006E-9
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373365173,
+          "lngE7": -1220364761
+        }, {
+          "latE7": 373365135,
+          "lngE7": -1220366897
+        }, {
+          "latE7": 373356475,
+          "lngE7": -1220358810
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ4zmVGcu1j4AR0Mfos5WnoqI",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJ4zmVGcu1j4ARZpT10PoBR10",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJ89xAH8u1j4ARXtgPJU4Ttd0",
+          "duration": "215s"
+        }, {
+          "placeId": "ChIJqWjs4Mq1j4ARnH-wE9Kvc2Q",
+          "duration": "61s"
+        }, {
+          "placeId": "ChIJ1Q_F5sq1j4ARs9L4Ko6MPh0",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJo1h2WMq1j4ARLNkhdCklY_k",
+          "duration": "154s"
+        }],
+        "distanceMeters": 205.56370120149998,
+        "travelMode": "WALK",
+        "confidence": 0.9967676141558619
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373355148,
+        "longitudeE7": -1220358749,
+        "placeId": "ChIJSzfE8Mq1j4ARQZxoIwvBA5I",
+        "address": "20650 Celeste Cir, Cupertino, CA 95014, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 88.81152,
+        "calibratedProbability": 82.6671
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T03:22:24.540Z",
+        "endTimestamp": "2022-03-31T17:35:03.427Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 373355078,
+      "centerLngE7": -1220358793,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373355148,
+        "longitudeE7": -1220358749,
+        "placeId": "ChIJSzfE8Mq1j4ARtMO1eEbfQRA",
+        "address": "20651 Celeste Cir, Cupertino, CA 95014, USA",
+        "locationConfidence": 4.270304,
+        "calibratedProbability": 3.9748633
+      }, {
+        "latitudeE7": 373367620,
+        "longitudeE7": -1220346200,
+        "placeId": "ChIJS1vLssu1j4AR0AhurQEDPrs",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Homestead Square Shopping Center",
+        "locationConfidence": 2.8264236,
+        "calibratedProbability": 2.6308775
+      }, {
+        "latitudeE7": 373355210,
+        "longitudeE7": -1220359500,
+        "placeId": "ChIJoWiM8Mq1j4ARMYYvZG42Xo8",
+        "address": "20649 Celeste Cir, Cupertino, CA 95014, USA",
+        "locationConfidence": 1.0542668,
+        "calibratedProbability": 0.98132735
+      }, {
+        "latitudeE7": 373357483,
+        "longitudeE7": -1220381189,
+        "placeId": "ChIJI4plUsu1j4ARlTCQ3mxm77c",
+        "address": "20800 Homestead Rd, Cupertino, CA 95014, USA",
+        "name": "The Markham Apartments",
+        "locationConfidence": 0.28151378,
+        "calibratedProbability": 0.26203725
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 74,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373355031,
+        "longitudeE7": -1220358464,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 373241280,
+        "longitudeE7": -1220325366,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T17:35:03.427Z",
+        "endTimestamp": "2022-03-31T17:55:13Z"
+      },
+      "distance": 1298,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 83.42495560646057
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.916576087474823
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.896324664354324
+      }, {
+        "activityType": "STILL",
+        "probability": 1.812984049320221
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7651060819625854
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.604089442640543
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.5923755466938019
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.552908144891262
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.1772562274709344
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.10596615029498935
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.09951964020729065
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.040847083437256515
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005872598558198661
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005223114567343146
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.494216693766816E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373356475,
+          "lngE7": -1220358505
+        }, {
+          "latE7": 373321266,
+          "lngE7": -1220324096
+        }, {
+          "latE7": 373241195,
+          "lngE7": -1220325393
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJo1h2WMq1j4ARLdkhdCklY_k",
+          "duration": "107s"
+        }, {
+          "placeId": "ChIJ1Q_F5sq1j4ARstL4Ko6MPh0",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJqWjs4Mq1j4ARnX-wE9Kvc2Q",
+          "duration": "35s"
+        }, {
+          "placeId": "ChIJ20JT4Mq1j4ARdIhEGR7mH8Q",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJ9zHpWsq1j4AREqXAXJydE1k",
+          "duration": "297s"
+        }, {
+          "placeId": "ChIJn1S5GMq1j4ARTuH_f0jANvo",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJZ7QaH8q1j4ARSL0zn8R1FZU",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJlzGP9cm1j4ARxkk3syiU780",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJVQF49sm1j4ARGFCiei0f97M",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJhV9L-Mm1j4ARhkOmO2vFBX8",
+          "duration": "53s"
+        }, {
+          "placeId": "ChIJK_WpB7a1j4ARF2QY-7LK16Y",
+          "duration": "113s"
+        }, {
+          "placeId": "ChIJgxZyC7a1j4ARKlUsrwxdzhQ",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJVSSUdLa1j4AR5BAt9fzlzpg",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJezJMeLa1j4AR7-BylzdVc-Q",
+          "duration": "53s"
+        }, {
+          "placeId": "ChIJ70Qrgra1j4ARJ-OaEmdYJ0Q",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJv9iBnra1j4ARlrfMuC_HKf8",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJG3NJpra1j4AR3ik6N3mf3uc",
+          "duration": "59s"
+        }, {
+          "placeId": "ChIJLUYhq7a1j4AR4MkZRT1_e-g",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJNaYuVLG1j4ARGr1OBo_b4v4",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJTV8bWbG1j4ARUElxNIgAOJg",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJXyt6YbG1j4ARiGFmYCX7HTY",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJhTJ6f7G1j4ARQoGWWcVBnes",
+          "duration": "47s"
+        }, {
+          "placeId": "ChIJI_l7ibG1j4ARBP-0pugYEZs",
+          "duration": "35s"
+        }, {
+          "placeId": "ChIJu7D6-bG1j4ARQCV9tjieZJE",
+          "duration": "71s"
+        }, {
+          "placeId": "ChIJ62QsAa61j4AR_q5I3EQUfH8",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJl69OBq61j4ARAOk3a7Y1kgg",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJGy4ECa61j4ARQmWK_SkWYvU",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJvacGC661j4ARF7YOXLLt8Tk",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJi-Gv4a21j4ARA_MrMdPLeBk",
+          "duration": "23s"
+        }],
+        "distanceMeters": 1793.4664681237168,
+        "travelMode": "DRIVE",
+        "confidence": 0.9600383649600034
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373241921,
+          "longitudeE7": -1220327317,
+          "accuracyMetres": 82
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-03-31T17:57:16.005Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373246610,
+        "longitudeE7": -1220336940,
+        "placeId": "ChIJtyma8621j4ARjeI2HR1fKQ4",
+        "address": "10122 Bandley Dr, Cupertino, CA 95014, USA",
+        "name": "Marina Food 永和超市",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 86.26036,
+        "calibratedProbability": 75.32246
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T17:55:13Z",
+        "endTimestamp": "2022-03-31T18:48:45.919Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 373243150,
+      "centerLngE7": -1220331250,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373246114,
+        "longitudeE7": -1220359767,
+        "placeId": "ChIJjYjKgrK1j4ARPY2RJiUrNZ0",
+        "address": "20745 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "Target",
+        "locationConfidence": 5.5416636,
+        "calibratedProbability": 4.838975
+      }, {
+        "latitudeE7": 373222729,
+        "longitudeE7": -1220349466,
+        "placeId": "ChIJL4-KqK21j4ARpxXtEtJ-AeU",
+        "address": "The Cupertino Crossroads, 20568 Stevens Creek Blvd, Cupertino, CA 95014, USA",
+        "name": "The Crossroads",
+        "locationConfidence": 1.31072,
+        "calibratedProbability": 1.1445193
+      }, {
+        "latitudeE7": 373238942,
+        "longitudeE7": -1220330016,
+        "placeId": "ChIJJRXVZM61j4ARe1IWDrr_fQc",
+        "address": "10101 N De Anza Blvd, Cupertino, CA 95014, USA",
+        "name": "De Anza 4 (Apple Inc.)",
+        "locationConfidence": 0.9296182,
+        "calibratedProbability": 0.81174165
+      }, {
+        "latitudeE7": 373246772,
+        "longitudeE7": -1220342185,
+        "placeId": "ChIJdwI3u661j4ARe9Fgvx4doOQ",
+        "locationConfidence": 0.50693333,
+        "calibratedProbability": 0.4426537
+      }, {
+        "latitudeE7": 373239548,
+        "longitudeE7": -1220320544,
+        "placeId": "ChIJN3ZScq61j4AROcGthMLYLng",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "De Anza \u0026 Stevens Creek",
+        "locationConfidence": 0.4602847,
+        "calibratedProbability": 0.40192014
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 373223590,
+        "longitudeE7": -1220384632,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 373354650,
+        "longitudeE7": -1220359159,
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T18:48:45.919Z",
+        "endTimestamp": "2022-03-31T20:20:01.775Z"
+      },
+      "distance": 1474,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 82.19749927520752
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 9.567080438137054
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.863082081079483
+      }, {
+        "activityType": "STILL",
+        "probability": 2.085588499903679
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.8059936575591564
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.48024803400039673
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.3852707101032138
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2446854254230857
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.12866463512182236
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0891424366272986
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0749521073885262
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.07016833988018334
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004470703061087988
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.003156529783154838
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.936984350692228E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 373224487,
+          "lngE7": -1220383987
+        }, {
+          "latE7": 373370895,
+          "lngE7": -1220322036
+        }, {
+          "latE7": 373356475,
+          "lngE7": -1220359268
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJj7d-TK21j4ARRpUtMnt4E28",
+          "duration": "167s"
+        }, {
+          "placeId": "ChIJf2ANTa21j4ARjhVysr6ZcYM",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJf2ANTa21j4ARvQkbmf-XJMY",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJPzryTq21j4ARuUDvuGqUCa8",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJ4fvkRa21j4ARubxooPAvofk",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJxZsyQK21j4ARp4llN19tCAs",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJ92rXEq21j4ARCloIpVMNybI",
+          "duration": "91s"
+        }, {
+          "placeId": "ChIJaRoODa21j4ARxuGY2crp3tI",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJxa57DK21j4ARJCvnv9Qy53c",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJhd4vp621j4ARit_yq04T5rw",
+          "duration": "152s"
+        }, {
+          "placeId": "ChIJLRHHuq21j4ARiIBPVXVLrKU",
+          "duration": "106s"
+        }, {
+          "placeId": "ChIJzbTGt621j4ARPgE_41wF1TA",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJRSyEzq21j4ARbJM_zx267L0",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJPepJ0q21j4ARFoy5aDhRIWw",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJ0dIb1a21j4ARhjLQG9bSSBY",
+          "duration": "197s"
+        }, {
+          "placeId": "ChIJGWAcfq61j4ARobpuC8Nys1s",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJGWAcfq61j4ARCVtxu8NUINs",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJReG_e661j4ARC_yoL0oUDJo",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJkaCXc661j4ARGEqASL8-nGs",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJna7ADq61j4ARudb-k57Dl3o",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJBTwxAq61j4ARHALxP3wqARc",
+          "duration": "106s"
+        }, {
+          "placeId": "ChIJj0s68bG1j4ARj2sSyMu-LYk",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJ8RkahLG1j4AReo3PjHU7ymY",
+          "duration": "212s"
+        }, {
+          "placeId": "ChIJ7y1Qe7G1j4AR3Onzh85YMfQ",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJVZn6XbG1j4ARICvSCTxQoVs",
+          "duration": "136s"
+        }, {
+          "placeId": "ChIJV0RaUbG1j4ARCGJlE1hVmHc",
+          "duration": "91s"
+        }, {
+          "placeId": "ChIJXza6rLa1j4ARPGjOjKGhEiU",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJ44UXrLa1j4ARC34kA7Apq1g",
+          "duration": "45s"
+        }, {
+          "placeId": "ChIJp5tfr7a1j4ARw4OdGrd6LtE",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJYccTpLa1j4ARP8m98gLPtJ0",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJJ48Lora1j4ARWrr0u71IsQk",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJJ48Lora1j4AR6WdPseAdz1E",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJYS_em7a1j4AREBm4tf3dpYA",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJw78ehLa1j4ARN9Lp2LRHA8g",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJw78ehLa1j4AR1Z57GXqM-o8",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJ4_3pe7a1j4ARFTtceLIzUaM",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJR78mcba1j4AROTs3Omzain8",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJ8_2VdLa1j4ARxD0ugsUBFj8",
+          "duration": "91s"
+        }, {
+          "placeId": "ChIJfyJyC7a1j4ARYiYBC_befNU",
+          "duration": "45s"
+        }, {
+          "placeId": "ChIJfeaRBra1j4ARpMnLW6SZO-E",
+          "duration": "319s"
+        }, {
+          "placeId": "ChIJAW6n8Mm1j4ARRcB5KYuMFKM",
+          "duration": "167s"
+        }, {
+          "placeId": "ChIJCWJF88m1j4ARaYyccoCA_UI",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJjzNtjMm1j4ARdgYTwStx54w",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJ97clj8m1j4ARjDchL2CIGXA",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJY6bpg8m1j4ARXPeXU0ibfNU",
+          "duration": "212s"
+        }, {
+          "placeId": "ChIJecWvfsm1j4ARQsha5-zvlHo",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJecWvfsm1j4ARFx-3xDG4PUo",
+          "duration": "45s"
+        }, {
+          "placeId": "ChIJE0b71su1j4ARO5CyhcPSC44",
+          "duration": "228s"
+        }, {
+          "placeId": "ChIJ8VPFxcu1j4ARWeaEASPD7TQ",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJ2dpsx8u1j4ARNbAIBLwqriM",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJ44Suvsu1j4ARYMWOjmUIgaw",
+          "duration": "91s"
+        }, {
+          "placeId": "ChIJpxbYosu1j4ARvDHcrT8NxNA",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJhwlBosu1j4ARrka6HR2evvc",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJTXbZocu1j4AR-_G2Ji7Qs8I",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJW8rjn8u1j4ARA4yf8Ed9iEw",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJGR6Yc8u1j4ARg28ZDt142xI",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJkXy2bsu1j4AR-X7kSGefQ8E",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJ54_Oacu1j4AR81hRy4EimmY",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJJ54Yasu1j4AR6b18fwIbCws",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJn2FKFcu1j4ARr5MH9o3y3aM",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJr51HFsu1j4AR2YwlNt1qvZ8",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJ89xAH8u1j4ARXtgPJU4Ttd0",
+          "duration": "152s"
+        }, {
+          "placeId": "ChIJqWjs4Mq1j4ARnH-wE9Kvc2Q",
+          "duration": "45s"
+        }, {
+          "placeId": "ChIJ1Q_F5sq1j4ARs9L4Ko6MPh0",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJo1h2WMq1j4ARLNkhdCklY_k",
+          "duration": "258s"
+        }],
+        "distanceMeters": 2935.675599545673,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 373354646,
+          "longitudeE7": -1220358997,
+          "accuracyMetres": 73
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-03-31T20:23:16.181Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 373355148,
+        "longitudeE7": -1220358749,
+        "placeId": "ChIJSzfE8Mq1j4ARQZxoIwvBA5I",
+        "address": "20650 Celeste Cir, Cupertino, CA 95014, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 85.730675,
+        "calibratedProbability": 78.39422
+      },
+      "duration": {
+        "startTimestamp": "2022-03-31T20:20:01.775Z",
+        "endTimestamp": "2022-04-02T00:51:12.855Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 373355016,
+      "centerLngE7": -1220358728,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 373355148,
+        "longitudeE7": -1220358749,
+        "placeId": "ChIJSzfE8Mq1j4ARtMO1eEbfQRA",
+        "address": "20651 Celeste Cir, Cupertino, CA 95014, USA",
+        "locationConfidence": 8.119578,
+        "calibratedProbability": 7.4247403
+      }, {
+        "latitudeE7": 373355210,
+        "longitudeE7": -1220359500,
+        "placeId": "ChIJoWiM8Mq1j4ARMYYvZG42Xo8",
+        "address": "20649 Celeste Cir, Cupertino, CA 95014, USA",
+        "locationConfidence": 2.305989,
+        "calibratedProbability": 2.1086526
+      }, {
+        "latitudeE7": 373367620,
+        "longitudeE7": -1220346200,
+        "placeId": "ChIJS1vLssu1j4AR0AhurQEDPrs",
+        "address": "Cupertino, CA 95014, USA",
+        "name": "Homestead Square Shopping Center",
+        "locationConfidence": 1.147681,
+        "calibratedProbability": 1.0494674
+      }, {
+        "latitudeE7": 373355150,
+        "longitudeE7": -1220358647,
+        "placeId": "ChIJSzfE8Mq1j4ARUf8xyNkGhuo",
+        "address": "20651 Celeste Cir, Cupertino, CA 95014, USA",
+        "name": "Realtor Sandeep - Cupertino, Sunnyvale, Fremont Real Estate",
+        "locationConfidence": 0.33000314,
+        "calibratedProbability": 0.3017629
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,4885 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385490554,
+        "longitudeE7": -1217215261
+      },
+      "endLocation": {
+        "latitudeE7": 385417484,
+        "longitudeE7": -1217252102
+      },
+      "duration": {
+        "startTimestamp": "2020-03-01T23:00:08.252Z",
+        "endTimestamp": "2020-03-01T23:08:46.819Z"
+      },
+      "distance": 1532,
+      "activityType": "CYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 54.63441014289856
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.913309812545776
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.623803555965424
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }, {
+          "latE7": 385475959,
+          "lngE7": -1217215805
+        }, {
+          "latE7": 385497016,
+          "lngE7": -1217199783
+        }, {
+          "latE7": 385509986,
+          "lngE7": -1217199630
+        }, {
+          "latE7": 385492172,
+          "lngE7": -1217255401
+        }, {
+          "latE7": 385480270,
+          "lngE7": -1217264938
+        }, {
+          "latE7": 385417022,
+          "lngE7": -1217250137
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ_QfrtH0phYAR-4fUb2lA3BA"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR24k7hPiITg4"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7-osAjg76sY"
+        }, {
+          "placeId": "ChIJs381UHwphYARM05v-dLyzho"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARq18JkTxUmrU"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVSCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJxar38H0phYAR0x1tCc9iXi4"
+        }, {
+          "placeId": "ChIJFZ8eGX4phYARnD_aFR7QMy8"
+        }, {
+          "placeId": "ChIJMXZ3In4phYARJBbRnDtA5Mg"
+        }, {
+          "placeId": "ChIJxVVAIn4phYARaUMuHprbjNo"
+        }, {
+          "placeId": "ChIJdfO5I34phYARg5az1UUVpfw"
+        }, {
+          "placeId": "ChIJN7VhI34phYARKc7xGA6gSX0"
+        }, {
+          "placeId": "ChIJ6TpeO34phYARq2OmiEsNsvM"
+        }, {
+          "placeId": "ChIJ5Xr8O34phYARqyUfhWzhST4"
+        }, {
+          "placeId": "ChIJzQIrP34phYARL0FLxTTreik"
+        }, {
+          "placeId": "ChIJNzutOH4phYAR0b6eb6Si_uo"
+        }, {
+          "placeId": "ChIJeZnJWH4phYARJCesxDDJ9d4"
+        }, {
+          "placeId": "ChIJvSuD9n4phYARKysUeylWKQw"
+        }, {
+          "placeId": "ChIJgURV8n4phYARExGJ_Rrb_k8"
+        }, {
+          "placeId": "ChIJgwFqlH4phYAR1xR8yKnDDUY"
+        }, {
+          "placeId": "ChIJG7ynvH4phYAR4Xtrg4j9N34"
+        }, {
+          "placeId": "ChIJM6QNpX4phYARHi_biL7w7u0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARltOLj9sBDQw"
+        }, {
+          "placeId": "ChIJ4zj0rH4phYAR8UByXZErvi4"
+        }, {
+          "placeId": "ChIJVby-UnkphYARJNLDwVUlwEQ"
+        }, {
+          "placeId": "ChIJVby-UnkphYARJdLDwVUlwEQ"
+        }, {
+          "placeId": "ChIJ4zj0rH4phYAR8EByXZErvi4"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqxXpGxAQsE0"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpZ94afwJFBw"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoTXmSuOVCag"
+        }, {
+          "placeId": "ChIJTYu4W3kphYARPIiWgFp1VSc"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARghOjmku_hkg"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARQIyhbxRNf9Y"
+        }, {
+          "placeId": "ChIJFSAXXXkphYAR4zwIeU2q85M"
+        }, {
+          "placeId": "ChIJ8QuPX3kphYARq4tP9CPh-Kk"
+        }, {
+          "placeId": "ChIJ0V_W4HsphYAR85tRC6mxfto"
+        }, {
+          "placeId": "ChIJ7yov5nsphYARpEsYRZAqHXo"
+        }, {
+          "placeId": "ChIJnQBh6XsphYARHmFQvCxQqgI"
+        }, {
+          "placeId": "ChIJu1rodnsphYAR_QgJz1CmXjw"
+        }, {
+          "placeId": "ChIJN_M3UHsphYARSUcvnOKxxmc"
+        }, {
+          "placeId": "ChIJFyQDpmQphYARbdYRnqymMcg"
+        }, {
+          "placeId": "ChIJzVBeoGQphYARdhXRReoNpSE"
+        }, {
+          "placeId": "ChIJrwOXY2MphYAR3tkEKInnN4U"
+        }, {
+          "placeId": "ChIJ7_XBe2MphYARbk_aGX_QCjA"
+        }, {
+          "placeId": "ChIJgUm2fmMphYARvrwJ05ieOJ8"
+        }, {
+          "placeId": "ChIJZQ42f2MphYARd3WtZ8gW2dI"
+        }, {
+          "placeId": "ChIJe6hef2MphYARV9thBVQseJg"
+        }],
+        "distanceMeters": 2554.725042535635,
+        "travelMode": "BICYCLE",
+        "confidence": 0.8588109950576043
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385496979,
+          "lngE7": -1217199097,
+          "accuracyMeters": 28,
+          "timestamp": "2020-03-01T23:02:45.632Z"
+        }, {
+          "latE7": 385493698,
+          "lngE7": -1217256088,
+          "accuracyMeters": 30,
+          "timestamp": "2020-03-01T23:04:46.037Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385411601,
+        "longitudeE7": -1217244316,
+        "placeId": "ChIJ56jbYmMphYARH_dd7uMdTeM",
+        "address": "2107-2151 Cowell Blvd, Davis, CA 95618, USA",
+        "name": "Oakshade Town Center",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 99.97923,
+        "calibratedProbability": 85.23883,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-01T23:08:46.819Z",
+        "endTimestamp": "2020-03-01T23:39:22.397Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 385413165,
+          "longitudeE7": -1217248913,
+          "placeId": "ChIJve6asDUohYARu2CHRuDsLKE",
+          "address": "2121 Cowell Blvd, Davis, CA 95618, USA",
+          "name": "Safeway",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 52.054012,
+          "calibratedProbability": 44.604904
+        },
+        "duration": {
+          "startTimestamp": "2020-03-01T23:08:46.819Z",
+          "endTimestamp": "2020-03-01T23:39:22.397Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385414463,
+        "centerLngE7": -1217251177,
+        "visitConfidence": 90,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385418452,
+          "longitudeE7": -1217250604,
+          "placeId": "ChIJV7fMhWMphYARLUc_2KN53pk",
+          "address": "2135 Cowell Blvd, Davis, CA 95616, USA",
+          "name": "Rite Aid",
+          "locationConfidence": 34.457058,
+          "calibratedProbability": 29.526134
+        }, {
+          "latitudeE7": 385421294,
+          "longitudeE7": -1217253238,
+          "placeId": "ChIJG1azgmQphYAR5hFZmLqkJ1c",
+          "address": "2151 Cowell Blvd C, Davis, CA 95618, USA",
+          "name": "Hong Kong Cafe",
+          "locationConfidence": 12.942432,
+          "calibratedProbability": 11.090326
+        }, {
+          "latitudeE7": 385405944,
+          "longitudeE7": -1217250971,
+          "placeId": "ChIJV7fMhWMphYARKanM-HWwrgM",
+          "address": "2107 Cowell Blvd, Davis, CA 95618, USA",
+          "name": "OfficeMax",
+          "locationConfidence": 0.040579975,
+          "calibratedProbability": 0.034772843
+        }, {
+          "latitudeE7": 385418290,
+          "longitudeE7": -1217217290,
+          "placeId": "ChIJ7a1ET2IphYARyi7cJL_oVgA",
+          "name": "UC Faculty Associations",
+          "locationConfidence": 1.8609023E-6,
+          "calibratedProbability": 1.5946008E-6
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 71,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 385415667,
+      "centerLngE7": -1217250700,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385418129,
+        "longitudeE7": -1217237085,
+        "placeId": "ChIJPXrZcGMphYAR94hS_wyRj2o",
+        "address": "Davis, CA 95618, USA",
+        "name": "Pole Line",
+        "locationConfidence": 0.011827012,
+        "calibratedProbability": 0.010083301
+      }, {
+        "latitudeE7": 385411545,
+        "longitudeE7": -1217250770,
+        "placeId": "ChIJSSbth2MphYAREtMvuqAgvy4",
+        "address": "2121 Cowell Blvd, Davis, CA 95616, USA",
+        "locationConfidence": 0.007767188,
+        "calibratedProbability": 0.0066220355,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385434512,
+        "longitudeE7": -1217267359,
+        "placeId": "ChIJK97TtWQphYARFZaHtXT9tLM",
+        "address": "1460 Drew Ave # 200, Davis, CA 95618, USA",
+        "name": "Physical Edge Inc",
+        "locationConfidence": 5.8384385E-4,
+        "calibratedProbability": 4.97765E-4
+      }, {
+        "latitudeE7": 385395013,
+        "longitudeE7": -1217230862,
+        "placeId": "ChIJM2kdNmEphYAR7NZl0zc4HI0",
+        "address": "1540 Valdora St, Davis, CA 95618, USA",
+        "name": "Sorrento",
+        "locationConfidence": 1.2721063E-4,
+        "calibratedProbability": 1.0845538E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385417484,
+          "lngE7": -1217252102,
+          "accuracyMeters": 39,
+          "timestamp": "2020-03-01T23:08:46.819Z"
+        }, {
+          "latE7": 385412480,
+          "lngE7": -1217250252,
+          "accuracyMeters": 33,
+          "timestamp": "2020-03-01T23:27:44.621Z"
+        }, {
+          "latE7": 385424629,
+          "lngE7": -1217250499,
+          "accuracyMeters": 35,
+          "timestamp": "2020-03-01T23:38:12.789Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 196.50614152077154
+      },
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385424629,
+        "longitudeE7": -1217250499
+      },
+      "endLocation": {
+        "latitudeE7": 385498798,
+        "longitudeE7": -1217212790
+      },
+      "duration": {
+        "startTimestamp": "2020-03-01T23:39:22.397Z",
+        "endTimestamp": "2020-03-01T23:59:27.968Z"
+      },
+      "distance": 1610,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 86.51823997497559
+      }, {
+        "activityType": "CYCLING",
+        "probability": 6.681488454341888
+      }, {
+        "activityType": "STILL",
+        "probability": 3.567889705300331
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385424652,
+          "lngE7": -1217250442
+        }, {
+          "latE7": 385479393,
+          "lngE7": -1217262954
+        }, {
+          "latE7": 385515060,
+          "lngE7": -1217203598
+        }, {
+          "latE7": 385499839,
+          "lngE7": -1217222518
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1759.6363283303779,
+        "travelMode": "WALK",
+        "confidence": 0.3747089618394961
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385515022,
+          "lngE7": -1217203369,
+          "accuracyMeters": 47,
+          "timestamp": "2020-03-01T23:55:27.070Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 64.21286,
+        "calibratedProbability": 52.585224
+      },
+      "duration": {
+        "startTimestamp": "2020-03-01T23:59:27.968Z",
+        "endTimestamp": "2020-03-02T20:50:06.395Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490606,
+      "centerLngE7": -1217215036,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 34.8331,
+        "calibratedProbability": 28.525537,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.5100492,
+        "calibratedProbability": 0.41768974
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.13625823,
+        "calibratedProbability": 0.11158465
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.11793281,
+        "calibratedProbability": 0.096577585
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385484561,
+        "longitudeE7": -1217203866
+      },
+      "endLocation": {
+        "latitudeE7": 385435763,
+        "longitudeE7": -1217462440
+      },
+      "duration": {
+        "startTimestamp": "2020-03-02T20:50:06.395Z",
+        "endTimestamp": "2020-03-02T20:59:59.072Z"
+      },
+      "distance": 2371,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 93.77946853637695
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.175826020538807
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.6907963901758194
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385484695,
+          "lngE7": -1217201843
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385436897,
+          "lngE7": -1217462768
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgS78mhGUY8Y"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfcsI-UrpZds"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKLA9nrDWAE8"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnSaeIym1jHw"
+        }],
+        "distanceMeters": 2505.901156417836,
+        "travelMode": "BICYCLE",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Pho King 4 Restaurant",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 94.597336,
+        "calibratedProbability": 86.68099,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-02T20:59:59.072Z",
+        "endTimestamp": "2020-03-02T21:22:58.621Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385435669,
+      "centerLngE7": -1217462100,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385435860,
+        "longitudeE7": -1217457702,
+        "placeId": "ChIJ35yypAsphYAR52s4Qp_Pv4U",
+        "locationConfidence": 2.5824335,
+        "calibratedProbability": 2.3663237
+      }, {
+        "latitudeE7": 385435505,
+        "longitudeE7": -1217463584,
+        "placeId": "ChIJC_ykvQsphYARh3oRZ0rSe-0",
+        "address": "220 3rd St, Davis, CA 95616, USA",
+        "name": "Ali Baba",
+        "locationConfidence": 1.5317633,
+        "calibratedProbability": 1.4035784,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 0.9301432,
+        "calibratedProbability": 0.8523045
+      }, {
+        "latitudeE7": 385437795,
+        "longitudeE7": -1217463262,
+        "placeId": "ChIJNwaAvgsphYARoqY5h30QdpM",
+        "address": "223 3rd St, Davis, CA 95616, USA",
+        "name": "3rd \u0026 U Café",
+        "locationConfidence": 0.19917583,
+        "calibratedProbability": 0.18250789
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 81,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385434224,
+        "longitudeE7": -1217468829
+      },
+      "endLocation": {
+        "latitudeE7": 385426290,
+        "longitudeE7": -1217483013
+      },
+      "duration": {
+        "startTimestamp": "2020-03-02T21:22:58.621Z",
+        "endTimestamp": "2020-03-02T21:29:21Z"
+      },
+      "distance": 151,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 58.19910168647766
+      }, {
+        "activityType": "CYCLING",
+        "probability": 34.43528413772583
+      }, {
+        "activityType": "STILL",
+        "probability": 5.90699277818203
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385434036,
+          "lngE7": -1217469940
+        }, {
+          "latE7": 385426597,
+          "lngE7": -1217476654
+        }, {
+          "latE7": 385425758,
+          "lngE7": -1217481536
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 174.84336702209796,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 North Quad, Davis, California 95616-5292, United States",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 62.014244,
+        "calibratedProbability": 46.50312
+      },
+      "duration": {
+        "startTimestamp": "2020-03-02T21:29:21Z",
+        "endTimestamp": "2020-03-03T01:41:54Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385401353,
+      "centerLngE7": -1217491783,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 37.98475,
+        "calibratedProbability": 28.48393,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385374373,
+        "longitudeE7": -1217478644,
+        "placeId": "ChIJb2Si_g0phYARN6g1telUc9Q",
+        "address": "Lake Spafford, California 95616, USA",
+        "name": "Lake Spafford",
+        "locationConfidence": 5.0037086E-4,
+        "calibratedProbability": 3.7521715E-4
+      }, {
+        "latitudeE7": 385383735,
+        "longitudeE7": -1217266658,
+        "placeId": "ChIJ90qlwGEphYARIZbkmdwcXKs",
+        "address": "Putah Creek, California, USA",
+        "name": "Putah Creek",
+        "locationConfidence": 3.6429497E-4,
+        "calibratedProbability": 2.7317682E-4
+      }, {
+        "latitudeE7": 385423490,
+        "longitudeE7": -1217488918,
+        "placeId": "ChIJ3dYK73QphYARMixKjELQmtY",
+        "address": "1 Memorial Way Union, Davis, CA 95616, USA",
+        "name": "Wells Fargo ATM",
+        "locationConfidence": 5.177036E-5,
+        "calibratedProbability": 3.8821458E-5
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385401607,
+        "longitudeE7": -1217495092
+      },
+      "endLocation": {
+        "latitudeE7": 385490312,
+        "longitudeE7": -1217214634
+      },
+      "duration": {
+        "startTimestamp": "2020-03-03T01:41:54Z",
+        "endTimestamp": "2020-03-03T02:00:22.876Z"
+      },
+      "distance": 3113,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 97.01671004295349
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.100682094693184
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.9812981821596622
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385403556,
+          "lngE7": -1217495727
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385489578,
+          "lngE7": -1217252960
+        }, {
+          "latE7": 385489997,
+          "lngE7": -1217251510
+        }, {
+          "latE7": 385496635,
+          "lngE7": -1217248764
+        }, {
+          "latE7": 385474815,
+          "lngE7": -1217266921
+        }, {
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJzYhyww4phYARnHocpnQSIAU"
+        }, {
+          "placeId": "ChIJYXnWoQ4phYARqXNwNmVepOg"
+        }, {
+          "placeId": "ChIJ7f95nw4phYARm6rM8HvH05w"
+        }, {
+          "placeId": "ChIJi6STnw4phYARDM1wpYmjdV4"
+        }, {
+          "placeId": "ChIJ3baJnw4phYAR0p5otudM8Q4"
+        }, {
+          "placeId": "ChIJzTYrPQwphYARSIf9UdYu1jE"
+        }, {
+          "placeId": "ChIJtUwVPwwphYARZv26zPxA2Nw"
+        }, {
+          "placeId": "ChIJGdNIagwphYARinlCVAlbE0I"
+        }, {
+          "placeId": "ChIJ6TJEcwwphYARreEv6kSQ7so"
+        }, {
+          "placeId": "ChIJx5sN8wsphYARUtR1uEcVufs"
+        }, {
+          "placeId": "ChIJwY8k6gsphYARUjFv6QgaZcA"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnCaeIym1jHw"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKbA9nrDWAE8"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfMsI-UrpZds"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgC78mhGUY8Y"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFw4cIpMfnbM"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXBPNyhazig8"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARzK8Hi63DWbU"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYgKrV0SzocE"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxGqnB-SH52A"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNf1hjetxoaA"
+        }, {
+          "placeId": "ChIJ527G3nYphYARgN94e9ueOGc"
+        }, {
+          "placeId": "ChIJ8zkC5HYphYARcACgokRYi5c"
+        }, {
+          "placeId": "ChIJk6md-XYphYAR6OrFMZl6BLA"
+        }, {
+          "placeId": "ChIJ7x0_CXcphYAR4XMYDotGfwk"
+        }, {
+          "placeId": "ChIJARnrb3kphYARA-3-DmLeMGM"
+        }, {
+          "placeId": "ChIJO4LyZXkphYARyxq8Xsm-EOM"
+        }, {
+          "placeId": "ChIJhypGZnkphYARlLglFon0Fxs"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARlhLQ_p_r3dM"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARQYyhbxRNf9Y"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARgxOjmku_hkg"
+        }, {
+          "placeId": "ChIJTYu4W3kphYARPYiWgFp1VSc"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoDXmSuOVCag"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpJ94afwJFBw"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqhXpGxAQsE0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARl9OLj9sBDQw"
+        }, {
+          "placeId": "ChIJkQqopX4phYARnhwD9z8T_Lo"
+        }, {
+          "placeId": "ChIJu7f2pH4phYAROx2gx8kDqv8"
+        }, {
+          "placeId": "ChIJYwEupX4phYARLUoWo1O3ecY"
+        }, {
+          "placeId": "ChIJmSNZsH4phYARwciyjHDss6o"
+        }, {
+          "placeId": "ChIJmSNZsH4phYARwMiyjHDss6o"
+        }, {
+          "placeId": "ChIJYwEupX4phYARLEoWo1O3ecY"
+        }, {
+          "placeId": "ChIJM6QNpX4phYARHi_biL7w7u0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARltOLj9sBDQw"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqxXpGxAQsE0"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpZ94afwJFBw"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoTXmSuOVCag"
+        }, {
+          "placeId": "ChIJTYu4W3kphYARPIiWgFp1VSc"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARghOjmku_hkg"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARQIyhbxRNf9Y"
+        }, {
+          "placeId": "ChIJS4ZmZ3kphYARbYCtUp7MDQ4"
+        }, {
+          "placeId": "ChIJUfV14HsphYARZ4lJtHVlgIQ"
+        }, {
+          "placeId": "ChIJ-Xjj6XsphYARs22f-u5uAOk"
+        }, {
+          "placeId": "ChIJF3wVlXsphYARtsGFoQx5-A8"
+        }, {
+          "placeId": "ChIJo5xXlnsphYARdesXLcSl9CA"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWWaKWXGdsns"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzitbAx5RmD4"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpJQKD5wzRT0"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARXl48DmoNow8"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVCCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARql8JkTxUmrU"
+        }, {
+          "placeId": "ChIJs381UHwphYARMk5v-dLyzho"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7uosAjg76sY"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR2ok7hPiITg4"
+        }, {
+          "placeId": "ChIJ_QfrtH0phYAR-ofUb2lA3BA"
+        }],
+        "distanceMeters": 4118.043212710759,
+        "travelMode": "BICYCLE",
+        "confidence": 0.2505870742770481
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385492554,
+          "lngE7": -1217254105,
+          "accuracyMeters": 80,
+          "timestamp": "2020-03-03T01:56:03.485Z"
+        }, {
+          "latE7": 385494766,
+          "lngE7": -1217248840,
+          "accuracyMeters": 17,
+          "timestamp": "2020-03-03T01:56:29.606Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 80.45759,
+        "calibratedProbability": 67.08894
+      },
+      "duration": {
+        "startTimestamp": "2020-03-03T02:00:22.876Z",
+        "endTimestamp": "2020-03-03T23:26:29.796Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490512,
+      "centerLngE7": -1217215069,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 18.405045,
+        "calibratedProbability": 15.346906,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.70909846,
+        "calibratedProbability": 0.5912763
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.112222314,
+        "calibratedProbability": 0.093575716
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.10223865,
+        "calibratedProbability": 0.085250914
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385490225,
+        "longitudeE7": -1217214503
+      },
+      "endLocation": {
+        "latitudeE7": 385373908,
+        "longitudeE7": -1217548603
+      },
+      "duration": {
+        "startTimestamp": "2020-03-03T23:26:29.796Z",
+        "endTimestamp": "2020-03-03T23:40:23.820Z"
+      },
+      "distance": 3488,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 97.06223607063293
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.3503988273441792
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.900887418538332
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }, {
+          "latE7": 385475959,
+          "lngE7": -1217215805
+        }, {
+          "latE7": 385479011,
+          "lngE7": -1217202835
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385374145,
+          "lngE7": -1217548370
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ_QfrtH0phYAR-4fUb2lA3BA"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR24k7hPiITg4"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7-osAjg76sY"
+        }, {
+          "placeId": "ChIJs381UHwphYARM05v-dLyzho"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARq18JkTxUmrU"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVSCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJVeivnHQphYARb_fjYLdHu88"
+        }, {
+          "placeId": "ChIJsw0bQ3MphYARhv7HeCQzd6o"
+        }, {
+          "placeId": "ChIJ44FEH3MphYARNUDVqrRurvE"
+        }, {
+          "placeId": "ChIJdXtAxXIphYARCUXSQIjeZjQ"
+        }, {
+          "placeId": "ChIJt_TTznIphYARcTAEqJUeBRU"
+        }, {
+          "placeId": "ChIJiZF6zHIphYARqPbaZgQxXCw"
+        }, {
+          "placeId": "ChIJV2eay3IphYARnOjP3gu7cJs"
+        }, {
+          "placeId": "ChIJIxBvynIphYARNoJXoxFtzhs"
+        }, {
+          "placeId": "ChIJW41uNw0phYARlBehgVvQG6w"
+        }, {
+          "placeId": "ChIJ7yu9EA0phYARKKNIMl82NOo"
+        }, {
+          "placeId": "ChIJWSpRpg0phYAR49msDRmoI7M"
+        }, {
+          "placeId": "ChIJjdMDpQ0phYAR6Ry3lQar2Ng"
+        }, {
+          "placeId": "ChIJE-akvw0phYARaQhU15_ee9A"
+        }, {
+          "placeId": "ChIJt2Er6A0phYARJ7ROpnSnHBE"
+        }, {
+          "placeId": "ChIJNW024g0phYARanjVr8RhYK8"
+        }, {
+          "placeId": "ChIJ-eSDBg4phYAROPHushxdjCs"
+        }, {
+          "placeId": "ChIJ_6wCEA4phYAR_dxsWy9GWi0"
+        }, {
+          "placeId": "ChIJg7uuGg4phYARP9C2-0qV08M"
+        }, {
+          "placeId": "ChIJdUuGGg4phYARmBDQtb3O0EI"
+        }, {
+          "placeId": "ChIJkTJSFw4phYAR6FMcAjQ2NnM"
+        }, {
+          "placeId": "ChIJsf5wFw4phYARzE51H2khkkI"
+        }, {
+          "placeId": "ChIJ6_ClIg4phYARVyDTwZD2msg"
+        }, {
+          "placeId": "ChIJv9lOOw4phYARtcgp34pMcCY"
+        }, {
+          "placeId": "ChIJcQrDtA8phYARlaIWN2wpeUk"
+        }, {
+          "placeId": "ChIJa8VWsQ8phYARvMq_aGdIAqA"
+        }, {
+          "placeId": "ChIJTehasA8phYARoqH-W39d_Is"
+        }, {
+          "placeId": "ChIJf1miug8phYARPKbcN9OzOgU"
+        }, {
+          "placeId": "ChIJ63HypA8phYARLZJla-4JByg"
+        }, {
+          "placeId": "ChIJR7nnow8phYARUj9nz5jiBMM"
+        }, {
+          "placeId": "ChIJt_3woQ8phYARmN3qhuvvAOs"
+        }, {
+          "placeId": "ChIJ70QWnw8phYARiCUKCvskPAM"
+        }, {
+          "placeId": "ChIJR56Hng8phYARQF_cAiNteJg"
+        }, {
+          "placeId": "ChIJky2ugg8phYARQPwnH6lKNnk"
+        }, {
+          "placeId": "ChIJHRqleA8phYARQNy7J84TjCg"
+        }, {
+          "placeId": "ChIJdX-Vfw8phYARyN4ZDNXormQ"
+        }, {
+          "placeId": "ChIJeQn1gQUphYARlw8A6aGOozk"
+        }, {
+          "placeId": "ChIJ8w19eAUphYARuUCGHujA-SM"
+        }, {
+          "placeId": "ChIJPW8_eAUphYAR6EqXgyftldE"
+        }, {
+          "placeId": "ChIJXVbJdwUphYARKhzMLRlcgDQ"
+        }],
+        "distanceMeters": 4464.14394104391,
+        "travelMode": "BICYCLE",
+        "confidence": 0.7494950615551922
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385483093,
+          "lngE7": -1217204361,
+          "accuracyMeters": 52,
+          "timestamp": "2020-03-03T23:27:45.870Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385369301,
+        "longitudeE7": -1217546082,
+        "placeId": "ChIJiduIdAUphYARf8bZqUeZaZ8",
+        "address": "545 Bainer Hall Drive, Davis, California 95616, United States",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 75.87229,
+        "calibratedProbability": 62.811184,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-03T23:40:23.820Z",
+        "endTimestamp": "2020-03-04T02:10:29.850Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385368358,
+      "centerLngE7": -1217544387,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 24.127485,
+        "calibratedProbability": 19.974037,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385383735,
+        "longitudeE7": -1217266658,
+        "placeId": "ChIJ90qlwGEphYARIZbkmdwcXKs",
+        "address": "Putah Creek, California, USA",
+        "name": "Putah Creek",
+        "locationConfidence": 1.5032983E-4,
+        "calibratedProbability": 1.2445115E-4
+      }, {
+        "latitudeE7": 385340660,
+        "longitudeE7": -1217528552,
+        "placeId": "ChIJ9aLmbhAphYAREwni9_Pkehg",
+        "address": "La Rue Rd, Davis, CA 95616, USA",
+        "name": "Elderberry Cottage",
+        "locationConfidence": 3.7434686E-5,
+        "calibratedProbability": 3.0990457E-5
+      }, {
+        "latitudeE7": 385400258,
+        "longitudeE7": -1217418274,
+        "placeId": "ChIJcRFUtnIphYARCWiLwv5Y1Rg",
+        "address": "Davis, CA 95616, USA",
+        "name": "Arboretum GATEway Garden",
+        "locationConfidence": 3.4172546E-5,
+        "calibratedProbability": 2.8289882E-5
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385374957,
+        "longitudeE7": -1217537744
+      },
+      "endLocation": {
+        "latitudeE7": 385490929,
+        "longitudeE7": -1217211714
+      },
+      "duration": {
+        "startTimestamp": "2020-03-04T02:10:29.850Z",
+        "endTimestamp": "2020-03-04T02:29:24.944Z"
+      },
+      "distance": 3781,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 95.88295817375183
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.2296952083706856
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.7728271186351776
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385376892,
+          "lngE7": -1217539520
+        }, {
+          "latE7": 385431404,
+          "lngE7": -1217493515
+        }, {
+          "latE7": 385437812,
+          "lngE7": -1217457275
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385488510,
+          "lngE7": -1217345657
+        }, {
+          "latE7": 385529441,
+          "lngE7": -1217343139
+        }, {
+          "latE7": 385492362,
+          "lngE7": -1217266311
+        }, {
+          "latE7": 385467071,
+          "lngE7": -1217265014
+        }, {
+          "latE7": 385489387,
+          "lngE7": -1217201309
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJeQn1gQUphYARlg8A6aGOozk"
+        }, {
+          "placeId": "ChIJdX-Vfw8phYARyd4ZDNXormQ"
+        }, {
+          "placeId": "ChIJHRqleA8phYARQdy7J84TjCg"
+        }, {
+          "placeId": "ChIJky2ugg8phYARQfwnH6lKNnk"
+        }, {
+          "placeId": "ChIJR56Hng8phYARQV_cAiNteJg"
+        }, {
+          "placeId": "ChIJ70QWnw8phYARiSUKCvskPAM"
+        }, {
+          "placeId": "ChIJt_3woQ8phYARmd3qhuvvAOs"
+        }, {
+          "placeId": "ChIJR7nnow8phYARUz9nz5jiBMM"
+        }, {
+          "placeId": "ChIJ63HypA8phYARLJJla-4JByg"
+        }, {
+          "placeId": "ChIJf1miug8phYARPabcN9OzOgU"
+        }, {
+          "placeId": "ChIJTehasA8phYARo6H-W39d_Is"
+        }, {
+          "placeId": "ChIJa8VWsQ8phYARvcq_aGdIAqA"
+        }, {
+          "placeId": "ChIJcQrDtA8phYARlKIWN2wpeUk"
+        }, {
+          "placeId": "ChIJHX28Rw4phYARbgnSY83wQOs"
+        }, {
+          "placeId": "ChIJk9rPQA4phYARk885BApKico"
+        }, {
+          "placeId": "ChIJiaNJQQ4phYARgz-CkxVzxgc"
+        }, {
+          "placeId": "ChIJ8UDxQw4phYARvvDMuGcDoi8"
+        }, {
+          "placeId": "ChIJ3w5SWw4phYARqG770BILCPs"
+        }, {
+          "placeId": "ChIJQWf1WA4phYARjhq2zy4Uja8"
+        }, {
+          "placeId": "ChIJ4akWww4phYAR6x2iO_jH8G4"
+        }, {
+          "placeId": "ChIJP6QIww4phYAROC_NBjUWBh8"
+        }, {
+          "placeId": "ChIJodp6ww4phYARy5SLVO-CzIo"
+        }, {
+          "placeId": "ChIJ8ZRnww4phYARo08gaz-sQqw"
+        }, {
+          "placeId": "ChIJeYZJLAkphYAR1AdgihnJYH0"
+        }, {
+          "placeId": "ChIJY5xELwkphYARmEEkfJ86SaU"
+        }, {
+          "placeId": "ChIJfWh2IQkphYAROnkoMKA-Rc4"
+        }, {
+          "placeId": "ChIJ-zyvHQkphYARpmIAcCGcz8c"
+        }, {
+          "placeId": "ChIJhwS_AgkphYARthrEut532-w"
+        }, {
+          "placeId": "ChIJnSXaBAkphYARjvpDNE8KYLI"
+        }, {
+          "placeId": "ChIJmZ37EQkphYARNbSRBsIfE2g"
+        }, {
+          "placeId": "ChIJ4Uq5bQkphYARGfInIkqTb1I"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9UCh7j5jEW8"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR2rY2j1k1yxk"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnCaeIym1jHw"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKbA9nrDWAE8"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfMsI-UrpZds"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgC78mhGUY8Y"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFw4cIpMfnbM"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXBPNyhazig8"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARzK8Hi63DWbU"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYgKrV0SzocE"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxGqnB-SH52A"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNf1hjetxoaA"
+        }, {
+          "placeId": "ChIJ527G3nYphYARgN94e9ueOGc"
+        }, {
+          "placeId": "ChIJ8zkC5HYphYARcACgokRYi5c"
+        }, {
+          "placeId": "ChIJk6md-XYphYAR6OrFMZl6BLA"
+        }, {
+          "placeId": "ChIJcbfaWXYphYAR5nbyEaK2vu8"
+        }, {
+          "placeId": "ChIJMwR2WnYphYAR6NZjNN0Qe00"
+        }, {
+          "placeId": "ChIJudTzOHYphYARfBLJXEeoyMg"
+        }, {
+          "placeId": "ChIJ91_RJHYphYARHAhJ_hPJYT0"
+        }, {
+          "placeId": "ChIJe3mOJ3YphYAREHDgjpgc1Q0"
+        }, {
+          "placeId": "ChIJnytnkJ0phYARhx7XzBcmzAg"
+        }, {
+          "placeId": "ChIJA4lXup0phYARHun6qSSC2Ts"
+        }, {
+          "placeId": "ChIJl2gALp0phYARsuQsCmKG4Mc"
+        }, {
+          "placeId": "ChIJ-5fAzoIphYARgU08L_1mBkY"
+        }, {
+          "placeId": "ChIJK3e_zoIphYAR4-jEK-AkeFk"
+        }, {
+          "placeId": "ChIJgfDazoIphYARqfPa4fEt5aI"
+        }, {
+          "placeId": "ChIJZ2ZocIIphYARE_vny8vT8pQ"
+        }, {
+          "placeId": "ChIJ8486d4IphYARYEk04L8QqtE"
+        }, {
+          "placeId": "ChIJez7KlngphYAR1tUvJN6LwDg"
+        }, {
+          "placeId": "ChIJE7OwlHgphYARGG84VdPyTug"
+        }, {
+          "placeId": "ChIJvYju6HgphYARvuO9_-R9hWo"
+        }, {
+          "placeId": "ChIJ2yNV4HgphYARUlOWG0ljWJ0"
+        }, {
+          "placeId": "ChIJYRMQH3kphYARKHNknW0O8c0"
+        }, {
+          "placeId": "ChIJ9YCSGHkphYARcs6zFNroeHc"
+        }, {
+          "placeId": "ChIJ3yb6QXkphYARO0gREM_YvH4"
+        }, {
+          "placeId": "ChIJ-W16QnkphYAR140AzscLILE"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARpgFvz60Yq_U"
+        }, {
+          "placeId": "ChIJS4ZmZ3kphYARbYCtUp7MDQ4"
+        }, {
+          "placeId": "ChIJUfV14HsphYARZ4lJtHVlgIQ"
+        }, {
+          "placeId": "ChIJ-Xjj6XsphYARs22f-u5uAOk"
+        }, {
+          "placeId": "ChIJF3wVlXsphYARtsGFoQx5-A8"
+        }, {
+          "placeId": "ChIJo5xXlnsphYARdesXLcSl9CA"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWWaKWXGdsns"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzitbAx5RmD4"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpJQKD5wzRT0"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARXl48DmoNow8"
+        }],
+        "distanceMeters": 5447.793329622533,
+        "travelMode": "BICYCLE",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385437889,
+          "lngE7": -1217457275,
+          "accuracyMeters": 17,
+          "timestamp": "2020-03-04T02:14:30.843Z"
+        }, {
+          "latE7": 385486259,
+          "lngE7": -1217350159,
+          "accuracyMeters": 100,
+          "timestamp": "2020-03-04T02:22:32.754Z"
+        }, {
+          "latE7": 385491600,
+          "lngE7": -1217262039,
+          "accuracyMeters": 43,
+          "timestamp": "2020-03-04T02:25:23.949Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 57.82102,
+        "calibratedProbability": 45.66246
+      },
+      "duration": {
+        "startTimestamp": "2020-03-04T02:29:24.944Z",
+        "endTimestamp": "2020-03-04T19:47:48.391Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 385490826,
+      "centerLngE7": -1217215063,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 41.179966,
+        "calibratedProbability": 32.520676,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.6321508,
+        "calibratedProbability": 0.49922264
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.09303769,
+        "calibratedProbability": 0.073473796
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.08852444,
+        "calibratedProbability": 0.06990959
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385489271,
+        "longitudeE7": -1217211614
+      },
+      "endLocation": {
+        "latitudeE7": 385400663,
+        "longitudeE7": -1217476761
+      },
+      "duration": {
+        "startTimestamp": "2020-03-04T19:47:48.391Z",
+        "endTimestamp": "2020-03-04T20:00:10.559Z"
+      },
+      "distance": 3018,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 94.51566338539124
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.320805750787258
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.7076881602406502
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385487823,
+          "lngE7": -1217201614
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385401802,
+          "lngE7": -1217473678
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgS78mhGUY8Y"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfcsI-UrpZds"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKLA9nrDWAE8"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnSaeIym1jHw"
+        }, {
+          "placeId": "ChIJwY8k6gsphYARUzFv6QgaZcA"
+        }, {
+          "placeId": "ChIJx5sN8wsphYARU9R1uEcVufs"
+        }, {
+          "placeId": "ChIJ6TJEcwwphYARrOEv6kSQ7so"
+        }, {
+          "placeId": "ChIJGdNIagwphYARi3lCVAlbE0I"
+        }, {
+          "placeId": "ChIJtUwVPwwphYARZ_26zPxA2Nw"
+        }, {
+          "placeId": "ChIJzTYrPQwphYARSYf9UdYu1jE"
+        }, {
+          "placeId": "ChIJwy3pJAwphYARB3MEQnHiS80"
+        }],
+        "distanceMeters": 3080.574691138514,
+        "travelMode": "BICYCLE",
+        "confidence": 0.4296973097751282
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 78.356255,
+        "calibratedProbability": 56.520363,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-04T20:00:10.559Z",
+        "endTimestamp": "2020-03-05T00:41:05.230Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 385400137,
+          "longitudeE7": -1217476061,
+          "placeId": "ChIJS04GJgwphYARapLoTgCYMuU",
+          "address": "198 Shields Ave, Davis, CA 95616, USA",
+          "name": "Olson Hall",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 92.598434,
+          "calibratedProbability": 70.96957,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-04T20:00:10.559Z",
+          "endTimestamp": "2020-03-04T21:23:18.158Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385401396,
+        "centerLngE7": -1217476836,
+        "visitConfidence": 87,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385429790,
+          "longitudeE7": -1217479392,
+          "placeId": "ChIJJ2do4AsphYARQkdDRx4VkEk",
+          "address": "250 N Quad, Davis, CA 95616, USA",
+          "name": "Social Sciences \u0026 Humanities Building",
+          "locationConfidence": 0.6142058,
+          "calibratedProbability": 0.4707414
+        }, {
+          "latitudeE7": 385408521,
+          "longitudeE7": -1217479307,
+          "placeId": "ChIJcZyvHwwphYARJZP91l_CkK8",
+          "address": "Shields Ave, Davis, CA 95616, USA",
+          "name": "Educational Opportunity Program",
+          "locationConfidence": 0.43553337,
+          "calibratedProbability": 0.33380276
+        }, {
+          "latitudeE7": 385415637,
+          "longitudeE7": -1217477081,
+          "placeId": "ChIJ2Zbzpw4phYARh2naQgGE1j8",
+          "address": "South Hall, Davis, CA 95616, USA",
+          "name": "Student Academic Success Center",
+          "locationConfidence": 0.31312636,
+          "calibratedProbability": 0.23998721
+        }, {
+          "latitudeE7": 385398567,
+          "longitudeE7": -1217491598,
+          "placeId": "ChIJnSVZS2wphYARWwKl68pnU3s",
+          "address": "100 N Quad, Davis, CA 95616, USA",
+          "name": "Peter J. Shields Library",
+          "locationConfidence": 0.15455878,
+          "calibratedProbability": 0.11845739
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 78,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }, {
+        "location": {
+          "latitudeE7": 385387083,
+          "longitudeE7": -1217531919,
+          "placeId": "ChIJ3Y-zZQ8phYAR_DNZKlMhp0E",
+          "address": "420 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Silo",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 82.35052,
+          "calibratedProbability": 62.188255
+        },
+        "duration": {
+          "startTimestamp": "2020-03-04T21:24:31.962Z",
+          "endTimestamp": "2020-03-04T21:36:00.615Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385394447,
+        "centerLngE7": -1217521766,
+        "visitConfidence": 87,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385393234,
+          "longitudeE7": -1217538280,
+          "placeId": "ChIJw6qXWA8phYARACDlYWYv6H0",
+          "address": "California 95616, USA",
+          "name": "Silo Terminal \u0026 Haring Hall (WB)",
+          "locationConfidence": 5.620143,
+          "calibratedProbability": 4.2441373
+        }, {
+          "latitudeE7": 385395233,
+          "longitudeE7": -1217515409,
+          "placeId": "ChIJV1zwFw8phYARK08N9_DmGhw",
+          "address": "397 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Student Community Center",
+          "locationConfidence": 1.9369099,
+          "calibratedProbability": 1.4626873
+        }, {
+          "latitudeE7": 385390759,
+          "longitudeE7": -1217554088,
+          "placeId": "ChIJOTAz1wUphYARhr2_XwCzRrg",
+          "address": "California 95616, USA",
+          "name": "Uc Davis Silo",
+          "locationConfidence": 1.9099202,
+          "calibratedProbability": 1.4423056
+        }, {
+          "latitudeE7": 385388365,
+          "longitudeE7": -1217553928,
+          "placeId": "ChIJiZj9xAUphYARgW-YMKz7iFg",
+          "address": "550 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "The Grove (Surge III)",
+          "locationConfidence": 1.2939998,
+          "calibratedProbability": 0.9771838
+        }, {
+          "latitudeE7": 385413140,
+          "longitudeE7": -1217514056,
+          "placeId": "ChIJ3c_20AgphYARFlu2K2aU4gw",
+          "address": "197 W Quad, Davis, CA 95616, USA",
+          "name": "Wellman Hall",
+          "locationConfidence": 1.0793484,
+          "calibratedProbability": 0.81508654
+        }, {
+          "latitudeE7": 385392390,
+          "longitudeE7": -1217533698,
+          "placeId": "ChIJ3bTHXA8phYARhIugBsrzPSU",
+          "address": "California 95616, USA",
+          "name": "Silo Terminal \u0026 Center Island (EB)",
+          "locationConfidence": 0.7864018,
+          "calibratedProbability": 0.59386337
+        }, {
+          "latitudeE7": 385398567,
+          "longitudeE7": -1217491598,
+          "placeId": "ChIJnSVZS2wphYARWwKl68pnU3s",
+          "address": "100 N Quad, Davis, CA 95616, USA",
+          "name": "Peter J. Shields Library",
+          "locationConfidence": 0.5416464,
+          "calibratedProbability": 0.4090326
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 67,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }, {
+        "location": {
+          "latitudeE7": 385395233,
+          "longitudeE7": -1217515409,
+          "placeId": "ChIJV1zwFw8phYARK08N9_DmGhw",
+          "address": "397 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Student Community Center",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 65.67576,
+          "calibratedProbability": 49.754765,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-04T21:38:56.726Z",
+          "endTimestamp": "2020-03-04T23:41:58.693Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385394386,
+        "centerLngE7": -1217517774,
+        "visitConfidence": 87,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385394195,
+          "longitudeE7": -1217516819,
+          "placeId": "ChIJRR6fFw8phYARMj613qUS62o",
+          "address": "397 California Ave, Davis, CA 95616, USA",
+          "name": "Cross Cultural Center",
+          "locationConfidence": 26.293123,
+          "calibratedProbability": 19.919195,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385393218,
+          "longitudeE7": -1217518292,
+          "placeId": "ChIJh4aoGQ8phYARysuJsHiYwHw",
+          "address": "397 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Lesbian Gay Bisexual Transgender Queer Intersex Asexual Resource Center",
+          "locationConfidence": 2.5088365,
+          "calibratedProbability": 1.9006492,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385387125,
+          "longitudeE7": -1217514700,
+          "placeId": "ChIJf1V3Bg8phYARqSCAs9-Q1eI",
+          "address": "Davis, CA 95616, USA",
+          "name": "Rock Hall",
+          "locationConfidence": 0.5055916,
+          "calibratedProbability": 0.38302705
+        }, {
+          "latitudeE7": 385387083,
+          "longitudeE7": -1217531919,
+          "placeId": "ChIJ3Y-zZQ8phYAR_DNZKlMhp0E",
+          "address": "420 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Silo",
+          "locationConfidence": 0.2308867,
+          "calibratedProbability": 0.1749156
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 52,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 385394386,
+      "centerLngE7": -1217517774,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 N Quad, Davis, CA 95616, USA",
+        "locationConfidence": 18.880457,
+        "calibratedProbability": 13.618956
+      }, {
+        "latitudeE7": 385369301,
+        "longitudeE7": -1217546082,
+        "placeId": "ChIJiduIdAUphYARf8bZqUeZaZ8",
+        "address": "545 Bainer Hall Dr, Davis, CA 95616, USA",
+        "locationConfidence": 2.7632904,
+        "calibratedProbability": 1.9932319
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385401024,
+          "lngE7": -1217476902,
+          "accuracyMeters": 14,
+          "timestamp": "2020-03-04T21:14:31.094Z"
+        }, {
+          "latE7": 385401024,
+          "lngE7": -1217476902,
+          "accuracyMeters": 14,
+          "timestamp": "2020-03-04T21:16:31.114Z"
+        }, {
+          "latE7": 385401024,
+          "lngE7": -1217476902,
+          "accuracyMeters": 14,
+          "timestamp": "2020-03-04T21:18:31.130Z"
+        }, {
+          "latE7": 385405628,
+          "lngE7": -1217478959,
+          "accuracyMeters": 26,
+          "timestamp": "2020-03-04T21:22:04.429Z"
+        }, {
+          "latE7": 385409942,
+          "lngE7": -1217473735,
+          "accuracyMeters": 31,
+          "timestamp": "2020-03-04T21:23:18.158Z"
+        }, {
+          "latE7": 385401200,
+          "lngE7": -1217520613,
+          "accuracyMeters": 24,
+          "timestamp": "2020-03-04T21:24:31.962Z"
+        }, {
+          "latE7": 385388641,
+          "lngE7": -1217526800,
+          "accuracyMeters": 34,
+          "timestamp": "2020-03-04T21:27:45.812Z"
+        }, {
+          "latE7": 385394121,
+          "lngE7": -1217517943,
+          "accuracyMeters": 16,
+          "timestamp": "2020-03-04T21:41:55.962Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 912.5608836110257
+      },
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385397785,
+        "longitudeE7": -1217515576
+      },
+      "endLocation": {
+        "latitudeE7": 385494852,
+        "longitudeE7": -1217208825
+      },
+      "duration": {
+        "startTimestamp": "2020-03-05T00:41:05.230Z",
+        "endTimestamp": "2020-03-05T00:56:02.849Z"
+      },
+      "distance": 3147,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 95.47656774520874
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.5539460815489292
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.370358094573021
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385399971,
+          "lngE7": -1217516174
+        }, {
+          "latE7": 385431404,
+          "lngE7": -1217493515
+        }, {
+          "latE7": 385437202,
+          "lngE7": -1217459411
+        }, {
+          "latE7": 385440483,
+          "lngE7": -1217441635
+        }, {
+          "latE7": 385438003,
+          "lngE7": -1217423706
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385455741,
+          "lngE7": -1217354507
+        }, {
+          "latE7": 385457916,
+          "lngE7": -1217342605
+        }, {
+          "latE7": 385487060,
+          "lngE7": -1217296371
+        }, {
+          "latE7": 385487518,
+          "lngE7": -1217271575
+        }, {
+          "latE7": 385489349,
+          "lngE7": -1217253875
+        }, {
+          "latE7": 385500755,
+          "lngE7": -1217199630
+        }, {
+          "latE7": 385493507,
+          "lngE7": -1217200241
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJa8g7ww4phYARsJwBd5WnA1A"
+        }, {
+          "placeId": "ChIJP6QIww4phYAROC_NBjUWBh8"
+        }, {
+          "placeId": "ChIJodp6ww4phYARy5SLVO-CzIo"
+        }, {
+          "placeId": "ChIJ8ZRnww4phYARo08gaz-sQqw"
+        }, {
+          "placeId": "ChIJeYZJLAkphYAR1AdgihnJYH0"
+        }, {
+          "placeId": "ChIJY5xELwkphYARmEEkfJ86SaU"
+        }, {
+          "placeId": "ChIJfWh2IQkphYAROnkoMKA-Rc4"
+        }, {
+          "placeId": "ChIJ-zyvHQkphYARpmIAcCGcz8c"
+        }, {
+          "placeId": "ChIJhwS_AgkphYARthrEut532-w"
+        }, {
+          "placeId": "ChIJnSXaBAkphYARjvpDNE8KYLI"
+        }, {
+          "placeId": "ChIJmZ37EQkphYARNbSRBsIfE2g"
+        }, {
+          "placeId": "ChIJ4Uq5bQkphYARGfInIkqTb1I"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9UCh7j5jEW8"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR2rY2j1k1yxk"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnCaeIym1jHw"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKbA9nrDWAE8"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfMsI-UrpZds"
+        }, {
+          "placeId": "ChIJsw0bQ3MphYARh_7HeCQzd6o"
+        }, {
+          "placeId": "ChIJVeivnHQphYARbvfjYLdHu88"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFw4cIpMfnbM"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXBPNyhazig8"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARzK8Hi63DWbU"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYgKrV0SzocE"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxGqnB-SH52A"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNf1hjetxoaA"
+        }, {
+          "placeId": "ChIJ527G3nYphYARgN94e9ueOGc"
+        }, {
+          "placeId": "ChIJ8zkC5HYphYARcACgokRYi5c"
+        }, {
+          "placeId": "ChIJk6md-XYphYAR6OrFMZl6BLA"
+        }, {
+          "placeId": "ChIJ7x0_CXcphYAR4XMYDotGfwk"
+        }, {
+          "placeId": "ChIJARnrb3kphYARA-3-DmLeMGM"
+        }, {
+          "placeId": "ChIJO4LyZXkphYARyxq8Xsm-EOM"
+        }, {
+          "placeId": "ChIJhypGZnkphYARlLglFon0Fxs"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARlhLQ_p_r3dM"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARQYyhbxRNf9Y"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARgxOjmku_hkg"
+        }, {
+          "placeId": "ChIJTYu4W3kphYARPYiWgFp1VSc"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoDXmSuOVCag"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpJ94afwJFBw"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqhXpGxAQsE0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARl9OLj9sBDQw"
+        }, {
+          "placeId": "ChIJkQqopX4phYARnhwD9z8T_Lo"
+        }, {
+          "placeId": "ChIJ-6Zcln4phYARcHUeshcagaY"
+        }, {
+          "placeId": "ChIJ5wRA834phYARbfQx5bY_dZA"
+        }, {
+          "placeId": "ChIJiyDM9X4phYAR6dIBJjOX998"
+        }, {
+          "placeId": "ChIJeZnJWH4phYARJSesxDDJ9d4"
+        }, {
+          "placeId": "ChIJNzutOH4phYAR0L6eb6Si_uo"
+        }, {
+          "placeId": "ChIJzQIrP34phYAR9mong3m4vUQ"
+        }, {
+          "placeId": "ChIJmyM9PH4phYARu8_yigfgw30"
+        }, {
+          "placeId": "ChIJ04XcPH4phYARq4PK9dGJ5x8"
+        }, {
+          "placeId": "ChIJX5zaIn4phYARwCyaGWw8Uv4"
+        }, {
+          "placeId": "ChIJ0W2bIn4phYARkJByVTrsBrg"
+        }, {
+          "placeId": "ChIJxar38H0phYAR0h1tCc9iXi4"
+        }],
+        "distanceMeters": 4164.953549376775,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9979223008279757
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385435295,
+          "lngE7": -1217460480,
+          "accuracyMeters": 27,
+          "timestamp": "2020-03-05T00:45:00.772Z"
+        }, {
+          "latE7": 385438004,
+          "lngE7": -1217423782,
+          "accuracyMeters": 22,
+          "timestamp": "2020-03-05T00:46:31.485Z"
+        }, {
+          "latE7": 385455704,
+          "lngE7": -1217354507,
+          "accuracyMeters": 28,
+          "timestamp": "2020-03-05T00:48:31.618Z"
+        }, {
+          "latE7": 385486717,
+          "lngE7": -1217305679,
+          "accuracyMeters": 92,
+          "timestamp": "2020-03-05T00:51:31.568Z"
+        }, {
+          "latE7": 385487595,
+          "lngE7": -1217253189,
+          "accuracyMeters": 60,
+          "timestamp": "2020-03-05T00:52:31.613Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 67.59917,
+        "calibratedProbability": 51.374676
+      },
+      "duration": {
+        "startTimestamp": "2020-03-05T00:56:02.849Z",
+        "endTimestamp": "2020-03-05T20:42:43.589Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490732,
+      "centerLngE7": -1217214973,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 31.310698,
+        "calibratedProbability": 23.795809,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.713746,
+        "calibratedProbability": 0.54243964
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.09448045,
+        "calibratedProbability": 0.07180417
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.09057118,
+        "calibratedProbability": 0.068833165
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385489900,
+        "longitudeE7": -1217215749
+      },
+      "endLocation": {
+        "latitudeE7": 385421097,
+        "longitudeE7": -1217488924
+      },
+      "duration": {
+        "startTimestamp": "2020-03-05T20:42:43.589Z",
+        "endTimestamp": "2020-03-05T20:54:46.015Z"
+      },
+      "distance": 2806,
+      "activityType": "CYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 76.30893588066101
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.27308577299118
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.4253301322460175
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }, {
+          "latE7": 385475959,
+          "lngE7": -1217215805
+        }, {
+          "latE7": 385490989,
+          "lngE7": -1217200927
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385433502,
+          "lngE7": -1217482147
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ_QfrtH0phYAR-4fUb2lA3BA"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR24k7hPiITg4"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7-osAjg76sY"
+        }, {
+          "placeId": "ChIJs381UHwphYARM05v-dLyzho"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARq18JkTxUmrU"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVSCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgS78mhGUY8Y"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfcsI-UrpZds"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKLA9nrDWAE8"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnSaeIym1jHw"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR27Y2j1k1yxk"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9ECh7j5jEW8"
+        }],
+        "distanceMeters": 3741.48932315418,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9176231785328169
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385490761,
+          "lngE7": -1217199249,
+          "accuracyMeters": 28,
+          "timestamp": "2020-03-05T20:44:44.039Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 99.258194,
+        "calibratedProbability": 81.82607,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-05T20:54:46.015Z",
+        "endTimestamp": "2020-03-06T01:08:45.917Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 385429790,
+          "longitudeE7": -1217479392,
+          "placeId": "ChIJJ2do4AsphYARQkdDRx4VkEk",
+          "address": "250 N Quad, Davis, CA 95616, USA",
+          "name": "Social Sciences \u0026 Humanities Building",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 81.68407,
+          "calibratedProbability": 69.539764,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-05T20:54:46.015Z",
+          "endTimestamp": "2020-03-05T21:25:08.208Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385429510,
+        "centerLngE7": -1217480960,
+        "visitConfidence": 88,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385430407,
+          "longitudeE7": -1217478225,
+          "placeId": "ChIJC86P4AsphYAREVjgSWh6mRI",
+          "address": "Social Science and Humanities, 1 Shields Ave, Davis, CA 95616, USA",
+          "name": "Department of Economics",
+          "locationConfidence": 12.785057,
+          "calibratedProbability": 10.884251,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385431855,
+          "longitudeE7": -1217482537,
+          "placeId": "ChIJYyU93gsphYARJjWkZpItL3c",
+          "locationConfidence": 1.2081554,
+          "calibratedProbability": 1.0285339,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385438600,
+          "longitudeE7": -1217500440,
+          "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+          "address": "Howard Way, Davis, CA 95616, USA",
+          "name": "Memorial Union \u0026 Howard",
+          "locationConfidence": 0.6101527,
+          "calibratedProbability": 0.5194388
+        }, {
+          "latitudeE7": 385429513,
+          "longitudeE7": -1217484268,
+          "placeId": "ChIJHzGp4AsphYARwjU9DZf1kEY",
+          "address": "2116 Social Sciences and Humanities, University of California, Davis, One Shields Ave, Davis, CA 95616, USA",
+          "name": "Agricultural and Resource Economics at UC Davis",
+          "locationConfidence": 0.54472715,
+          "calibratedProbability": 0.46374032,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 66,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }, {
+        "location": {
+          "latitudeE7": 385378184,
+          "longitudeE7": -1217556698,
+          "placeId": "ChIJVWMiowUphYAR8HXjVup6Rcg",
+          "address": "186 Bioletti Way, Davis, CA 95616, USA",
+          "name": "Warren and Leta Giedt Hall",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 86.8598,
+          "calibratedProbability": 72.73239,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-05T21:35:21.951Z",
+          "endTimestamp": "2020-03-05T23:15:05.577Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385377195,
+        "centerLngE7": -1217554220,
+        "visitConfidence": 88,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385361592,
+          "longitudeE7": -1217576525,
+          "placeId": "ChIJAV3G5QQphYARhQ2cL8BIFho",
+          "address": "1 Shields Ave, Davis, CA 95616, USA",
+          "name": "UC Davis Tercero Services Center",
+          "locationConfidence": 10.8300495,
+          "calibratedProbability": 9.068584
+        }, {
+          "latitudeE7": 385369980,
+          "longitudeE7": -1217550750,
+          "placeId": "ChIJGf1pcwUphYARZnHPAoqRHx4",
+          "address": "2063 Bioletti Way, Davis, CA 95616, USA",
+          "name": "UC Davis College of Engineering",
+          "locationConfidence": 0.62744915,
+          "calibratedProbability": 0.525397
+        }, {
+          "latitudeE7": 385388365,
+          "longitudeE7": -1217553928,
+          "placeId": "ChIJiZj9xAUphYARgW-YMKz7iFg",
+          "address": "550 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "The Grove (Surge III)",
+          "locationConfidence": 0.06738371,
+          "calibratedProbability": 0.05642401
+        }, {
+          "latitudeE7": 385390759,
+          "longitudeE7": -1217554088,
+          "placeId": "ChIJOTAz1wUphYARhr2_XwCzRrg",
+          "address": "California 95616, USA",
+          "name": "Uc Davis Silo",
+          "locationConfidence": 0.06320923,
+          "calibratedProbability": 0.052928492
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 72,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 385388001,
+      "centerLngE7": -1217539017,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 N Quad, Davis, CA 95616, USA",
+        "locationConfidence": 0.58424985,
+        "calibratedProbability": 0.4816416
+      }, {
+        "latitudeE7": 385438600,
+        "longitudeE7": -1217500440,
+        "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+        "address": "Howard Way, Davis, CA 95616, USA",
+        "name": "Memorial Union \u0026 Howard",
+        "locationConfidence": 0.15310061,
+        "calibratedProbability": 0.12621248
+      }, {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Phở King 4 Restaurant",
+        "locationConfidence": 0.0015264829,
+        "calibratedProbability": 0.001258396
+      }, {
+        "latitudeE7": 385435930,
+        "longitudeE7": -1217497550,
+        "placeId": "ChIJn1Y5CgkphYARTPoaUFYtAQ0",
+        "address": "California 95616, USA",
+        "name": "Memorial Union \u0026 Main Island (SB)",
+        "locationConfidence": 6.5045885E-4,
+        "calibratedProbability": 5.362227E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385431297,
+          "lngE7": -1217481070,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-05T21:04:21.672Z"
+        }, {
+          "latE7": 385423909,
+          "lngE7": -1217487884,
+          "accuracyMeters": 29,
+          "timestamp": "2020-03-05T21:25:08.208Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:41:29.485Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:44:01.214Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:46:01.258Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:48:19.353Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:50:47.193Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:52:47.208Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:55:00.280Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:57:00.295Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T21:59:00.811Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T22:01:08.097Z"
+        }, {
+          "latE7": 385377069,
+          "lngE7": -1217554280,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-05T22:04:15.234Z"
+        }, {
+          "latE7": 385369282,
+          "lngE7": -1217543440,
+          "accuracyMeters": 31,
+          "timestamp": "2020-03-05T23:32:15.126Z"
+        }, {
+          "latE7": 385374158,
+          "lngE7": -1217549151,
+          "accuracyMeters": 27,
+          "timestamp": "2020-03-06T01:06:48.376Z"
+        }, {
+          "latE7": 385375634,
+          "lngE7": -1217535934,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-06T01:08:45.916Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1426.0175905261815
+      },
+      "locationConfidence": 87,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385375532,
+        "longitudeE7": -1217538963
+      },
+      "endLocation": {
+        "latitudeE7": 385431774,
+        "longitudeE7": -1217411159
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T01:08:45.917Z",
+        "endTimestamp": "2020-03-06T01:15:51.586Z"
+      },
+      "distance": 1506,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 95.52453756332397
+      }, {
+        "activityType": "STILL",
+        "probability": 1.998547650873661
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.9706280194222927
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385376815,
+          "lngE7": -1217539749
+        }, {
+          "latE7": 385431404,
+          "lngE7": -1217493515
+        }, {
+          "latE7": 385436744,
+          "lngE7": -1217463607
+        }, {
+          "latE7": 385440483,
+          "lngE7": -1217441635
+        }, {
+          "latE7": 385431900,
+          "lngE7": -1217410430
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJeQn1gQUphYARlg8A6aGOozk"
+        }, {
+          "placeId": "ChIJdX-Vfw8phYARyd4ZDNXormQ"
+        }, {
+          "placeId": "ChIJHRqleA8phYARQdy7J84TjCg"
+        }, {
+          "placeId": "ChIJky2ugg8phYARQfwnH6lKNnk"
+        }, {
+          "placeId": "ChIJR56Hng8phYARQV_cAiNteJg"
+        }, {
+          "placeId": "ChIJ70QWnw8phYARiSUKCvskPAM"
+        }, {
+          "placeId": "ChIJt_3woQ8phYARmd3qhuvvAOs"
+        }, {
+          "placeId": "ChIJR7nnow8phYARUz9nz5jiBMM"
+        }, {
+          "placeId": "ChIJ63HypA8phYARLJJla-4JByg"
+        }, {
+          "placeId": "ChIJf1miug8phYARPabcN9OzOgU"
+        }, {
+          "placeId": "ChIJTehasA8phYARo6H-W39d_Is"
+        }, {
+          "placeId": "ChIJa8VWsQ8phYARvcq_aGdIAqA"
+        }, {
+          "placeId": "ChIJcQrDtA8phYARlKIWN2wpeUk"
+        }, {
+          "placeId": "ChIJHX28Rw4phYARbgnSY83wQOs"
+        }, {
+          "placeId": "ChIJk9rPQA4phYARk885BApKico"
+        }, {
+          "placeId": "ChIJiaNJQQ4phYARgz-CkxVzxgc"
+        }, {
+          "placeId": "ChIJ8UDxQw4phYARvvDMuGcDoi8"
+        }, {
+          "placeId": "ChIJ3w5SWw4phYARqG770BILCPs"
+        }, {
+          "placeId": "ChIJQWf1WA4phYARjhq2zy4Uja8"
+        }, {
+          "placeId": "ChIJ4akWww4phYAR6x2iO_jH8G4"
+        }, {
+          "placeId": "ChIJP6QIww4phYAROC_NBjUWBh8"
+        }, {
+          "placeId": "ChIJodp6ww4phYARy5SLVO-CzIo"
+        }, {
+          "placeId": "ChIJ8ZRnww4phYARo08gaz-sQqw"
+        }, {
+          "placeId": "ChIJeYZJLAkphYAR1AdgihnJYH0"
+        }, {
+          "placeId": "ChIJY5xELwkphYARmEEkfJ86SaU"
+        }, {
+          "placeId": "ChIJfWh2IQkphYAROnkoMKA-Rc4"
+        }, {
+          "placeId": "ChIJ-zyvHQkphYARpmIAcCGcz8c"
+        }, {
+          "placeId": "ChIJhwS_AgkphYARthrEut532-w"
+        }, {
+          "placeId": "ChIJnSXaBAkphYARjvpDNE8KYLI"
+        }, {
+          "placeId": "ChIJmZ37EQkphYARNbSRBsIfE2g"
+        }, {
+          "placeId": "ChIJ4Uq5bQkphYARGfInIkqTb1I"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9UCh7j5jEW8"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR2rY2j1k1yxk"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnCaeIym1jHw"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKbA9nrDWAE8"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfMsI-UrpZds"
+        }, {
+          "placeId": "ChIJq1tspHQphYARbFV8INodKEE"
+        }, {
+          "placeId": "ChIJJ51aX3MphYARgHlFLRhBAiQ"
+        }],
+        "distanceMeters": 1989.7337541538702,
+        "travelMode": "BICYCLE",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385436707,
+          "lngE7": -1217463608,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-06T01:12:31.508Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385430576,
+        "longitudeE7": -1217413141,
+        "placeId": "ChIJeZdCQs0phYAR1W44Hzn5NUw",
+        "address": "516 2nd St, Davis, CA 95616, USA",
+        "name": "Sweethoney Dessert",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 47.20456,
+        "calibratedProbability": 33.500774
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T01:15:51.586Z",
+        "endTimestamp": "2020-03-06T01:22:52.688Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 385430983,
+      "centerLngE7": -1217413233,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385430440,
+        "longitudeE7": -1217413670,
+        "placeId": "ChIJedk5kXQphYARa4FuOknAcAg",
+        "address": "516 2nd St, Davis, CA 95616, USA",
+        "name": "Fish\u0027s Wild Island Grill",
+        "locationConfidence": 24.13282,
+        "calibratedProbability": 17.12691
+      }, {
+        "latitudeE7": 385430670,
+        "longitudeE7": -1217412170,
+        "placeId": "ChIJBz9uQ3MphYARWw-d55zHVvw",
+        "address": "524 2nd St, Davis, CA 95616, USA",
+        "name": "Uncle Vito\u0027s",
+        "locationConfidence": 20.765951,
+        "calibratedProbability": 14.737463
+      }, {
+        "latitudeE7": 385433734,
+        "longitudeE7": -1217412798,
+        "placeId": "ChIJ9fJhW3MphYARZAfKXjL2xXY",
+        "address": "521 2nd St, Davis, CA 95616, USA",
+        "name": "Philz Coffee",
+        "locationConfidence": 2.0598185,
+        "calibratedProbability": 1.46184
+      }, {
+        "latitudeE7": 385441740,
+        "longitudeE7": -1217403860,
+        "placeId": "ChIJLaesgnQphYARvOYdyWZ1K-Y",
+        "address": "217 F St, Davis, CA 95616, USA",
+        "name": "The Paint Chip",
+        "locationConfidence": 1.4641598,
+        "calibratedProbability": 1.0391049
+      }, {
+        "latitudeE7": 385427637,
+        "longitudeE7": -1217406948,
+        "placeId": "ChIJTUf3FHMphYARP2HYBYY3FeQ",
+        "address": "132 E St #140, Davis, CA 95616, USA",
+        "name": "Ho Ho Market",
+        "locationConfidence": 1.1724019,
+        "calibratedProbability": 0.83204615
+      }, {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 1.0694499,
+        "calibratedProbability": 0.75898176
+      }, {
+        "latitudeE7": 385429500,
+        "longitudeE7": -1217414701,
+        "placeId": "ChIJ108MRXMphYARlD-S8_9iyQ4",
+        "address": "514 2nd St, Davis, CA 95616, USA",
+        "name": "G Nail \u0026 Spa",
+        "locationConfidence": 0.69696516,
+        "calibratedProbability": 0.49463174
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 38,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385429888,
+        "longitudeE7": -1217413736
+      },
+      "endLocation": {
+        "latitudeE7": 385492106,
+        "longitudeE7": -1217214597
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T01:22:52.688Z",
+        "endTimestamp": "2020-03-06T01:34:38.641Z"
+      },
+      "distance": 2330,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 96.20037078857422
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.9019229337573051
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.9347804822027683
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385431785,
+          "lngE7": -1217414245
+        }, {
+          "latE7": 385437011,
+          "lngE7": -1217400360
+        }, {
+          "latE7": 385450439,
+          "lngE7": -1217385025
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385487594,
+          "lngE7": -1217270584
+        }, {
+          "latE7": 385482254,
+          "lngE7": -1217266540
+        }, {
+          "latE7": 385485038,
+          "lngE7": -1217221450
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJsw0bQ3MphYARh_7HeCQzd6o"
+        }, {
+          "placeId": "ChIJVeivnHQphYARbvfjYLdHu88"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFw4cIpMfnbM"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXBPNyhazig8"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARzK8Hi63DWbU"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYgKrV0SzocE"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxGqnB-SH52A"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNf1hjetxoaA"
+        }, {
+          "placeId": "ChIJ527G3nYphYARgN94e9ueOGc"
+        }, {
+          "placeId": "ChIJ8zkC5HYphYARcACgokRYi5c"
+        }, {
+          "placeId": "ChIJk6md-XYphYAR6OrFMZl6BLA"
+        }, {
+          "placeId": "ChIJ7x0_CXcphYAR4XMYDotGfwk"
+        }, {
+          "placeId": "ChIJARnrb3kphYARA-3-DmLeMGM"
+        }, {
+          "placeId": "ChIJO4LyZXkphYARyxq8Xsm-EOM"
+        }, {
+          "placeId": "ChIJr7cHZ3kphYARX_xIgJZl9S0"
+        }, {
+          "placeId": "ChIJUfV14HsphYARZ4lJtHVlgIQ"
+        }, {
+          "placeId": "ChIJ-Xjj6XsphYARs22f-u5uAOk"
+        }, {
+          "placeId": "ChIJF3wVlXsphYARtsGFoQx5-A8"
+        }, {
+          "placeId": "ChIJo5xXlnsphYARdesXLcSl9CA"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWWaKWXGdsns"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzitbAx5RmD4"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpJQKD5wzRT0"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARXl48DmoNow8"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVCCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARql8JkTxUmrU"
+        }, {
+          "placeId": "ChIJs381UHwphYARMk5v-dLyzho"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7uosAjg76sY"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR2ok7hPiITg4"
+        }, {
+          "placeId": "ChIJ_QfrtH0phYAR-ofUb2lA3BA"
+        }],
+        "distanceMeters": 2598.8060615617364,
+        "travelMode": "BICYCLE",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385452080,
+          "lngE7": -1217385483,
+          "accuracyMeters": 95,
+          "timestamp": "2020-03-06T01:24:53.048Z"
+        }, {
+          "latE7": 385487404,
+          "lngE7": -1217271652,
+          "accuracyMeters": 60,
+          "timestamp": "2020-03-06T01:28:53.956Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 62.202488,
+        "calibratedProbability": 49.543903
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T01:34:38.641Z",
+        "endTimestamp": "2020-03-06T19:52:24.069Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490540,
+      "centerLngE7": -1217215067,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 36.733772,
+        "calibratedProbability": 29.258224,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.6725422,
+        "calibratedProbability": 0.53567576
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.10885164,
+        "calibratedProbability": 0.086699665
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.09418411,
+        "calibratedProbability": 0.075017065
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385490535,
+        "longitudeE7": -1217215237
+      },
+      "endLocation": {
+        "latitudeE7": 385353301,
+        "longitudeE7": -1217524383
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T19:52:24.069Z",
+        "endTimestamp": "2020-03-06T20:24:48.978Z"
+      },
+      "distance": 3300,
+      "activityType": "CYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 74.00428056716919
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.237230062484741
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.70222532749176
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385353279,
+          "lngE7": -1217520675
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ_QfrtH0phYAR-4fUb2lA3BA"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR24k7hPiITg4"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7-osAjg76sY"
+        }, {
+          "placeId": "ChIJs381UHwphYARM05v-dLyzho"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARq18JkTxUmrU"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVSCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJVeivnHQphYARb_fjYLdHu88"
+        }, {
+          "placeId": "ChIJsw0bQ3MphYARhv7HeCQzd6o"
+        }, {
+          "placeId": "ChIJ44FEH3MphYARNUDVqrRurvE"
+        }, {
+          "placeId": "ChIJdXtAxXIphYARCUXSQIjeZjQ"
+        }, {
+          "placeId": "ChIJt_TTznIphYARcTAEqJUeBRU"
+        }, {
+          "placeId": "ChIJiZF6zHIphYARqPbaZgQxXCw"
+        }, {
+          "placeId": "ChIJV2eay3IphYARnOjP3gu7cJs"
+        }, {
+          "placeId": "ChIJIxBvynIphYARNoJXoxFtzhs"
+        }, {
+          "placeId": "ChIJW41uNw0phYARlBehgVvQG6w"
+        }, {
+          "placeId": "ChIJ7yu9EA0phYARKKNIMl82NOo"
+        }, {
+          "placeId": "ChIJWSpRpg0phYAR49msDRmoI7M"
+        }, {
+          "placeId": "ChIJjdMDpQ0phYAR6Ry3lQar2Ng"
+        }, {
+          "placeId": "ChIJE-akvw0phYARaQhU15_ee9A"
+        }, {
+          "placeId": "ChIJt2Er6A0phYARJ7ROpnSnHBE"
+        }, {
+          "placeId": "ChIJNW024g0phYARanjVr8RhYK8"
+        }, {
+          "placeId": "ChIJ-eSDBg4phYAROPHushxdjCs"
+        }, {
+          "placeId": "ChIJ_6wCEA4phYAR_dxsWy9GWi0"
+        }, {
+          "placeId": "ChIJg7uuGg4phYARP9C2-0qV08M"
+        }, {
+          "placeId": "ChIJdUuGGg4phYARmBDQtb3O0EI"
+        }, {
+          "placeId": "ChIJkTJSFw4phYAR6FMcAjQ2NnM"
+        }, {
+          "placeId": "ChIJsf5wFw4phYARzE51H2khkkI"
+        }, {
+          "placeId": "ChIJ6_ClIg4phYARVyDTwZD2msg"
+        }, {
+          "placeId": "ChIJv9lOOw4phYARtcgp34pMcCY"
+        }, {
+          "placeId": "ChIJf37BMg4phYAR0yysXxFle-A"
+        }, {
+          "placeId": "ChIJWVKCzg8phYARCzLrEZPNxAw"
+        }, {
+          "placeId": "ChIJo2rGxQ8phYARuZ8MhCda9c8"
+        }, {
+          "placeId": "ChIJMwu5ww8phYARV4mspwhEdC8"
+        }, {
+          "placeId": "ChIJhT7q3A8phYARj494un-lZng"
+        }, {
+          "placeId": "ChIJN-2X3g8phYARIcuv2O-r-2Y"
+        }, {
+          "placeId": "ChIJycfq3g8phYARqaVkvInUO3o"
+        }, {
+          "placeId": "ChIJWzPn3g8phYARRfBh6SxehlQ"
+        }, {
+          "placeId": "ChIJKWOWIBAphYARx_eRGmrW1AY"
+        }, {
+          "placeId": "ChIJIWNDPBAphYARH5JqqUrpCGQ"
+        }],
+        "distanceMeters": 3790.253250967323,
+        "travelMode": "BICYCLE",
+        "confidence": 0.4057662629606466
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 96.616875,
+        "calibratedProbability": 72.52041,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T20:24:48.978Z",
+        "endTimestamp": "2020-03-06T21:17:53.738Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 385352324,
+          "longitudeE7": -1217527041,
+          "placeId": "ChIJBSosGhAphYARZQCgpXzsNwQ",
+          "address": "455 Crocker Ln, Davis, CA 95616, USA",
+          "name": "Academic Surge",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 43.922523,
+          "calibratedProbability": 39.49289
+        },
+        "duration": {
+          "startTimestamp": "2020-03-06T20:24:48.978Z",
+          "endTimestamp": "2020-03-06T20:43:34.697Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 385358778,
+        "centerLngE7": -1217524989,
+        "visitConfidence": 81,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385358870,
+          "longitudeE7": -1217527518,
+          "placeId": "ChIJVY-v4Q8phYARkVBBdIah6fQ",
+          "address": "One Shields Ave, Davis, CA 95616, USA",
+          "name": "Mathematical Sciences Building",
+          "locationConfidence": 23.532465,
+          "calibratedProbability": 21.15919,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385358425,
+          "longitudeE7": -1217525731,
+          "placeId": "ChIJma8K4w8phYARADNh6jr5cU0",
+          "address": "1 Shields Ave, Davis, CA 95616, USA",
+          "name": "UC Davis - Department of Mathematics",
+          "locationConfidence": 5.6798797,
+          "calibratedProbability": 5.1070576,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385352675,
+          "longitudeE7": -1217525855,
+          "placeId": "ChIJAdh4FxAphYAR0cptjDnT2i0",
+          "address": "University of California, Davis, Academic Surge, Room 1124, Building, 455 Crocker Ln, Davis, CA 95616, USA",
+          "name": "Bohart Museum of Entomology",
+          "locationConfidence": 4.098463,
+          "calibratedProbability": 3.6851285
+        }, {
+          "latitudeE7": 385369980,
+          "longitudeE7": -1217550750,
+          "placeId": "ChIJGf1pcwUphYARZnHPAoqRHx4",
+          "address": "2063 Bioletti Way, Davis, CA 95616, USA",
+          "name": "UC Davis College of Engineering",
+          "locationConfidence": 2.220268,
+          "calibratedProbability": 1.9963515
+        }, {
+          "latitudeE7": 385373810,
+          "longitudeE7": -1217528014,
+          "placeId": "ChIJuY6RvQ8phYARQI0mIA6xI4U",
+          "locationConfidence": 1.0131351,
+          "calibratedProbability": 0.91095924
+        }, {
+          "latitudeE7": 385358550,
+          "longitudeE7": -1217529530,
+          "placeId": "ChIJgxJB4w8phYARaUMZQzDbcsM",
+          "address": "University of California, Davis, Academic Surge, 1124 Crocker Ln, Davis, CA 95616, USA",
+          "name": "1106 MSB / CIG",
+          "locationConfidence": 0.98308015,
+          "calibratedProbability": 0.8839354,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385388365,
+          "longitudeE7": -1217553928,
+          "placeId": "ChIJiZj9xAUphYARgW-YMKz7iFg",
+          "address": "550 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "The Grove (Surge III)",
+          "locationConfidence": 0.7140297,
+          "calibratedProbability": 0.64201903
+        }, {
+          "latitudeE7": 385356466,
+          "longitudeE7": -1217520620,
+          "placeId": "ChIJW_qn4w8phYARUj2qWUmqQrA",
+          "address": "University of California, Davis, 399 Crocker Ln, Davis, CA 95616, USA",
+          "name": "Department of Statistics",
+          "locationConfidence": 0.661979,
+          "calibratedProbability": 0.5952177,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385387083,
+          "longitudeE7": -1217531919,
+          "placeId": "ChIJ3Y-zZQ8phYAR_DNZKlMhp0E",
+          "address": "420 Hutchison Dr, Davis, CA 95616, USA",
+          "name": "Silo",
+          "locationConfidence": 0.6489137,
+          "calibratedProbability": 0.58347
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 36,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }, {
+        "location": {
+          "latitudeE7": 385423079,
+          "longitudeE7": -1217495518,
+          "placeId": "ChIJq6rqOwkphYARmCEw2WehCiY",
+          "address": "250 W Quad, Davis, CA 95616, USA",
+          "name": "UC Davis Memorial Union",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 78.02655,
+          "calibratedProbability": 61.04404
+        },
+        "duration": {
+          "startTimestamp": "2020-03-06T20:47:10.810Z",
+          "endTimestamp": "2020-03-06T21:17:53.738Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385424276,
+        "centerLngE7": -1217489995,
+        "visitConfidence": 81,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385429790,
+          "longitudeE7": -1217479392,
+          "placeId": "ChIJJ2do4AsphYARQkdDRx4VkEk",
+          "address": "250 N Quad, Davis, CA 95616, USA",
+          "name": "Social Sciences \u0026 Humanities Building",
+          "locationConfidence": 13.040692,
+          "calibratedProbability": 10.202381
+        }, {
+          "latitudeE7": 385438600,
+          "longitudeE7": -1217500440,
+          "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+          "address": "Howard Way, Davis, CA 95616, USA",
+          "name": "Memorial Union \u0026 Howard",
+          "locationConfidence": 1.1490418,
+          "calibratedProbability": 0.89895236
+        }, {
+          "latitudeE7": 385413140,
+          "longitudeE7": -1217514056,
+          "placeId": "ChIJ3c_20AgphYARFlu2K2aU4gw",
+          "address": "197 W Quad, Davis, CA 95616, USA",
+          "name": "Wellman Hall",
+          "locationConfidence": 1.0240428,
+          "calibratedProbability": 0.8011595
+        }, {
+          "latitudeE7": 385426634,
+          "longitudeE7": -1217484872,
+          "placeId": "ChIJ__8_XAkphYAReTUEW7AXTpc",
+          "address": "Social Sciences and Humanities Building, Davis, CA 95616, USA",
+          "name": "Social Sciences 1100",
+          "locationConfidence": 0.79880565,
+          "calibratedProbability": 0.6249453
+        }, {
+          "latitudeE7": 385423095,
+          "longitudeE7": -1217489548,
+          "placeId": "ChIJcSfxo2IphYARXAO8P0izAQQ",
+          "address": "1 Shields Ave, Davis, CA 95616, USA",
+          "name": "Gunrock Gaming",
+          "locationConfidence": 0.72918147,
+          "calibratedProbability": 0.57047486
+        }, {
+          "latitudeE7": 385415637,
+          "longitudeE7": -1217477081,
+          "placeId": "ChIJ2Zbzpw4phYARh2naQgGE1j8",
+          "address": "South Hall, Davis, CA 95616, USA",
+          "name": "Student Academic Success Center",
+          "locationConfidence": 0.6481711,
+          "calibratedProbability": 0.5070964
+        }, {
+          "latitudeE7": 385423217,
+          "longitudeE7": -1217482386,
+          "placeId": "ChIJJ8CaVwkphYARrPvpBV5rBm0",
+          "address": "200 E Quad, Davis, CA 95616, USA",
+          "name": "Young Hall",
+          "locationConfidence": 0.52044004,
+          "calibratedProbability": 0.40716606
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 63,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 385424276,
+      "centerLngE7": -1217489995,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 N Quad, Davis, CA 95616, USA",
+        "locationConfidence": 2.4626708,
+        "calibratedProbability": 1.8484751
+      }, {
+        "latitudeE7": 385438600,
+        "longitudeE7": -1217500440,
+        "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+        "address": "Howard Way, Davis, CA 95616, USA",
+        "name": "Memorial Union \u0026 Howard",
+        "locationConfidence": 0.908985,
+        "calibratedProbability": 0.6822821
+      }, {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Phở King 4 Restaurant",
+        "locationConfidence": 0.0046006436,
+        "calibratedProbability": 0.0034532326
+      }, {
+        "latitudeE7": 385435930,
+        "longitudeE7": -1217497550,
+        "placeId": "ChIJn1Y5CgkphYARTPoaUFYtAQ0",
+        "address": "California 95616, USA",
+        "name": "Memorial Union \u0026 Main Island (SB)",
+        "locationConfidence": 0.0021268972,
+        "calibratedProbability": 0.0015964443
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385353301,
+          "lngE7": -1217524383,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-06T20:24:48.978Z"
+        }, {
+          "latE7": 385359116,
+          "lngE7": -1217521799,
+          "accuracyMeters": 17,
+          "timestamp": "2020-03-06T20:38:32.106Z"
+        }, {
+          "latE7": 385356169,
+          "lngE7": -1217535049,
+          "accuracyMeters": 23,
+          "timestamp": "2020-03-06T20:41:53.106Z"
+        }, {
+          "latE7": 385424939,
+          "lngE7": -1217491788,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-06T20:51:06.542Z"
+        }, {
+          "latE7": 385422264,
+          "lngE7": -1217485033,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-06T21:17:53.737Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1243.274751415158
+      },
+      "locationConfidence": 83,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385420193,
+        "longitudeE7": -1217485632
+      },
+      "endLocation": {
+        "latitudeE7": 385432466,
+        "longitudeE7": -1217474970
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T21:17:53.738Z",
+        "endTimestamp": "2020-03-06T21:20:58.939Z"
+      },
+      "distance": 164,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 58.63020420074463
+      }, {
+        "activityType": "CYCLING",
+        "probability": 29.690900444984436
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.124926149845123
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385420112,
+          "lngE7": -1217486038
+        }, {
+          "latE7": 385422668,
+          "lngE7": -1217486801
+        }, {
+          "latE7": 385434684,
+          "lngE7": -1217475662
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 261.75824246766,
+        "travelMode": "WALK",
+        "confidence": 0.9994818982112154
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385435025,
+        "longitudeE7": -1217466926,
+        "placeId": "ChIJe9M5nKkphYARS6W4m9gjmXc",
+        "address": "206 3rd St, Davis, CA 95616, USA",
+        "name": "Cajun Feast",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 88.48467,
+        "calibratedProbability": 71.47248
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T21:20:58.939Z",
+        "endTimestamp": "2020-03-06T22:08:17.146Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 385435197,
+      "centerLngE7": -1217467077,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385434100,
+        "longitudeE7": -1217467315,
+        "placeId": "ChIJxalQIG0phYARYgLMQ7tFCyk",
+        "address": "236 A St, Davis, CA 95616, USA",
+        "name": "iTea",
+        "locationConfidence": 6.362598,
+        "calibratedProbability": 5.139316,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 2.2150333,
+        "calibratedProbability": 1.7891679
+      }, {
+        "latitudeE7": 385432927,
+        "longitudeE7": -1217466654,
+        "placeId": "ChIJBZca6gsphYARxxyQIXocjrE",
+        "address": "230 A St, Davis, CA 95616, USA",
+        "name": "Campus Manor",
+        "locationConfidence": 1.19932,
+        "calibratedProbability": 0.968737,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Phở King 4 Restaurant",
+        "locationConfidence": 1.1165695,
+        "calibratedProbability": 0.9018963
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385435358,
+        "longitudeE7": -1217466867
+      },
+      "endLocation": {
+        "latitudeE7": 385490537,
+        "longitudeE7": -1217215252
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T22:08:17.146Z",
+        "endTimestamp": "2020-03-06T22:18:26.904Z"
+      },
+      "distance": 2272,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 77.58965492248535
+      }, {
+        "activityType": "CYCLING",
+        "probability": 9.616325050592422
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.920449480414391
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385436134,
+          "lngE7": -1217467117
+        }, {
+          "latE7": 385465354,
+          "lngE7": -1217448806
+        }, {
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJz1jFzQsphYAR-u2tdWxxQc4"
+        }, {
+          "placeId": "ChIJA0VdIgophYAR0BReAHM2eHQ"
+        }, {
+          "placeId": "ChIJ87xEAwophYARdLaAY6fDvZY"
+        }, {
+          "placeId": "ChIJt8cxBQophYARNzcaC2tua18"
+        }, {
+          "placeId": "ChIJ-79KEgophYARu1e60IxjS6s"
+        }, {
+          "placeId": "ChIJrTL6awophYARFWYoH9oa2yA"
+        }, {
+          "placeId": "ChIJSb0tZgophYARz1CO2QcqpnU"
+        }, {
+          "placeId": "ChIJve8GYQophYARlbeLoSHEqio"
+        }, {
+          "placeId": "ChIJ3RQaiwophYARoUZ6K_lohaQ"
+        }, {
+          "placeId": "ChIJnXS1kwophYARbpXWo3XlQ1I"
+        }, {
+          "placeId": "ChIJNwH-tQophYAR6QBnrAAjNqk"
+        }, {
+          "placeId": "ChIJESsvOHUphYARivAxcVdp6og"
+        }, {
+          "placeId": "ChIJVWQDpXUphYARFgrU--wn5ME"
+        }, {
+          "placeId": "ChIJvZcYpXUphYAReCF5xwy5maE"
+        }, {
+          "placeId": "ChIJD1xCunUphYAR8GNX6Xhe_ac"
+        }, {
+          "placeId": "ChIJL-vfx3UphYARts1WBSbuTP0"
+        }, {
+          "placeId": "ChIJu3T20HUphYARYxVLtqD4elg"
+        }, {
+          "placeId": "ChIJQx1ze3YphYAR1hitq3rSusA"
+        }, {
+          "placeId": "ChIJxyTQWXYphYARgbmnF1NPcCU"
+        }, {
+          "placeId": "ChIJk6md-XYphYAR6erFMZl6BLA"
+        }, {
+          "placeId": "ChIJ8zkC5HYphYARcQCgokRYi5c"
+        }, {
+          "placeId": "ChIJ527G3nYphYARgd94e9ueOGc"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWWaKWXGdsns"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzitbAx5RmD4"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpJQKD5wzRT0"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARXl48DmoNow8"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVCCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARql8JkTxUmrU"
+        }, {
+          "placeId": "ChIJs381UHwphYARMk5v-dLyzho"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7uosAjg76sY"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR2ok7hPiITg4"
+        }, {
+          "placeId": "ChIJ_QfrtH0phYAR-ofUb2lA3BA"
+        }],
+        "distanceMeters": 3058.4354179178786,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 385490537,
+          "longitudeE7": -1217215252,
+          "accuracyMetres": 75
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-03-06T22:18:26.904Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 62.24338,
+        "calibratedProbability": 50.48935
+      },
+      "duration": {
+        "startTimestamp": "2020-03-06T22:18:26.904Z",
+        "endTimestamp": "2020-03-09T18:39:36.103Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490505,
+      "centerLngE7": -1217215112,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 36.648468,
+        "calibratedProbability": 29.727777,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.7083578,
+        "calibratedProbability": 0.57459164
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.11193497,
+        "calibratedProbability": 0.090797186
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.09661732,
+        "calibratedProbability": 0.07837212
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385490390,
+        "longitudeE7": -1217215032
+      },
+      "endLocation": {
+        "latitudeE7": 385402950,
+        "longitudeE7": -1217471238
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T18:39:36.103Z",
+        "endTimestamp": "2020-03-09T18:56:39.479Z"
+      },
+      "distance": 3432,
+      "activityType": "CYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 77.15519666671753
+      }, {
+        "activityType": "WALKING",
+        "probability": 15.668518841266632
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.3717360347509384
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }, {
+          "latE7": 385475959,
+          "lngE7": -1217215805
+        }, {
+          "latE7": 385516548,
+          "lngE7": -1217204284
+        }, {
+          "latE7": 385487251,
+          "lngE7": -1217275238
+        }, {
+          "latE7": 385487289,
+          "lngE7": -1217305679
+        }, {
+          "latE7": 385410346,
+          "lngE7": -1217455902
+        }, {
+          "latE7": 385402221,
+          "lngE7": -1217471008
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ_QfrtH0phYAR-4fUb2lA3BA"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR24k7hPiITg4"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7-osAjg76sY"
+        }, {
+          "placeId": "ChIJs381UHwphYARM05v-dLyzho"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARq18JkTxUmrU"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVSCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJxar38H0phYAR0x1tCc9iXi4"
+        }, {
+          "placeId": "ChIJFZ8eGX4phYARnD_aFR7QMy8"
+        }, {
+          "placeId": "ChIJMXZ3In4phYARJBbRnDtA5Mg"
+        }, {
+          "placeId": "ChIJxVVAIn4phYARaUMuHprbjNo"
+        }, {
+          "placeId": "ChIJdfO5I34phYARg5az1UUVpfw"
+        }, {
+          "placeId": "ChIJN7VhI34phYARKc7xGA6gSX0"
+        }, {
+          "placeId": "ChIJ6TpeO34phYARq2OmiEsNsvM"
+        }, {
+          "placeId": "ChIJ5Xr8O34phYARqyUfhWzhST4"
+        }, {
+          "placeId": "ChIJzQIrP34phYARL0FLxTTreik"
+        }, {
+          "placeId": "ChIJNzutOH4phYAR0b6eb6Si_uo"
+        }, {
+          "placeId": "ChIJeZnJWH4phYARJCesxDDJ9d4"
+        }, {
+          "placeId": "ChIJvSuD9n4phYARKysUeylWKQw"
+        }, {
+          "placeId": "ChIJgURV8n4phYARExGJ_Rrb_k8"
+        }, {
+          "placeId": "ChIJgwFqlH4phYAR1xR8yKnDDUY"
+        }, {
+          "placeId": "ChIJG7ynvH4phYAR4Xtrg4j9N34"
+        }, {
+          "placeId": "ChIJM6QNpX4phYARHi_biL7w7u0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARltOLj9sBDQw"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqxXpGxAQsE0"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpZ94afwJFBw"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoTXmSuOVCag"
+        }, {
+          "placeId": "ChIJgQ5DW3kphYARaDdl3wj9QVc"
+        }, {
+          "placeId": "ChIJR2gQQ3kphYARCalVJMa64Yc"
+        }, {
+          "placeId": "ChIJ7fYXQnkphYAR4GmVOPVOgqw"
+        }, {
+          "placeId": "ChIJt9rfankphYAR-ve6W7WB9Y0"
+        }, {
+          "placeId": "ChIJt9rfankphYARMPAZ6_GiXF8"
+        }, {
+          "placeId": "ChIJ6-QKbHkphYARHMCWVSZT0GU"
+        }, {
+          "placeId": "ChIJgzOtVXYphYAREbq6pCi6--8"
+        }, {
+          "placeId": "ChIJHZn8VnYphYARcRVmRMXb20E"
+        }, {
+          "placeId": "ChIJcbfaWXYphYAR6jCurlytVqI"
+        }, {
+          "placeId": "ChIJQx1ze3YphYAR1xitq3rSusA"
+        }, {
+          "placeId": "ChIJu3T20HUphYARYhVLtqD4elg"
+        }, {
+          "placeId": "ChIJL-vfx3UphYARt81WBSbuTP0"
+        }, {
+          "placeId": "ChIJD1xCunUphYAR8WNX6Xhe_ac"
+        }, {
+          "placeId": "ChIJvZcYpXUphYAReSF5xwy5maE"
+        }, {
+          "placeId": "ChIJVWQDpXUphYARFwrU--wn5ME"
+        }, {
+          "placeId": "ChIJESsvOHUphYARi_AxcVdp6og"
+        }, {
+          "placeId": "ChIJNwH-tQophYAR6ABnrAAjNqk"
+        }, {
+          "placeId": "ChIJTYnKkwophYARtSlhGVd-mE8"
+        }, {
+          "placeId": "ChIJ3RQaiwophYARvNagdgHGDrw"
+        }, {
+          "placeId": "ChIJve8GYQophYARexOgbS5VQWs"
+        }, {
+          "placeId": "ChIJve8GYQophYARpavcwGxP5Wo"
+        }, {
+          "placeId": "ChIJve8GYQophYARsJ-qTTzU4hs"
+        }, {
+          "placeId": "ChIJFeXgXgophYARlN_oIcZREhU"
+        }, {
+          "placeId": "ChIJzXbV_wophYAR68SwVWK1yDM"
+        }, {
+          "placeId": "ChIJYWzNCAsphYAR9YisupysxvM"
+        }, {
+          "placeId": "ChIJI3U9nQwphYAR-WmZD_c0JM0"
+        }, {
+          "placeId": "ChIJoUsBmwwphYARzQddom095Ow"
+        }, {
+          "placeId": "ChIJF64XkQwphYAR_eCvNTJwZhQ"
+        }, {
+          "placeId": "ChIJ-ajH6AwphYARKt3s2gTylJQ"
+        }, {
+          "placeId": "ChIJVXH-8AwphYARnvuz5A4i4VM"
+        }, {
+          "placeId": "ChIJ09-JQwwphYARh0Pb-RMTeF8"
+        }, {
+          "placeId": "ChIJtUwVPwwphYARZ_26zPxA2Nw"
+        }, {
+          "placeId": "ChIJzTYrPQwphYARSYf9UdYu1jE"
+        }, {
+          "placeId": "ChIJwy3pJAwphYARB3MEQnHiS80"
+        }, {
+          "placeId": "ChIJraS8SQwphYARbXBLdVNG2MI"
+        }],
+        "distanceMeters": 4363.926980408124,
+        "travelMode": "BICYCLE",
+        "confidence": 0.5797312920585562
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385516586,
+          "lngE7": -1217202759,
+          "accuracyMeters": 16,
+          "timestamp": "2020-03-09T18:43:11.512Z"
+        }, {
+          "latE7": 385486717,
+          "lngE7": -1217305679,
+          "accuracyMeters": 31,
+          "timestamp": "2020-03-09T18:48:00.768Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 73.15086,
+        "calibratedProbability": 51.490776,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T18:56:39.479Z",
+        "endTimestamp": "2020-03-09T22:16:04.500Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 385396667,
+      "centerLngE7": -1217516424,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 N Quad, Davis, CA 95616, USA",
+        "locationConfidence": 24.094019,
+        "calibratedProbability": 16.959742
+      }, {
+        "latitudeE7": 385369301,
+        "longitudeE7": -1217546082,
+        "placeId": "ChIJiduIdAUphYARf8bZqUeZaZ8",
+        "address": "545 Bainer Hall Dr, Davis, CA 95616, USA",
+        "locationConfidence": 2.7551177,
+        "calibratedProbability": 1.939323
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385402950,
+          "lngE7": -1217471238,
+          "accuracyMeters": 17,
+          "timestamp": "2020-03-09T18:56:39.479Z"
+        }, {
+          "latE7": 385414925,
+          "lngE7": -1217523231,
+          "accuracyMeters": 15,
+          "timestamp": "2020-03-09T20:31:29.603Z"
+        }, {
+          "latE7": 385410381,
+          "lngE7": -1217528215,
+          "accuracyMeters": 16,
+          "timestamp": "2020-03-09T20:41:47.998Z"
+        }, {
+          "latE7": 385396720,
+          "lngE7": -1217517664,
+          "accuracyMeters": 26,
+          "timestamp": "2020-03-09T22:14:30.134Z"
+        }, {
+          "latE7": 385401842,
+          "lngE7": -1217515312,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-09T22:15:42.035Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 806.0006710951784
+      },
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385402246,
+        "longitudeE7": -1217514796
+      },
+      "endLocation": {
+        "latitudeE7": 385432268,
+        "longitudeE7": -1217483099
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T22:16:04.500Z",
+        "endTimestamp": "2020-03-09T22:22:32.064Z"
+      },
+      "distance": 611,
+      "activityType": "CYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 52.12671160697937
+      }, {
+        "activityType": "WALKING",
+        "probability": 41.69981777667999
+      }, {
+        "activityType": "STILL",
+        "probability": 3.9904452860355377
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385400314,
+          "lngE7": -1217514266
+        }, {
+          "latE7": 385402107,
+          "lngE7": -1217501296
+        }, {
+          "latE7": 385405387,
+          "lngE7": -1217482376
+        }, {
+          "latE7": 385405654,
+          "lngE7": -1217481307
+        }, {
+          "latE7": 385433273,
+          "lngE7": -1217483367
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJa8g7ww4phYARsJwBd5WnA1A"
+        }, {
+          "placeId": "ChIJP6QIww4phYAROC_NBjUWBh8"
+        }, {
+          "placeId": "ChIJzYhyww4phYARnHocpnQSIAU"
+        }, {
+          "placeId": "ChIJYXnWoQ4phYARqXNwNmVepOg"
+        }, {
+          "placeId": "ChIJ7f95nw4phYARm6rM8HvH05w"
+        }, {
+          "placeId": "ChIJi6STnw4phYARDM1wpYmjdV4"
+        }, {
+          "placeId": "ChIJv9kkoA4phYARHGnyfbR39z0"
+        }, {
+          "placeId": "ChIJk4otoA4phYARUJSk-4ILtHw"
+        }, {
+          "placeId": "ChIJB9mAUQkphYARdy3sJRevYNY"
+        }, {
+          "placeId": "ChIJkUGjWgkphYARkGv09XXtKJk"
+        }, {
+          "placeId": "ChIJWfZSQwkphYARZk1Gr5_p1Sc"
+        }, {
+          "placeId": "ChIJS21ZaAkphYARRmqZjOtXLcU"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9UCh7j5jEW8"
+        }],
+        "distanceMeters": 677.2726197193532,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9891174950586278
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385403481,
+          "lngE7": -1217483444,
+          "accuracyMeters": 26,
+          "timestamp": "2020-03-09T22:18:59.881Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385434100,
+        "longitudeE7": -1217467315,
+        "placeId": "ChIJxalQIG0phYARYgLMQ7tFCyk",
+        "address": "236 A St, Davis, CA 95616, USA",
+        "name": "iTea",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 94.43732,
+        "calibratedProbability": 77.2085,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T22:22:32.064Z",
+        "endTimestamp": "2020-03-09T22:36:45.504Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385434077,
+      "centerLngE7": -1217467915,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 2.4812655,
+        "calibratedProbability": 2.028592
+      }, {
+        "latitudeE7": 385435025,
+        "longitudeE7": -1217466926,
+        "placeId": "ChIJe9M5nKkphYARS6W4m9gjmXc",
+        "address": "206 3rd St, Davis, CA 95616, USA",
+        "name": "Cajun Feast",
+        "locationConfidence": 1.6949024,
+        "calibratedProbability": 1.3856903
+      }, {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Phở King 4 Restaurant",
+        "locationConfidence": 0.54593754,
+        "calibratedProbability": 0.4463386
+      }, {
+        "latitudeE7": 385432927,
+        "longitudeE7": -1217466654,
+        "placeId": "ChIJBZca6gsphYARxxyQIXocjrE",
+        "address": "230 A St, Davis, CA 95616, USA",
+        "name": "Campus Manor",
+        "locationConfidence": 0.4460034,
+        "calibratedProbability": 0.3646361,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385429356,
+        "longitudeE7": -1217457728
+      },
+      "endLocation": {
+        "latitudeE7": 385497454,
+        "longitudeE7": -1217218360
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T22:36:45.504Z",
+        "endTimestamp": "2020-03-09T22:50:46Z"
+      },
+      "distance": 2398,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 87.1757447719574
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.8322294652462
+      }, {
+        "activityType": "STILL",
+        "probability": 1.300516352057457
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385429344,
+          "lngE7": -1217457733
+        }, {
+          "latE7": 385437011,
+          "lngE7": -1217400360
+        }, {
+          "latE7": 385450057,
+          "lngE7": -1217387542
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385499839,
+          "lngE7": -1217222518
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJza_KmgsphYARedyu6JxaB5A"
+        }, {
+          "placeId": "ChIJsw0bQ3MphYARh_7HeCQzd6o"
+        }, {
+          "placeId": "ChIJVeivnHQphYARbvfjYLdHu88"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFw4cIpMfnbM"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXBPNyhazig8"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARzK8Hi63DWbU"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYgKrV0SzocE"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxGqnB-SH52A"
+        }, {
+          "placeId": "ChIJ5SN6gXYphYARlSNsDQyaAc4"
+        }, {
+          "placeId": "ChIJQx1ze3YphYAR1hitq3rSusA"
+        }, {
+          "placeId": "ChIJxyTQWXYphYARgbmnF1NPcCU"
+        }, {
+          "placeId": "ChIJ7x0_CXcphYAR4XMYDotGfwk"
+        }, {
+          "placeId": "ChIJARnrb3kphYARA-3-DmLeMGM"
+        }, {
+          "placeId": "ChIJO4LyZXkphYARyxq8Xsm-EOM"
+        }, {
+          "placeId": "ChIJhypGZnkphYARlLglFon0Fxs"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARlhLQ_p_r3dM"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARQYyhbxRNf9Y"
+        }, {
+          "placeId": "ChIJFSAXXXkphYARgxOjmku_hkg"
+        }, {
+          "placeId": "ChIJTYu4W3kphYARPYiWgFp1VSc"
+        }, {
+          "placeId": "ChIJlSk2WnkphYARoDXmSuOVCag"
+        }, {
+          "placeId": "ChIJaZNNUXkphYARpJ94afwJFBw"
+        }, {
+          "placeId": "ChIJl3q6rH4phYARqhXpGxAQsE0"
+        }, {
+          "placeId": "ChIJyw7Drn4phYARl9OLj9sBDQw"
+        }, {
+          "placeId": "ChIJkQqopX4phYARnhwD9z8T_Lo"
+        }, {
+          "placeId": "ChIJ-6Zcln4phYARcHUeshcagaY"
+        }, {
+          "placeId": "ChIJJ64RjX4phYARAUCqHj54jeQ"
+        }, {
+          "placeId": "ChIJ1QL6iH4phYARF1Z9zU-fyT4"
+        }, {
+          "placeId": "ChIJ1QL6iH4phYARcAKGsb9rkSE"
+        }],
+        "distanceMeters": 2746.7140990208895,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9227505886437783
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385450058,
+          "lngE7": -1217387543,
+          "accuracyMeters": 38,
+          "timestamp": "2020-03-09T22:42:14.698Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 70.53412,
+        "calibratedProbability": 57.235416
+      },
+      "duration": {
+        "startTimestamp": "2020-03-09T22:50:46Z",
+        "endTimestamp": "2020-03-10T20:13:13.440Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490574,
+      "centerLngE7": -1217215117,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 28.36209,
+        "calibratedProbability": 23.014622,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.70091546,
+        "calibratedProbability": 0.5687629
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.10724865,
+        "calibratedProbability": 0.087027684
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.0988083,
+        "calibratedProbability": 0.08017871
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 56,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385482080,
+        "longitudeE7": -1217212067
+      },
+      "endLocation": {
+        "latitudeE7": 385430427,
+        "longitudeE7": -1217482250
+      },
+      "duration": {
+        "startTimestamp": "2020-03-10T20:13:13.440Z",
+        "endTimestamp": "2020-03-10T20:22:16.665Z"
+      },
+      "distance": 2478,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 87.53281831741333
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.223525688052177
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.64931358397007
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385497283,
+          "lngE7": -1217199783
+        }, {
+          "latE7": 385450859,
+          "lngE7": -1217382354
+        }, {
+          "latE7": 385433311,
+          "lngE7": -1217483062
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ1a6NWXwphYARX148DmoNow8"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpZQKD5wzRT0"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzytbAx5RmD4"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWGaKWXGdsns"
+        }, {
+          "placeId": "ChIJ3YhDLHEphYARNP1hjetxoaA"
+        }, {
+          "placeId": "ChIJF5NaC3QphYARxWqnB-SH52A"
+        }, {
+          "placeId": "ChIJ70ivdHQphYARYwKrV0SzocE"
+        }, {
+          "placeId": "ChIJL1qCdHQphYARza8Hi63DWbU"
+        }, {
+          "placeId": "ChIJBc6Fh3QphYARXRPNyhazig8"
+        }, {
+          "placeId": "ChIJ5w9xhXQphYARFg4cIpMfnbM"
+        }, {
+          "placeId": "ChIJgVvvl3QphYARgS78mhGUY8Y"
+        }, {
+          "placeId": "ChIJLZUDRgsphYARfcsI-UrpZds"
+        }, {
+          "placeId": "ChIJN7yIbAsphYARKLA9nrDWAE8"
+        }, {
+          "placeId": "ChIJydk_vQsphYARnSaeIym1jHw"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR27Y2j1k1yxk"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9ECh7j5jEW8"
+        }],
+        "distanceMeters": 2828.272305183571,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9308837336821391
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 98.10158,
+        "calibratedProbability": 79.05574,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-10T20:22:16.665Z",
+        "endTimestamp": "2020-03-10T21:47:54.061Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 385423079,
+          "longitudeE7": -1217495518,
+          "placeId": "ChIJq6rqOwkphYARmCEw2WehCiY",
+          "address": "250 W Quad, Davis, CA 95616, USA",
+          "name": "UC Davis Memorial Union",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 82.27672,
+          "calibratedProbability": 67.572075,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-10T20:22:16.665Z",
+          "endTimestamp": "2020-03-10T21:13:50.881Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385425741,
+        "centerLngE7": -1217491433,
+        "visitConfidence": 87,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385429790,
+          "longitudeE7": -1217479392,
+          "placeId": "ChIJJ2do4AsphYARQkdDRx4VkEk",
+          "address": "250 N Quad, Davis, CA 95616, USA",
+          "name": "Social Sciences \u0026 Humanities Building",
+          "locationConfidence": 14.974108,
+          "calibratedProbability": 12.297909
+        }, {
+          "latitudeE7": 385438600,
+          "longitudeE7": -1217500440,
+          "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+          "address": "Howard Way, Davis, CA 95616, USA",
+          "name": "Memorial Union \u0026 Howard",
+          "locationConfidence": 0.5552011,
+          "calibratedProbability": 0.45597458
+        }, {
+          "latitudeE7": 385413140,
+          "longitudeE7": -1217514056,
+          "placeId": "ChIJ3c_20AgphYARFlu2K2aU4gw",
+          "address": "197 W Quad, Davis, CA 95616, USA",
+          "name": "Wellman Hall",
+          "locationConfidence": 0.17498156,
+          "calibratedProbability": 0.14370854
+        }, {
+          "latitudeE7": 385423098,
+          "longitudeE7": -1217496639,
+          "placeId": "ChIJU69AFwkphYARSfjqps-4V1g",
+          "address": "Memorial Union, 1 Shields Ave #154, Davis, CA 95616, USA",
+          "name": "ASUCD Pantry",
+          "locationConfidence": 0.139403,
+          "calibratedProbability": 0.11448865,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 67,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }, {
+        "location": {
+          "latitudeE7": 385429790,
+          "longitudeE7": -1217479392,
+          "placeId": "ChIJJ2do4AsphYARQkdDRx4VkEk",
+          "address": "250 N Quad, Davis, CA 95616, USA",
+          "name": "Social Sciences \u0026 Humanities Building",
+          "sourceInfo": {
+            "deviceTag": -1611867793
+          },
+          "locationConfidence": 86.016365,
+          "calibratedProbability": 70.73191,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-03-10T21:22:35.886Z",
+          "endTimestamp": "2020-03-10T21:47:54.061Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 385431323,
+        "centerLngE7": -1217478357,
+        "visitConfidence": 87,
+        "otherCandidateLocations": [{
+          "latitudeE7": 385431855,
+          "longitudeE7": -1217482537,
+          "placeId": "ChIJYyU93gsphYARJjWkZpItL3c",
+          "locationConfidence": 9.146744,
+          "calibratedProbability": 7.5214367,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385430407,
+          "longitudeE7": -1217478225,
+          "placeId": "ChIJC86P4AsphYAREVjgSWh6mRI",
+          "address": "Social Science and Humanities, 1 Shields Ave, Davis, CA 95616, USA",
+          "name": "Department of Economics",
+          "locationConfidence": 2.2447586,
+          "calibratedProbability": 1.8458819,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 385423079,
+          "longitudeE7": -1217495518,
+          "placeId": "ChIJq6rqOwkphYARmCEw2WehCiY",
+          "address": "250 W Quad, Davis, CA 95616, USA",
+          "name": "Memorial Union",
+          "locationConfidence": 0.32096,
+          "calibratedProbability": 0.26392782
+        }, {
+          "latitudeE7": 385430826,
+          "longitudeE7": -1217479145,
+          "placeId": "ChIJR0La3wsphYARsu0FQcuDckk",
+          "address": "One Shield Ave, Davis, CA 95616, USA",
+          "name": "University of California Department of Sociology",
+          "locationConfidence": 0.26875725,
+          "calibratedProbability": 0.22100112,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 71,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 385425741,
+      "centerLngE7": -1217491433,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385399475,
+        "longitudeE7": -1217498322,
+        "placeId": "ChIJe-IVjg4phYARx7H89rRC5Mk",
+        "address": "100 N Quad, Davis, CA 95616, USA",
+        "locationConfidence": 1.3832453,
+        "calibratedProbability": 1.1146965
+      }, {
+        "latitudeE7": 385438600,
+        "longitudeE7": -1217500440,
+        "placeId": "ChIJ7extpwkphYAR0Km3MPGf670",
+        "address": "Howard Way, Davis, CA 95616, USA",
+        "name": "Memorial Union \u0026 Howard",
+        "locationConfidence": 0.5028012,
+        "calibratedProbability": 0.4051853
+      }, {
+        "latitudeE7": 385435930,
+        "longitudeE7": -1217497550,
+        "placeId": "ChIJn1Y5CgkphYARTPoaUFYtAQ0",
+        "address": "California 95616, USA",
+        "name": "Memorial Union \u0026 Main Island (SB)",
+        "locationConfidence": 0.009975316,
+        "calibratedProbability": 0.008038668
+      }, {
+        "latitudeE7": 385435960,
+        "longitudeE7": -1217460920,
+        "placeId": "ChIJT7hKvQsphYARrTZ6OAQG2hc",
+        "address": "226 3rd St, Davis, CA 95616, USA",
+        "name": "Phở King 4 Restaurant",
+        "locationConfidence": 6.168276E-4,
+        "calibratedProbability": 4.9707416E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385423974,
+          "lngE7": -1217494709,
+          "accuracyMeters": 23,
+          "timestamp": "2020-03-10T20:26:02.591Z"
+        }, {
+          "latE7": 385428882,
+          "lngE7": -1217482876,
+          "accuracyMeters": 26,
+          "timestamp": "2020-03-10T21:22:35.886Z"
+        }, {
+          "latE7": 385431712,
+          "lngE7": -1217476906,
+          "accuracyMeters": 150,
+          "timestamp": "2020-03-10T21:39:57.867Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 415.1137847542285
+      },
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385428986,
+        "longitudeE7": -1217482843
+      },
+      "endLocation": {
+        "latitudeE7": 385368046,
+        "longitudeE7": -1217544963
+      },
+      "duration": {
+        "startTimestamp": "2020-03-10T21:47:54.061Z",
+        "endTimestamp": "2020-03-10T22:13:06.797Z"
+      },
+      "distance": 966,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 73.81485104560852
+      }, {
+        "activityType": "CYCLING",
+        "probability": 11.004871875047684
+      }, {
+        "activityType": "STILL",
+        "probability": 8.888301998376846
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385425834,
+          "lngE7": -1217481384
+        }, {
+          "latE7": 385422668,
+          "lngE7": -1217486801
+        }, {
+          "latE7": 385403976,
+          "lngE7": -1217493591
+        }, {
+          "latE7": 385396308,
+          "lngE7": -1217500534
+        }, {
+          "latE7": 385390663,
+          "lngE7": -1217505569
+        }, {
+          "latE7": 385389137,
+          "lngE7": -1217520065
+        }, {
+          "latE7": 385381851,
+          "lngE7": -1217528228
+        }, {
+          "latE7": 385375556,
+          "lngE7": -1217542800
+        }, {
+          "latE7": 385365905,
+          "lngE7": -1217545089
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1239.3242694514743,
+        "travelMode": "WALK",
+        "confidence": 0.9918859017672793
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385401039,
+          "lngE7": -1217492676,
+          "accuracyMeters": 27,
+          "timestamp": "2020-03-10T21:54:13.431Z"
+        }, {
+          "latE7": 385390129,
+          "lngE7": -1217505569,
+          "accuracyMeters": 17,
+          "timestamp": "2020-03-10T21:56:25.367Z"
+        }, {
+          "latE7": 385381813,
+          "lngE7": -1217527161,
+          "accuracyMeters": 16,
+          "timestamp": "2020-03-10T22:02:26.903Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385369301,
+        "longitudeE7": -1217546082,
+        "placeId": "ChIJiduIdAUphYARf8bZqUeZaZ8",
+        "address": "545 Bainer Hall Drive, Davis, California 95616, United States",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 73.39838,
+        "calibratedProbability": 55.788483,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-03-10T22:13:06.797Z",
+        "endTimestamp": "2020-03-11T00:00:48.567Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385367954,
+      "centerLngE7": -1217544581,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385382322,
+        "longitudeE7": -1217617125,
+        "placeId": "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+        "address": "1 Shields Ave, Davis, CA 95616, USA",
+        "name": "University of California, Davis",
+        "locationConfidence": 26.601374,
+        "calibratedProbability": 20.219114,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385383735,
+        "longitudeE7": -1217266658,
+        "placeId": "ChIJ90qlwGEphYARIZbkmdwcXKs",
+        "address": "Putah Creek, California, USA",
+        "name": "Putah Creek",
+        "locationConfidence": 1.6591833E-4,
+        "calibratedProbability": 1.2611086E-4
+      }, {
+        "latitudeE7": 385400258,
+        "longitudeE7": -1217418274,
+        "placeId": "ChIJcRFUtnIphYARCWiLwv5Y1Rg",
+        "address": "Davis, CA 95616, USA",
+        "name": "Arboretum GATEway Garden",
+        "locationConfidence": 4.377914E-5,
+        "calibratedProbability": 3.3275555E-5
+      }, {
+        "latitudeE7": 385340660,
+        "longitudeE7": -1217528552,
+        "placeId": "ChIJ9aLmbhAphYAREwni9_Pkehg",
+        "address": "La Rue Rd, Davis, CA 95616, USA",
+        "name": "Elderberry Cottage",
+        "locationConfidence": 3.898538E-5,
+        "calibratedProbability": 2.9631925E-5
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 385366193,
+        "longitudeE7": -1217541513
+      },
+      "endLocation": {
+        "latitudeE7": 385490166,
+        "longitudeE7": -1217215158
+      },
+      "duration": {
+        "startTimestamp": "2020-03-11T00:00:48.567Z",
+        "endTimestamp": "2020-03-11T00:18:40.658Z"
+      },
+      "distance": 3729,
+      "activityType": "CYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 97.06500768661499
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.3072550296783447
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.8057593367993832
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 385366363,
+          "lngE7": -1217540664
+        }, {
+          "latE7": 385365333,
+          "lngE7": -1217536468
+        }, {
+          "latE7": 385387611,
+          "lngE7": -1217488327
+        }, {
+          "latE7": 385387992,
+          "lngE7": -1217500000
+        }, {
+          "latE7": 385426712,
+          "lngE7": -1217488021
+        }, {
+          "latE7": 385461196,
+          "lngE7": -1217477340
+        }, {
+          "latE7": 385461807,
+          "lngE7": -1217475891
+        }, {
+          "latE7": 385481758,
+          "lngE7": -1217360763
+        }, {
+          "latE7": 385487442,
+          "lngE7": -1217313003
+        }, {
+          "latE7": 385482254,
+          "lngE7": -1217266540
+        }, {
+          "latE7": 385485000,
+          "lngE7": -1217221298
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJwf2vZAUphYARmQK-49_WVTg"
+        }, {
+          "placeId": "ChIJk5qjYAUphYARJyCum8iMM_E"
+        }, {
+          "placeId": "ChIJz6A_9Q8phYARkuawrR-eGh4"
+        }, {
+          "placeId": "ChIJuVKL8g8phYAROoIU_G4bAp8"
+        }, {
+          "placeId": "ChIJdRGp7Q8phYARppl4nym8hqA"
+        }, {
+          "placeId": "ChIJgz5l7A8phYARCNDuupv0bW4"
+        }, {
+          "placeId": "ChIJF3NL6g8phYARyFF99M2RcXw"
+        }, {
+          "placeId": "ChIJzxXpwQ8phYARav87bq2lAMs"
+        }, {
+          "placeId": "ChIJ6aK4wQ8phYARFPNiOcNLFXE"
+        }, {
+          "placeId": "ChIJawyNvw8phYARvUGUzGK8DrQ"
+        }, {
+          "placeId": "ChIJqwQcuQ8phYARWuKlrCbr0U4"
+        }, {
+          "placeId": "ChIJeSNEtg8phYARxeZgSvO9U60"
+        }, {
+          "placeId": "ChIJEUzItQ8phYAR2vGxdYs7zD8"
+        }, {
+          "placeId": "ChIJcQrDtA8phYARlKIWN2wpeUk"
+        }, {
+          "placeId": "ChIJHX28Rw4phYARbgnSY83wQOs"
+        }, {
+          "placeId": "ChIJk9rPQA4phYARk885BApKico"
+        }, {
+          "placeId": "ChIJiaNJQQ4phYARgz-CkxVzxgc"
+        }, {
+          "placeId": "ChIJCSuAQQ4phYARhez1OrWbiQE"
+        }, {
+          "placeId": "ChIJLZb9QQ4phYARi0Va58wr_3c"
+        }, {
+          "placeId": "ChIJyesyag4phYAR6itFF-CZgMA"
+        }, {
+          "placeId": "ChIJc74iaQ4phYAR0D2Z4QKBk-Y"
+        }, {
+          "placeId": "ChIJ6w2haA4phYAR8Lio0ETaA9g"
+        }, {
+          "placeId": "ChIJBcl3bw4phYAR_btcdxrg-GQ"
+        }, {
+          "placeId": "ChIJw_RaZQ4phYARnmflkREtqrE"
+        }, {
+          "placeId": "ChIJhe2yZQ4phYARLi2Tw_0ydfI"
+        }, {
+          "placeId": "ChIJbwLxZg4phYARwR8MkER8AhY"
+        }, {
+          "placeId": "ChIJG9T9Zg4phYARuUFFDFbayDk"
+        }, {
+          "placeId": "ChIJi5VwZw4phYARtV87rY6TTE8"
+        }, {
+          "placeId": "ChIJQ2SwXQ4phYARp8FMOqjIkJI"
+        }, {
+          "placeId": "ChIJZfZyXA4phYARlQxG8tQgNTU"
+        }, {
+          "placeId": "ChIJQWf1WA4phYARjhq2zy4Uja8"
+        }, {
+          "placeId": "ChIJ4akWww4phYAR6x2iO_jH8G4"
+        }, {
+          "placeId": "ChIJP6QIww4phYAROC_NBjUWBh8"
+        }, {
+          "placeId": "ChIJzYhyww4phYARnHocpnQSIAU"
+        }, {
+          "placeId": "ChIJYXnWoQ4phYARqXNwNmVepOg"
+        }, {
+          "placeId": "ChIJ7f95nw4phYARm6rM8HvH05w"
+        }, {
+          "placeId": "ChIJi6STnw4phYARDM1wpYmjdV4"
+        }, {
+          "placeId": "ChIJv9kkoA4phYARHGnyfbR39z0"
+        }, {
+          "placeId": "ChIJk4otoA4phYARUJSk-4ILtHw"
+        }, {
+          "placeId": "ChIJB9mAUQkphYARdy3sJRevYNY"
+        }, {
+          "placeId": "ChIJkUGjWgkphYARkGv09XXtKJk"
+        }, {
+          "placeId": "ChIJWfZSQwkphYARZk1Gr5_p1Sc"
+        }, {
+          "placeId": "ChIJS21ZaAkphYARRmqZjOtXLcU"
+        }, {
+          "placeId": "ChIJwfGg2AsphYAR9UCh7j5jEW8"
+        }, {
+          "placeId": "ChIJa0aRwwsphYAR2rY2j1k1yxk"
+        }, {
+          "placeId": "ChIJz1jFzQsphYAR-u2tdWxxQc4"
+        }, {
+          "placeId": "ChIJA0VdIgophYAR0BReAHM2eHQ"
+        }, {
+          "placeId": "ChIJ87xEAwophYARdLaAY6fDvZY"
+        }, {
+          "placeId": "ChIJt8cxBQophYARNzcaC2tua18"
+        }, {
+          "placeId": "ChIJ-79KEgophYARu1e60IxjS6s"
+        }, {
+          "placeId": "ChIJrTL6awophYARFWYoH9oa2yA"
+        }, {
+          "placeId": "ChIJSb0tZgophYARz1CO2QcqpnU"
+        }, {
+          "placeId": "ChIJve8GYQophYARlbeLoSHEqio"
+        }, {
+          "placeId": "ChIJ3RQaiwophYARoUZ6K_lohaQ"
+        }, {
+          "placeId": "ChIJnXS1kwophYARbpXWo3XlQ1I"
+        }, {
+          "placeId": "ChIJNwH-tQophYAR6QBnrAAjNqk"
+        }, {
+          "placeId": "ChIJESsvOHUphYARivAxcVdp6og"
+        }, {
+          "placeId": "ChIJVWQDpXUphYARFgrU--wn5ME"
+        }, {
+          "placeId": "ChIJvZcYpXUphYAReCF5xwy5maE"
+        }, {
+          "placeId": "ChIJD1xCunUphYAR8GNX6Xhe_ac"
+        }, {
+          "placeId": "ChIJL-vfx3UphYARts1WBSbuTP0"
+        }, {
+          "placeId": "ChIJu3T20HUphYARYxVLtqD4elg"
+        }, {
+          "placeId": "ChIJQx1ze3YphYAR1hitq3rSusA"
+        }, {
+          "placeId": "ChIJxyTQWXYphYARgbmnF1NPcCU"
+        }, {
+          "placeId": "ChIJ7x0_CXcphYAR4XMYDotGfwk"
+        }, {
+          "placeId": "ChIJARnrb3kphYARA-3-DmLeMGM"
+        }, {
+          "placeId": "ChIJO4LyZXkphYARyxq8Xsm-EOM"
+        }, {
+          "placeId": "ChIJr7cHZ3kphYARX_xIgJZl9S0"
+        }, {
+          "placeId": "ChIJUfV14HsphYARZ4lJtHVlgIQ"
+        }, {
+          "placeId": "ChIJ-Xjj6XsphYARs22f-u5uAOk"
+        }, {
+          "placeId": "ChIJF3wVlXsphYARtsGFoQx5-A8"
+        }, {
+          "placeId": "ChIJo5xXlnsphYARdesXLcSl9CA"
+        }, {
+          "placeId": "ChIJMTMqhHsphYARWWaKWXGdsns"
+        }, {
+          "placeId": "ChIJHXdlZHwphYARzitbAx5RmD4"
+        }, {
+          "placeId": "ChIJW5adXnwphYARpJQKD5wzRT0"
+        }, {
+          "placeId": "ChIJ1a6NWXwphYARXl48DmoNow8"
+        }, {
+          "placeId": "ChIJ6QBvWnwphYARVCCkGeZ0WAU"
+        }, {
+          "placeId": "ChIJpWKhWnwphYARql8JkTxUmrU"
+        }, {
+          "placeId": "ChIJs381UHwphYARMk5v-dLyzho"
+        }, {
+          "placeId": "ChIJ--kjUnwphYAR7uosAjg76sY"
+        }, {
+          "placeId": "ChIJ7TrvUnwphYAR2ok7hPiITg4"
+        }, {
+          "placeId": "ChIJ_QfrtH0phYAR-ofUb2lA3BA"
+        }],
+        "distanceMeters": 4538.274276948879,
+        "travelMode": "BICYCLE",
+        "confidence": 0.9967262379062006
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 385386772,
+          "lngE7": -1217485352,
+          "accuracyMeters": 52,
+          "timestamp": "2020-03-11T00:03:06.360Z"
+        }, {
+          "latE7": 385427170,
+          "lngE7": -1217485428,
+          "accuracyMeters": 57,
+          "timestamp": "2020-03-11T00:04:06.235Z"
+        }, {
+          "latE7": 385461235,
+          "lngE7": -1217475815,
+          "accuracyMeters": 30,
+          "timestamp": "2020-03-11T00:06:06.452Z"
+        }, {
+          "latE7": 385489159,
+          "lngE7": -1217314529,
+          "accuracyMeters": 35,
+          "timestamp": "2020-03-11T00:12:10.659Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 385512092,
+        "longitudeE7": -1217207482,
+        "placeId": "ChIJrYPCFX4phYARd0TunjVQ-Mo",
+        "address": "675 Cantrill Dr, Davis, CA 95618, USA",
+        "sourceInfo": {
+          "deviceTag": -1611867793
+        },
+        "locationConfidence": 75.76624,
+        "calibratedProbability": 63.840717
+      },
+      "duration": {
+        "startTimestamp": "2020-03-11T00:18:40.658Z",
+        "endTimestamp": "2020-05-06T21:52:51.863Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 385490584,
+      "centerLngE7": -1217215053,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 385494960,
+        "longitudeE7": -1217209880,
+        "placeId": "ChIJmRQHw30phYARr125i_BW_Sg",
+        "address": "625 Cantrill Dr, Davis, CA 95618, USA",
+        "name": "The U Apartments",
+        "locationConfidence": 23.123716,
+        "calibratedProbability": 19.484068,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 385475305,
+        "longitudeE7": -1217245681,
+        "placeId": "ChIJaxHQXHwphYARej6gpQbv2bQ",
+        "address": "2121 2nd St a104, Davis, CA 95618, USA",
+        "name": "Davis Fencing Academy",
+        "locationConfidence": 0.6865827,
+        "calibratedProbability": 0.5785153
+      }, {
+        "latitudeE7": 385484372,
+        "longitudeE7": -1217213287,
+        "placeId": "ChIJ3aiNr30phYARyxOPlPi9cz8",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "2nd Street Storage",
+        "locationConfidence": 0.11616863,
+        "calibratedProbability": 0.09788381
+      }, {
+        "latitudeE7": 385483560,
+        "longitudeE7": -1217217256,
+        "placeId": "ChIJ3aiNr30phYARup-W1ucKKg4",
+        "address": "2525 2nd St, Davis, CA 95618, USA",
+        "name": "Davisville Management Company",
+        "locationConfidence": 0.10266771,
+        "calibratedProbability": 0.086507924
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
