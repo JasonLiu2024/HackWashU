@@ -10,15 +10,19 @@ Jiayi Zhang: https://github.com/itzMeerkat
 
 # Files:
 1. CO2_Tracker (folder)
+
 (by Anton) Code for our app, written in Swift.
 We discussed ideas for our app as a team. We conducted user testing by speaking to other participants in the hackathon, which informed our user interface design.
 
 2. 2022 FE Guide for DOE-release dates before 8-2-2022-no-sales -8-1-2022public.xlsx
+
 (by Archer) This is the fuel efficiency data we used to calculate carbon footprint per trip made on a vehicle.
 
 3. HackWashU_Data.ipynb
+
 (by Jason) I imported a dataset containing CO2 emissions by vehicle type from Kaggle. I store the data in a Pandas Dataframe, so they can be extracted in our app for calculation.
 
 4. Object > CSV.ipynb
+
 (Jiayi and Jason) Jiayi designed a framework for importing data from Google Maps API as objects. Jason converted the objects into a Pandas Dataframe so the data can be accessed easily by our app.
 
