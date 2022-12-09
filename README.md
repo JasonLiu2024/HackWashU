@@ -3,9 +3,13 @@ This is our team project repository for the 2022 HackWashU coding event. Our pro
 
 # Contributors:
 Our team members are: 
+
 Archer Li: https://github.com/ArcherLi25
+
 Jason Liu: https://github.com/JasonLiu2024
+
 Anton Young: https://github.com/antonryoung02
+
 Jiayi Zhang: https://github.com/itzMeerkat
 
 # Files:
