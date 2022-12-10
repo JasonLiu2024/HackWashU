@@ -1,0 +1,6 @@
+//this file contains code needed to install all necessary dependencies for Import_Data_from_Kaggle_to_Collab.ipynb
+!pip install -q kaggle
+from google.colab import files
+import numpy as np
+import pandas as pd
+import os
