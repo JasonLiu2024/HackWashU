@@ -43,18 +43,18 @@ We discussed ideas for our app as a team. We conducted user testing by speaking 
 
 (by Jiayi and Jason) Jiayi designs a framework for importing data from Google Maps API as objects. Jason converts the objects into a Pandas Dataframe so the data can be accessed easily by our app.
 
-5. Dependency_Kaggle.txt (for Import_Data_from_Kaggle_to_Collab.ipynb)
+5. Requirements_Kaggle.txt (for Import_Data_from_Kaggle_to_Collab.ipynb)
 
 (by Jason) A list of commands to install required dependencies.
 
-6. Dependency_Google.txt (for Import_Data_from_Google_Maps_API_to_Collab.ipynb)
+6. Requirements_Google.txt (for Import_Data_from_Google_Maps_API_to_Collab.ipynb)
 
 (by Jason) A list of commands to install required dependencies.
 
 # Setup and How to Run:
 Part 1: (by Jason) Instructions to use Import_Data_from_Kaggle_to_Collab.ipynb
 
-1. run all commands in Dependency_Kaggle.txt to install required dependencies.
+1. run all commands in Requirements_Kaggle.txt to install required dependencies.
 
 2. copy the URL of your desired Kaggle dataset.
 
@@ -64,24 +64,10 @@ Alternatively, upload your dataset file using the files.upload() command, provid
 
 Part 2: (by Jason) Instruction to use Import_Data_from_Google_Maps_API_to_Collab.ipynb
 
-1. run all commands in Dependency_Google.txt to install required dependencies.
+1. run all commands in Requirements_Google.txt to install required dependencies.
 
 2. run Import_Data_from_Google_Maps_API_to_Collab.ipynb
 
 # Dependencies:
 (by Jason) (for Import_Data_from_Kaggle_to_Collab.ipynb and Import_Data_from_Google_Maps_API_to_Collab.ipynb)
-Jason's code has the following dependencies:
-
-json
-
-pandas
-
-numpy
-
-matplotlib.pyplot
-
-os
-
-files (from google.colab)
-
-kaggle
+see Requirements_Kaggle.txt and Requirements_Google.txt
