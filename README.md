@@ -1,6 +1,19 @@
 # About HackWashU2022:
 This is our team project repository for the 2022 HackWashU coding event. Our project is WalkingTrees, an app that tracks user's carbon footprint using travel data obtained using Google Map API. We completed this project in 2.5 days. Our video presentation can be found here: https://devpost.com/software/walkingtrees.
 
+# High level design:
+1. What is WalkingTrees
+
+WalkingTrees estimate and predict the amount of emissions for a user based on their choice of vehicle. It visualize these results with easy-to-understand graphs, and it features a points system that reward users for committing to a sustainable lifestyle. For example, we show the number of trees equivalent to the energy saved by the user every day. This allows us to convert data-driven ideas into _ clear, actionable _ suggestions.
+
+2. Why WalkingTrees
+
+If everyone makes small changes to how they travel, we can make an accumulated, meaningful impact on our planet's health. For instance, The transportation sector contributes to 27% of the total Greenhouse Gas Emissions in 2022. If everyone change how they make one of their daily trips, we can make a substantial positive impact on the environment. 
+
+3. How WalkingTrees works
+
+WalkingTrees gathers user travel data using Google Maps API. Based on datasets from Kaggle, it calculates how much greenhouse gases a user's travel activities make over one day, a week, or a longer period of time. This estimation factors in the model of their family car and the route they take. Emissions data is visualized through graphs, so that the user can see how their travel habits change over time in terms of greenhouse gas emissions.
+
 # Contributors:
 Our team members are: 
 
